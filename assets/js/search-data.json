@@ -2,8 +2,8 @@
     "doc": "Creating Itinerary",
     "title": "Creating Itinerary",
     "content": " ",
-    "url": "https://support.voxtour.ai/docs/planning/creating-itinerary.html",
-    "relUrl": "/docs/planning/creating-itinerary.html"
+    "url": "https://support.voxtour.ai/planning/creating-itinerary.html",
+    "relUrl": "/planning/creating-itinerary.html"
   },"1": {
     "doc": "Home",
     "title": "Home",
@@ -14,31 +14,31 @@
     "doc": "LEGAL",
     "title": "LEGAL",
     "content": "TODO content . ",
-    "url": "https://support.voxtour.ai/docs/legal/legal.html",
-    "relUrl": "/docs/legal/legal.html"
+    "url": "https://support.voxtour.ai/legal/legal.html",
+    "relUrl": "/legal/legal.html"
   },"3": {
     "doc": "PLANNING THE TOUR",
     "title": "PLANNING THE TOUR",
     "content": " ",
-    "url": "https://support.voxtour.ai/docs/planning/planning.html",
-    "relUrl": "/docs/planning/planning.html"
+    "url": "https://support.voxtour.ai/planning/planning.html",
+    "relUrl": "/planning/planning.html"
   },"4": {
     "doc": "Privacy Policy",
     "title": "Privacy Policy",
     "content": "TODO content . ",
-    "url": "https://support.voxtour.ai/docs/legal/privacy-policy.html",
-    "relUrl": "/docs/legal/privacy-policy.html"
+    "url": "https://support.voxtour.ai/legal/privacy-policy.html",
+    "relUrl": "/legal/privacy-policy.html"
   },"5": {
     "doc": "Terms of use",
     "title": "Terms of use",
     "content": "TODO content . ",
-    "url": "https://support.voxtour.ai/docs/legal/terms-of-use.html",
-    "relUrl": "/docs/legal/terms-of-use.html"
+    "url": "https://support.voxtour.ai/legal/terms-of-use.html",
+    "relUrl": "/legal/terms-of-use.html"
   },"6": {
     "doc": "TOUR",
     "title": "TOUR",
     "content": " ",
-    "url": "https://support.voxtour.ai/docs/tour/tour.html",
-    "relUrl": "/docs/tour/tour.html"
+    "url": "https://support.voxtour.ai/tour/tour.html",
+    "relUrl": "/tour/tour.html"
   }
 }
