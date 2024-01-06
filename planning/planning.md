@@ -1,7 +1,7 @@
 ---
 layout: default
-title: PLANNING THE TOUR
-description: PLANNING THE TOUR
+title: Planning the Tour
+description: Planning the Tour
 nav_order: 2
 has_children: true
 ---

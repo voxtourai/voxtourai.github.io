@@ -1,7 +1,7 @@
 ### Site metadata
 
-title: VoxTour.ai
-description: Support Pages
+title: VoxTour.ai Support
+description: VoxTour.ai Support Pages
 
 ### Build settings
 
@@ -20,5 +20,14 @@ exclude:
   - LICENSE
   - Makefile
   - README.md
+  - planning
+  - tour
 
-search_enabled: false
+search_enabled: true
+
+color_scheme: voxtourai
+logo: "/assets/images/logo.png"
+
+aux_links:
+  "Voxtour.ai":
+    - "//voxtour.ai"

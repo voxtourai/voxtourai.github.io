@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Terms of use
-parent: LEGAL
+parent: Legal
 description: Terms of use
 nav_order: 1
 ---

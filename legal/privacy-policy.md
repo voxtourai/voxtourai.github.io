@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Privacy Policy
-parent: LEGAL
+parent: Legal
 description: Privacy Policy
 nav_order: 1
 ---
