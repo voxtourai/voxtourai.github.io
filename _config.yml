@@ -29,5 +29,5 @@ color_scheme: voxtourai
 logo: "/assets/images/logo.png"
 
 aux_links:
-  "Voxtour.ai":
-    - "//voxtour.ai"
+  "Home":
+    - "//support.voxtour.ai"
