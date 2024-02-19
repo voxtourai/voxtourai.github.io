@@ -27,6 +27,8 @@ search_enabled: true
 
 color_scheme: voxtourai
 
+logo: "/assets/images/logo.png"
+
 aux_links:
   "Voxtour.ai":
     - "//voxtour.ai"
