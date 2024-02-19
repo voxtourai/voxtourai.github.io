@@ -6,7 +6,7 @@ description: VoxTour.ai Support Pages
 ### Build settings
 
 url: https://support.voxtour.ai
-baseurl:
+baseurl: ""
 
 theme: just-the-docs
 
@@ -26,7 +26,6 @@ exclude:
 search_enabled: true
 
 color_scheme: voxtourai
-logo: "/assets/images/logo.png"
 
 aux_links:
   "Voxtour.ai":
