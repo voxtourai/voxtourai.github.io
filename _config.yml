@@ -5,8 +5,8 @@ description: VoxTour.ai Support Pages
 
 ### Build settings
 
-url: https://support.voxtour.ai
-baseurl:
+url: https://voxtour.ai
+baseurl: https://support.voxtour.ai
 
 theme: just-the-docs
 
