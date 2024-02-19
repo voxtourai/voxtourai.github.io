@@ -28,6 +28,6 @@ search_enabled: true
 color_scheme: voxtourai
 logo: "/assets/images/logo.png"
 
-aux_links:
-  "Home":
-    - "//support.voxtour.ai"
+#aux_links:
+#  "Home":
+#    - "//support.voxtour.ai"
