@@ -1,9 +1,12 @@
 ---
-layout: default
+layout: post
 title: 5 Ways to Experience VoxTour.ai
 parent: Blog
-description: 5 Ways to Experience VoxTour.ai
+description: Explore the world with VoxTour through VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+. Choose the perfect way to travel!
 nav_order: 1
+author: Michael Lifshits
+date: 2025-01-20
+tags: [VoxTour.ai, Self-Guided Tour, Audio-Guide, Travel, Customization, Exploration]
 ---
 
 <img src="/assets/images/ways-to-experience-voxtour.webp" alt="VoxTour Experience" style="width:100%; height:auto;">
