@@ -6,7 +6,6 @@ description: Explore the world with VoxTour through VoxRoute, VoxExplore, VoxLen
 nav_order: 1
 author: Michael Lifshits
 date: 2024-03-21
-tags: [VoxTour.ai, Self-Guided Tour, Audio-Guide, Travel, Customization, Exploration]
 header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
 
