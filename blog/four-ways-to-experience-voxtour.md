@@ -6,6 +6,8 @@ description: 4 Ways to Experience VoxTour.ai
 nav_order: 1
 ---
 
+<img src="/assets/images/four-ways-to-experience-voxtour.webp" alt="VoxTour Experience" style="width:100%; height:auto;">
+
 # 4 Ways to Experience VoxTour.ai: VoxRoute, VoxExplore, VoxLens, and VoxRoute+
 
 VoxTour.ai gives you four exciting ways to explore the world, making every journey fun, flexible, and personal. Whether you want a guided experience, the freedom to wander, immersive storytelling, or full customization, VoxTour has something for everyone. And the best part? **VoxRoute** and **VoxExplore** are completely free!
