@@ -1,0 +1,46 @@
+---
+layout: post
+---
+
+{% if page.header_image %}
+<div class="post-header">
+    <img src="{{ page.header_image }}" alt="{{ page.title }}" class="header-image">
+</div>
+{% endif %}
+
+{% if page.title and page.title != '' %}
+<h1>{{ page.title }}</h1>
+{% endif %}
+
+{% if page.description and page.description != '' %}
+<p class="fs-6 fw-300">
+    {{ page.description }}
+</p>
+{% endif %}
+
+{% if page.author or page.date %}
+<div class="post-meta">
+    {% if page.author %}
+    <p>By <span class="author">{{ page.author }}</span></p>
+    {% endif %}
+    {% if page.date %}
+    <p>Published on <span class="date">{{ page.date | date: "%B %d, %Y" }}</span></p>
+    {% endif %}
+</div>
+{% endif %}
+
+<hr>
+
+<div class="post-content">
+    {{ content }}
+</div>
+
+{% if page.tags %}
+<div class="post-tags">
+    <p><strong>Tags:</strong>
+        {% for tag in page.tags %}
+        <a href="/tags/{{ tag | slugify }}/" class="tag">{{ tag }}</a>
+        {% endfor %}
+    </p>
+</div>
+{% endif %}

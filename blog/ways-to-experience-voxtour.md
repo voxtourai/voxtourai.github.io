@@ -7,9 +7,8 @@ nav_order: 1
 author: Michael Lifshits
 date: 2025-01-20
 tags: [VoxTour.ai, Self-Guided Tour, Audio-Guide, Travel, Customization, Exploration]
+header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
-
-<img src="/assets/images/ways-to-experience-voxtour.webp" alt="VoxTour Experience" style="width:100%; height:auto;">
 
 # 5 Ways to Experience VoxTour: VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+
 
