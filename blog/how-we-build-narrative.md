@@ -6,7 +6,7 @@ description: Learn how we craft engaging narratives for VoxExplore and VoxRoute 
 nav_order: 999
 author: Michael Lifshits
 date: 2024-05-03
-header_image: /assets/images/ways-to-experience-voxtour.webp
+header_image: /assets/images/how-we-build-narrative.webp
 ---
 # How We Build Narratives at VoxTour
 
