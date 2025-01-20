@@ -19,17 +19,28 @@ layout: default
     <ul>
         {% for post in site.posts %}
         <li>
-            <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
-            <p>
-                {% if post.date %}
-                Published on <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+            <div class="post-item">
+                {% if post.header_image %}
+                <div class="post-image">
+                    <a href="{{ post.url }}">
+                        <img src="{{ post.header_image }}" alt="{{ post.title }}" class="header-image">
+                    </a>
+                </div>
                 {% endif %}
-                {% if post.author %}
-                by <span class="author">{{ post.author }}</span>
-                {% endif %}
-            </p>
-            <p>{{ post.excerpt | strip_html }}</p>
-            <a href="{{ post.url }}" class="read-more">Read more</a>
+                <div class="post-details">
+                    <h3><a href="{{ post.url }}">{{ post.title }}</a></h3>
+                    <p>
+                        {% if post.date %}
+                        Published on <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
+                        {% endif %}
+                        {% if post.author %}
+                        by <span class="author">{{ post.author }}</span>
+                        {% endif %}
+                    </p>
+                    <p>{{ post.excerpt | strip_html }}</p>
+                    <a href="{{ post.url }}" class="read-more">Read more</a>
+                </div>
+            </div>
         </li>
         {% endfor %}
     </ul>
