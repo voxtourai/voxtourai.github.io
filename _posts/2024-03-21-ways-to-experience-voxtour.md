@@ -2,14 +2,14 @@
 layout: post
 title: 5 Ways to Experience VoxTour.ai
 parent: Blog
-excerpt: Explore the world with VoxTour through VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+. Choose the perfect way to travel!
+excerpt: Explore the world with VoxTour.ai through VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+. Choose the perfect way to travel!
 nav_order: 1000
 author: Michael Lifshits
 date: 2024-03-21
 header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
 
-# 5 Ways to Experience VoxTour: VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+
+# 5 Ways to Experience VoxTour.ai: VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+
 
 VoxTour offers five exciting ways to explore the world, making every journey fun, flexible, and personal. Whether you prefer guided routes, free exploration, immersive storytelling, or advanced customization, VoxTour has something for everyone. With both free and premium options, you can choose how deeply you want to dive into your adventure.
 
