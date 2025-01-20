@@ -5,7 +5,7 @@ parent: Blog
 description: Explore the world with VoxTour through VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+. Choose the perfect way to travel!
 nav_order: 1
 author: Michael Lifshits
-date: 2025-01-20
+date: 2024-03-21
 tags: [VoxTour.ai, Self-Guided Tour, Audio-Guide, Travel, Customization, Exploration]
 header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
