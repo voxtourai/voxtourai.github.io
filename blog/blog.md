@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: blog
 title: Blog
 description: Blog
 nav_order: 5
