@@ -5,7 +5,7 @@ parent: Blog
 excerpt: Learn how VoxTour.ai works with local guides to validate POIs, create routes, and ensure high-quality content while providing recognition and opportunities for guides.
 author: Michael Lifshits
 date: 2024-07-22
-header_image: /assets/images/how-we-build-narrative.webp
+header_image: /assets/images/collaboration-with-local-guides.webp
 ---
 # VoxTour’s Collaboration with Local Guides
 
