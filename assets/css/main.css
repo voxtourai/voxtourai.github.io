@@ -3,4 +3,15 @@
   margin: 0 auto;
 }
 
+.post-header {
+  margin-bottom: 20px;
+}
+
+.post-header .header-image {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 /*# sourceMappingURL=main.css.map */

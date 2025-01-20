@@ -1,1 +1,1 @@
-{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA;EACE;EACA","sourcesContent":[".content {\n  width: 45rem;\n  margin: 0 auto;\n}"],"file":"main.css"}
+{"version":3,"sourceRoot":"","sources":["main.scss"],"names":[],"mappings":"AAAA;EACE;EACA;;;AAGF;EACI;;;AAGJ;EACI;EACA;EACA;EACA","sourcesContent":[".content {\n  width: 45rem;\n  margin: 0 auto;\n}\n\n.post-header {\n    margin-bottom: 20px;\n}\n\n.post-header .header-image {\n    width: 100%;\n    height: auto;\n    border-radius: 8px;\n    object-fit: cover;\n}"],"file":"main.css"}
