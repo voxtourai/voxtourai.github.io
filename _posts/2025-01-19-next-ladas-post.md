@@ -4,7 +4,7 @@ title: Lada's post1
 parent: Blog
 excerpt: Lada's post1
 author: Lada
-date: 2024-03-21
+date: 2025-01-19
 header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
 
