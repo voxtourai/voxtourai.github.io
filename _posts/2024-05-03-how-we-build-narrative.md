@@ -3,7 +3,6 @@ layout: post
 title: How We Build Narratives at VoxTour.ai
 parent: Blog
 excerpt: Learn how we craft engaging narratives for VoxExplore and VoxRoute using smart prompts, trusted sources, and storyline planning.
-nav_order: 999
 author: Michael Lifshits
 date: 2024-05-03
 header_image: /assets/images/how-we-build-narrative.webp
