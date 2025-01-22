@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AI vs. Human Guides: What’s the Future of Travel Experiences?
+title: "AI vs. Human Guides: What’s the Future of Travel Experiences?"
 excerpt: The travel industry is experiencing a technological revolution
 author: Lada Vasina
 parent: Blog
