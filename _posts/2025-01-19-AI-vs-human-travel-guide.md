@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lada's post1
-parent: Blog
 excerpt: Lada's post1
 author: Lada
 date: 2025-01-19
@@ -9,9 +8,9 @@ header_image: /assets/images/ways-to-experience-voxtour.webp
 ---
 
 ---
-title: "AI vs. Human Guides: What’s the Future of Travel Experiences?"
+title: AI vs. Human Guides: What’s the Future of Travel Experiences?
 date: 2025-01-21
-author: "Lada Vasina"
+author: Lada Vasina
 layout: post
 categories: [Travel, AI, Technology]
 ---
