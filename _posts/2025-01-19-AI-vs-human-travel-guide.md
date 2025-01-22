@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "AI vs. Human Guides: What’s the Future of Travel Experiences?"
-excerpt: The travel industry is experiencing a technological revolution
+excerpt: The travel industry is experiencing a technological revolution, with artificial intelligence (AI) emerging as a transformative force. But how does AI stack up against traditional human guides? Let’s explore the unique advantages and limitations of both to see what the future holds for travel experiences.
 author: Lada Vasina
 parent: Blog
 date: 2025-01-19
