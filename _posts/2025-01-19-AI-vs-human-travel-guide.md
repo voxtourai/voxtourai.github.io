@@ -5,7 +5,7 @@ excerpt: The travel industry is experiencing a technological revolution, with ar
 author: Lada Vasina
 parent: Blog
 date: 2025-01-19
-header_image: /assets/images/AI-vs-human-tour-guide.jpg
+header_image: /assets/images/ai-vs-human-what-you-prefer.jpg
 ---
 
 ### AI vs. Human Guides: What’s the Future of Travel Experiences?
