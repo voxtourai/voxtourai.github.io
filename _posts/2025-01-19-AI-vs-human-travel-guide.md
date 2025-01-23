@@ -14,7 +14,7 @@ The travel industry is experiencing a technological revolution, with artificial 
 
 #### The Case for AI Guides
 
-AI-powered travel guides, like those created by **VoxTour.ai(https://voxtour.ai)**, offer several advantages:
+AI-powered travel guides, like those created by **[VoxTour.ai](https://voxtour.ai)**, offer several advantages:
 
 1. **24/7 Accessibility:** AI guides are always available, allowing travelers to explore at their own pace without being bound by schedules.
 2. **Cost-Effectiveness:** They provide an affordable alternative to hiring private guides, making personalized travel more accessible.
