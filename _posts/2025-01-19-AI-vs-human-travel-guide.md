@@ -24,7 +24,7 @@ AI-powered travel guides, like those created by **[VoxTour.ai](https://voxtour.a
 
 For example, an AI-designed tour such as **Dinan Heritage Tour: A Medieval Marvel in Time** demonstrates how technology brings destinations to life.
 
-[![Dinan Heritage Tour: A Medieval Marvel in Time](/assets/images/tour-dinan.jpg)](https://voxtour.ai/itinerary?itineraryId=8d1a5ca1-49f5-4c4f-8f0e-aebf389f9418)
+[![Dinan Heritage Tour: A Medieval Marvel in Time](/assets/images/tour-dinan.JPG)](https://voxtour.ai/itinerary?itineraryId=8d1a5ca1-49f5-4c4f-8f0e-aebf389f9418)
 
 Unlike traditional guides, these tools offer flexibility and personalization, shaping the future of travel exploration.
 
