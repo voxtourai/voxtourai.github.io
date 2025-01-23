@@ -22,6 +22,12 @@ AI-powered travel guides, like those created by **[VoxTour.ai](https://voxtour.a
 4. **Global Reach:** With access to vast data sets, AI can offer insights into even the most obscure destinations.
 5. **Multilingual Support:** Breaking language barriers, AI can provide tours in multiple languages with seamless transitions.
 
+For example, an AI-designed tour such as **Dinan Heritage Tour: A Medieval Marvel in Time** demonstrates how technology brings destinations to life.
+
+[![Dinan Heritage Tour: A Medieval Marvel in Time](/assets/images/tour-dinan.jpg)](https://voxtour.ai/itinerary?itineraryId=8d1a5ca1-49f5-4c4f-8f0e-aebf389f9418)
+
+Unlike traditional guides, these tools offer flexibility and personalization, shaping the future of travel exploration.
+
 #### The Human Touch
 
 Despite the growing sophistication of AI, human guides bring irreplaceable qualities to the table:
