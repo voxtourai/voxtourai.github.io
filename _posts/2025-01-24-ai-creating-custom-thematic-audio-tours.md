@@ -58,7 +58,7 @@ For art lovers, a thematic audio tour dedicated to Michelangelo’s life and wor
 5. **Santa Croce:**
    Pay homage at Michelangelo’s tomb, adorned with sculptures representing Painting, Sculpture, and Architecture.
 
-This tour goes beyond Florence’s main attractions, delving into the Renaissance master’s profound impact on the city. You can find a thematic tour dedicated to Michelangelo in Florence, created by **[VoxTour.ai](https://voxtour.ai)**,  by clicking on **[the link](hhttps://voxtour.ai/itinerary?itineraryId=296679af-7991-4565-823f-a2574f405351)**. 
+This tour goes beyond Florence’s main attractions, delving into the Renaissance master’s profound impact on the city. You can find a thematic tour dedicated to Michelangelo in Florence, created by **[VoxTour.ai](https://voxtour.ai)**,  by clicking on **[the link](https://voxtour.ai/itinerary?itineraryId=296679af-7991-4565-823f-a2574f405351)**. 
 
 #### Other Examples of Thematic Tours
 
