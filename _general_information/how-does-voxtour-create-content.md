@@ -1,5 +1,5 @@
 ---
-help_center: default
+layout: help_center
 title: "How does VoxTour.ai create content for its tours?"
 ---
 
