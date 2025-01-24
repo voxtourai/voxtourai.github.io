@@ -2,6 +2,7 @@
 layout: help_center
 title: "How can I get started with VoxTour.ai?"
 parent_url: "https://support.voxtour.ai/help_center/general-information.html"
+order: 2
 ---
 
 **Q:** How can I get started with VoxTour.ai?
