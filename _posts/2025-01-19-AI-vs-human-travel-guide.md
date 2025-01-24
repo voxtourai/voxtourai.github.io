@@ -39,7 +39,7 @@ Despite the growing sophistication of AI, human guides bring irreplaceable quali
 
 #### Can AI and Human Guides Coexist?
 
-![Can AI and Human Guides Coexist?](/assets/images/ai-vs-human-colaborate.jpg)]
+![Can AI and Human Guides Coexist?](/assets/images/ai-vs-human-colaborate.jpg)
 
 
 Rather than replacing human guides, AI can complement them by:
