@@ -7,3 +7,12 @@ nav_order: 1
 ---
 
 # General Information
+
+## What is VoxTour?
+
+VoxTour is a platform that lets you explore guided tours crafted by AI with thoughtful input from experts. Whether you're a traveler or simply curious, VoxTour makes it easy to discover new places and learn about them. You can access tours anytime, from anywhere, as long as you're online.
+
+## What devices and platforms are supported?
+
+VoxTour works on any device with an internet connection and a modern web browser, like Google Chrome, Safari, or Microsoft Edge. You don’t need to download anything—just open your browser and start exploring!
+
