@@ -5,5 +5,11 @@ layout: default
 {{ content }}
 
 <nav>
+    {% if page.parent %}
+    <a href="{{ page.parent }}">
+        <button>Back</button>
+    </a>
+    {% else %}
     <button onclick="history.back()">Back</button>
+    {% endif %}
 </nav>
