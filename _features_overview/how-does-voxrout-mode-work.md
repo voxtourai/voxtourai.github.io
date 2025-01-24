@@ -27,7 +27,7 @@ To begin:
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
-5. **Visit Points of Interest and listen Audio-Guide:** Select a tour from the list to begin your guided experience. The app will provide turn-by-turn directions and informative content at each point of interest.
+5. **Visit Points of Interest and listen for an Audio-Guide:** 
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
