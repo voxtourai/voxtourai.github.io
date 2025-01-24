@@ -27,7 +27,7 @@ To begin:
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
-5. **Audio Guide Page:** This page features an audio narration and its exact text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls and navigation between Points of Interest.
+5. **Audio Guide Page:** This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
