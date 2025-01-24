@@ -32,3 +32,23 @@ logo: "/assets/images/logo.png"
 aux_links:
   "Voxtour.ai":
     - "//voxtour.ai"
+
+collections:
+  general_information:
+    output: true
+    permalink: /help-center/general-information/:title/
+  features_overview:
+    output: true
+    permalink: /help-center/features-overview/:title/
+  account_management:
+    output: true
+    permalink: /help-center/account-management/:title/
+  settings:
+    output: true
+    permalink: /help-center/settings/:title/
+  tour_usage:
+    output: true
+    permalink: /help-center/tour-usage/:title/
+  troubleshooting:
+    output: true
+    permalink: /help-center/troubleshooting/:title/
