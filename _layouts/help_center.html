@@ -1,20 +1,21 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
-</head>
-<body>
-<main>
-    <article>
-        <h1>{{ page.title }}</h1>
-        {{ content }}
-    </article>
-    <nav>
-        <button onclick="history.back()">Back</button>
-    </nav>
-</main>
-</body>
-</html>
+---
+layout: default
+---
+
+{% if page.title and page.title != '' %}
+<h1>{{ page.title }}</h1>
+{% endif %}
+
+{% if page.description and page.description != '' %}
+<p class="fs-6 fw-300">
+    {{ page.description }}
+</p>
+{% endif %}
+
+<hr>
+
+{{ content }}
+
+<nav>
+    <button onclick="history.back()">Back</button>
+</nav>
