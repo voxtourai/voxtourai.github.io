@@ -6,4 +6,4 @@ description: Settings
 nav_order: 4
 ---
 
-# Account Management
+# Settings
