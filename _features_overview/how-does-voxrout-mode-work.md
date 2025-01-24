@@ -23,11 +23,11 @@ To begin:
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
-4. **Start Tour:** This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio-Guide for each location by selecting it from the list or directly on the map.
+4. **Start Tour:** This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio Guide for each location by selecting it from the list or directly on the map.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
-5. **Visit Points of Interest and listen for an Audio-Guide:** 
+5. **Audio Guide Page:** This page features an audio narration and its exact text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls and navigation between Points of Interest.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
