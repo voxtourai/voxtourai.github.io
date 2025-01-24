@@ -2,6 +2,7 @@
 layout: help_center
 title: "How does VoxTour.ai create content for its tours?"
 parent_url: "https://support.voxtour.ai/help_center/general-information.html"
+order: 5
 ---
 
 **Q:** How does VoxTour.ai create content for its tours?

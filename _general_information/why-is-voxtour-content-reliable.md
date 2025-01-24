@@ -2,6 +2,7 @@
 layout: help_center
 title: "Why is VoxTour.ai content reliable?"
 parent_url: "https://support.voxtour.ai/help_center/general-information.html"
+order: 6
 ---
 
 **Q:** Why is VoxTour.ai content reliable?

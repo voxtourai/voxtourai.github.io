@@ -2,6 +2,7 @@
 layout: help_center
 title: "How does the text-to-speech technology work in VoxTour.ai?"
 parent_url: "https://support.voxtour.ai/help_center/general-information.html"
+order: 7
 ---
 
 **Q:** How does the text-to-speech technology work in VoxTour.ai?
