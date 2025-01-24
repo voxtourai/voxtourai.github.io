@@ -25,21 +25,21 @@
   },"4": {
     "doc": "General Information",
     "title": "General Information",
-    "content": ". | Do I need an internet connection to use VoxTour.ai? . | What devices and platforms are supported? . | What is VoxTour.ai? . | . ",
+    "content": ". | How does the text-to-speech technology work in VoxTour.ai? . | How does VoxTour.ai create content for its tours? . | How does VoxTour.ai create content for its tours? . | Do I need an internet connection to use VoxTour.ai? . | What devices and platforms are supported? . | What is VoxTour.ai? . | Why is VoxTour.ai content reliable? . | . ",
     "url": "https://support.voxtour.ai/help_center/general-information.html",
     "relUrl": "/help_center/general-information.html"
   },"5": {
     "doc": "Help Center",
     "title": "HELP CENTER",
     "content": " ",
-    "url": "https://support.voxtour.ai/help_center/helpcenter.html#help-center",
-    "relUrl": "/help_center/helpcenter.html#help-center"
+    "url": "https://support.voxtour.ai/help_center/help_center.html#help-center",
+    "relUrl": "/help_center/help_center.html#help-center"
   },"6": {
     "doc": "Help Center",
     "title": "Help Center",
     "content": " ",
-    "url": "https://support.voxtour.ai/help_center/helpcenter.html",
-    "relUrl": "/help_center/helpcenter.html"
+    "url": "https://support.voxtour.ai/help_center/help_center.html",
+    "relUrl": "/help_center/help_center.html"
   },"7": {
     "doc": "About",
     "title": "About",
