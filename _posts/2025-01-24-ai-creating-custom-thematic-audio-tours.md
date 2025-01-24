@@ -32,7 +32,6 @@ Here’s a comparison of custom thematic tours and standard tours:
 - **Structure:** Flexible and customizable, allowing travelers to prioritize their interests.
 - **Experience:** Provides a deeper, more personal connection to the destination.
 
-###
 
 For example, if you choose a standard tour in Florence, you’re likely to visit key landmarks such as the Piazza del Duomo, the Uffizi Gallery, the Ponte Vecchio, and Santa Croce. These tours provide fascinating insights into the city’s history and highlight its architectural and artistic significance. However, in a thematic tour, you might visit some of the same places, but the narrative would shift to align with your chosen theme. In the case of Michelangelo, the story at each site would delve into his life and art—such as his contributions to Santa Croce, his sculptures at the Medici Chapels, or his architectural genius at the Laurentian Library—offering a focused perspective on his influence in Florence.
 
@@ -59,7 +58,7 @@ For art lovers, a thematic audio tour dedicated to Michelangelo’s life and wor
 5. **Santa Croce:**
    Pay homage at Michelangelo’s tomb, adorned with sculptures representing Painting, Sculpture, and Architecture.
 
-This tour goes beyond Florence’s main attractions, delving into the Renaissance master’s profound impact on the city.
+This tour goes beyond Florence’s main attractions, delving into the Renaissance master’s profound impact on the city. You can find a thematic tour dedicated to Michelangelo in Florence, created by **[VoxTour.ai](https://voxtour.ai)**, **[here](hhttps://voxtour.ai/itinerary?itineraryId=296679af-7991-4565-823f-a2574f405351)**. 
 
 #### Other Examples of Thematic Tours
 
