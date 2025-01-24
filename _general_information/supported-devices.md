@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: help_center
 title: "What devices and platforms are supported?"
 ---
 

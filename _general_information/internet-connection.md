@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: help_center
 title: "Do I need an internet connection to use VoxTour.ai?"
 ---
 

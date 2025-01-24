@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: help_center
 title: "How does the text-to-speech technology work in VoxTour.ai?"
 ---
 

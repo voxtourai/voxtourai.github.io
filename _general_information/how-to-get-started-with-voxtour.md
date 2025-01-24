@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: help_center
 title: "How can I get started with VoxTour.ai?"
 ---
 
