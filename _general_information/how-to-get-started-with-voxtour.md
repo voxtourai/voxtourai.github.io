@@ -17,10 +17,10 @@ order: 2
 
 Once you've selected a tour, you can choose from three unique modes to enhance your exploration:
 
-- **VoiceRout:** Follow a structured path through your chosen destination, ensuring you visit all key points of interest along a predefined route.
+- **VoxRout:** Follow a structured path through your chosen destination, ensuring you visit all key points of interest along a predefined route.
 
-- **VoiceExplore:** Wander freely and receive information about nearby attractions as you move, allowing for spontaneous discoveries at your own pace.
+- **VoxExplore:** Wander freely and receive information about nearby attractions as you move, allowing for spontaneous discoveries at your own pace.
 
-- **VoiceLense:** Point your device at specific landmarks or sites to receive detailed narratives, enriching your understanding of each location.
+- **VoxLens:** Point your device at specific landmarks or sites to receive detailed narratives, enriching your understanding of each location.
 
 Each mode is designed to cater to different exploration styles, providing a personalized and immersive experience tailored to your preferences.
