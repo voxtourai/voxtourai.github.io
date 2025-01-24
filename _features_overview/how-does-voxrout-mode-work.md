@@ -19,15 +19,15 @@ To begin:
 
    ![Available Tours]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
-3. **Review Tour:** The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest. On the laptop, this information is presented alongside a detailed map. On mobile, the same details are displayed in a scrollable format for easy access.
+3. **Review Tour:** The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
-4. **Start Tour:** Select a tour from the list to begin your guided experience. The app will provide turn-by-turn directions and informative content at each point of interest.
+4. **Start Tour:** This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio-Guide for each location by selecting it from the list or directly on the map.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
-5. **Visit Stops and listen Audio-Guide:** Select a tour from the list to begin your guided experience. The app will provide turn-by-turn directions and informative content at each point of interest.
+5. **Visit Points of Interest and listen Audio-Guide:** Select a tour from the list to begin your guided experience. The app will provide turn-by-turn directions and informative content at each point of interest.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
