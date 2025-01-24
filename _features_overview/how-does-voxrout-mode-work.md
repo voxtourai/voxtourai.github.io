@@ -15,11 +15,11 @@ To begin:
 
    ![Selecting a Destination]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
 
-2. **View Available Tours:** Once your destination is selected, the map screen will display the area. On the right side of the map, you'll find a list of available tours for the currently displayed area.
+2. **View Available Tours:** Once your destination is selected, the map screen will display the area. On the laptop, the list of available tours for the displayed area will appear on the right side of the map. On mobile, this list is shown at the bottom of the screen. Select a tour from the list to begin your guided experience.
 
    ![Available Tours]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
-3. **Review Tour:** Select a tour from the list to begin your guided experience. The app will provide turn-by-turn directions and informative content at each point of interest.
+3. **Review Tour:** The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest. On the laptop, this information is presented alongside a detailed map. On mobile, the same details are displayed in a scrollable format for easy access.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
