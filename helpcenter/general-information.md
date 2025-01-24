@@ -33,3 +33,18 @@ VoxTour uses a method called Retrieval-Augmented Generation (RAG) to ensure the 
 
 This means our tours are not just created from "thin air" but are based on real, validated sources. You can trust VoxTour to provide engaging and factually correct content without random guesses or "hallucinations."
 
+## How does the text-to-speech technology work in VoxTour.ai?
+
+VoxTour.ai employs advanced text-to-speech technology to enhance the auditory dimension of your journey. The system converts written content into natural-sounding speech, providing an immersive experience for users as they explore their surroundings.
+
+## How can I get started with VoxTour.ai?
+
+To begin your VoxTour.ai adventure, simply visit our website, sign up for an account, and browse through the available tours. Select a destination that piques your interest and embark on a self-guided GPS tour like never before.
+
+VoxTour offers three unique modes to enhance your exploration:
+
+1. **VoiceRout**: This mode provides a structured path through your chosen destination, guiding you along a predefined route to ensure you don't miss any key points of interest.
+
+2. **VoiceExplore**: For the more adventurous, VoiceExplore allows you to wander freely. As you move, the app delivers information about nearby attractions, letting you discover hidden gems at your own pace.
+
+3. **VoiceLense**: This feature offers in-depth insights into specific landmarks or sites. Simply point your device at a point of interest, and VoiceLense will provide detailed narratives, enriching your understanding of the location.
