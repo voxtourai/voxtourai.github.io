@@ -1,7 +1,7 @@
 ---
 layout: help_center
 title: "Do I need an internet connection to use VoxTour.ai?"
-parent: "https://support.voxtour.ai/help_center/general-information.html"
+parent_url: "https://support.voxtour.ai/help_center/general-information.html"
 ---
 
 **Q:** Do I need an internet connection to use VoxTour.ai?

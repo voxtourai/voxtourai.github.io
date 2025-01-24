@@ -1,7 +1,7 @@
 ---
 layout: help_center
 title: "What is VoxTour.ai?"
-parent: "https://support.voxtour.ai/help_center/general-information.html"
+parent_url: "https://support.voxtour.ai/help_center/general-information.html"
 ---
 
 **Q:** What is VoxTour.ai?

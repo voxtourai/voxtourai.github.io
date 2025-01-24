@@ -1,7 +1,7 @@
 ---
 layout: help_center
 title: "What devices and platforms are supported?"
-parent: "https://support.voxtour.ai/help_center/general-information.html"
+parent_url: "https://support.voxtour.ai/help_center/general-information.html"
 ---
 
 **Q:** What devices and platforms are supported?

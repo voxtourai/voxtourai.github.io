@@ -5,8 +5,8 @@ layout: default
 {{ content }}
 
 <nav>
-    {% if page.parent %}
-    <a href="{{ page.parent }}">
+    {% if page.parent_url %}
+    <a href="{{ page.parent_url }}">
         <button>Back</button>
     </a>
     {% else %}
