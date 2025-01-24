@@ -6,7 +6,6 @@ author: Lada Vasina
 parent: Blog
 date: 2025-01-19
 header_image: /assets/images/ai-vs-human-what-you-prefer.jpg
-tags: ["AI", "Guides", "zoos"]
 ---
 
 ### AI vs. Human Guides: What’s the Future of Travel Experiences?
