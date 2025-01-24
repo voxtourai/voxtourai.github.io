@@ -1,8 +1,8 @@
 ---
 layout: default
-title: "What is VoxTour?"
+title: "What is VoxTour.ai?"
 ---
 
-**Q:** What is VoxTour?
+**Q:** What is VoxTour.ai?
 
-**A:** VoxTour is a platform that lets you explore guided tours crafted by AI with thoughtful input from experts. Whether you're a traveler or simply curious, VoxTour makes it easy to discover new places and learn about them. You can access tours anytime, from anywhere, as long as you're online.
+**A:** VoxTour.ai is a platform that lets you explore guided tours crafted by AI with thoughtful input from experts. Whether you're a traveler or simply curious, VoxTour makes it easy to discover new places and learn about them. You can access tours anytime, from anywhere, as long as you're online.
