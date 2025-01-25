@@ -3,6 +3,7 @@ layout: help_center
 title: "What is VoxTour.ai?"
 parent_url: "https://support.voxtour.ai/help_center/general-information.html"
 order: 1
+renderFile: "./general_information/what-is-voxtour.md"
 ---
 
 **Q:** What is VoxTour.ai?
