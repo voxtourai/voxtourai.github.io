@@ -11,9 +11,10 @@ nav_order: 1
 {% assign sorted_items = site.general_information | sort: 'order' %}
 {% for item in sorted_items %}
 
-{% if item.renderFile %}
-{{item.content}}
-{% endif %}
+<details>
+    <summary>{{ item.title }}</summary>
+    {{item.content}}
+    [Link To sepatrate page]({{ item.url }})
+</details>
 
-- [{{ item.title }}]({{ item.url }})
   {% endfor %}
