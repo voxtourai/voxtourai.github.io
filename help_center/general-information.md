@@ -14,7 +14,7 @@ nav_order: 1
 <details>
     <summary><span class="accordion-title">{{ item.title }}</span></summary>
     {{item.content}}
-    <a href="{{ item.url }}"><i>Share</i>></a>
+    <a href="{{ item.url }}" class="share-link">Share</a>
 </details>
 
 {% endfor %}
