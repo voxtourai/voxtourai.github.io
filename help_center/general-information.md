@@ -11,10 +11,10 @@ nav_order: 1
 {% assign sorted_items = site.general_information | sort: 'order' %}
 {% for item in sorted_items %}
 
-<details>
-    <summary>{{ item.title }}</summary>
-    {{item.content}}
-    <a href="{{ item.url }}">Link to sepatrate page</a>
-</details>
+    <details>
+        <summary>{{ item.title }}</summary>
+        {{item.content}}
+        <a href="{{ item.url }}">Share</a>
+    </details>
 
 {% endfor %}
