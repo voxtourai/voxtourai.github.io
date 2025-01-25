@@ -14,7 +14,7 @@ nav_order: 1
 <details>
     <summary><b>{{ item.title }}</b></summary>
     {{item.content}}
-    <a href="{{ item.url }}">Share</a>
+    <a href="{{ item.url }} target="_blank">Share</a>
 </details>
 
 {% endfor %}
