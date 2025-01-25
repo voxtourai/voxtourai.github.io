@@ -13,7 +13,7 @@ nav_order: 1
 
 <details>
     <summary><span style="line-height: 2.4; color: #34aeeb; font-weight: bold;">{{ item.title }}</span></summary>
-    <a href="{{ item.url }}" target="_blank">[Share]</a>
+    <a href="{{ item.url }}">[Share]</a>
     {{item.content}}
 </details>
 
