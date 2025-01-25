@@ -25,7 +25,7 @@
   },"4": {
     "doc": "General Information",
     "title": "General Information",
-    "content": ". layout: help_center title: “What is VoxTour.ai?” parent_url: “https://support.voxtour.ai/help_center/general-information.html” order: 1 renderFile: “./general_information/what-is-voxtour.md” — . Q: What is VoxTour.ai? . A: VoxTour.ai is a platform that lets you explore guided tours crafted by AI with thoughtful input from experts. Whether you’re a traveler or simply curious, VoxTour makes it easy to discover new places and learn about them. You can access tours anytime, from anywhere, as long as you’re online. | What is VoxTour.ai? . | How can I get started with VoxTour.ai? . | What devices and platforms are supported? . | Do I need an internet connection to use VoxTour.ai? . | How does VoxTour.ai create content for its tours? . | Why is VoxTour.ai content reliable? . | How does the text-to-speech technology work in VoxTour.ai? . | . ",
+    "content": ". | What is VoxTour.ai? . | How can I get started with VoxTour.ai? . | What devices and platforms are supported? . | Do I need an internet connection to use VoxTour.ai? . | How does VoxTour.ai create content for its tours? . | Why is VoxTour.ai content reliable? . | How does the text-to-speech technology work in VoxTour.ai? . | . ",
     "url": "https://support.voxtour.ai/help_center/general-information.html",
     "relUrl": "/help_center/general-information.html"
   },"5": {
