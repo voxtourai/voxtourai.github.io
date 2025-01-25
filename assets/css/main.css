@@ -32,4 +32,10 @@ button:hover {
   background-color: #0056b3;
 }
 
+.accordion-title {
+  color: #34aeeb;
+  line-height: 1.4;
+  font-weight: bold;
+}
+
 /*# sourceMappingURL=main.css.map */
