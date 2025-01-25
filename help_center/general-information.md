@@ -6,13 +6,13 @@ description: General Information
 nav_order: 1
 ---
 
-# General Informationz
+# General Information
 
 {% assign sorted_items = site.general_information | sort: 'order' %}
 {% for item in sorted_items %}
 
 {% if item.renderFile %}
-1
+we have parameter
 {% endif %}
 
 - [{{ item.title }}]({{ item.url }})
