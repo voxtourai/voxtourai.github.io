@@ -12,7 +12,7 @@ nav_order: 1
 {% for item in sorted_items %}
 
 {% if item.renderFile %}
-
+{{item.content}}
 {% endif %}
 
 - [{{ item.title }}]({{ item.url }})
