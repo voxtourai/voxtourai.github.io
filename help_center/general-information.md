@@ -14,7 +14,7 @@ nav_order: 1
 <details>
     <summary>{{ item.title }}</summary>
     {{item.content}}
-    [Link To sepatrate page]({{ item.url }})
+    <a href="{{ item.url }}">Link to sepatrate page</a>
 </details>
 
-  {% endfor %}
+{% endfor %}
