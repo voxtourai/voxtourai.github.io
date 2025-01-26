@@ -14,7 +14,7 @@ nav_order: 1
 <details>
     <summary>{{ item.title }}</summary>
     {{item.content}}
-    <a href="{{ item.url }}" class="share-link"><img alt="Share" src="/assets/images/share-icon-25x25.jpg"></a>
+    <a href="{{ item.url }}"><img alt="Share" src="/assets/images/share-icon-25x25.jpg"></a>
 </details>
 
 {% endfor %}
