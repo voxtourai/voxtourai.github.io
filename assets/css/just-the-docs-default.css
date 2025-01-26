@@ -1,13 +1,13 @@
 @charset "UTF-8";
-.accordion-title {
-  line-height: 2.4;
-  color: #34aeeb;
-  font-weight: bold;
-}
-
 .share-link {
   font-style: italic;
   font-size: 12px;
+}
+
+.main-content summary {
+  line-height: 2.4;
+  color: #34aeeb;
+  font-weight: bold;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
