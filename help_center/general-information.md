@@ -12,7 +12,7 @@ nav_order: 1
 {% for item in sorted_items %}
 
 <details>
-    <summary><span class="accordion-title">{{ item.title }}</span></summary>
+    <summary><span class="accordion-title">{{ item.title }}</span></summary><span>sh</span>
     {{item.content}}
     <a href="{{ item.url }}" class="share-link">Share</a>
 </details>
