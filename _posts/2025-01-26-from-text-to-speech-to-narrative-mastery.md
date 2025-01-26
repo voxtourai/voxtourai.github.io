@@ -5,7 +5,7 @@ excerpt: "AI technology is transforming how we create and experience audio tours
 author: Michael Lifshits
 parent: Blog
 date: 2025-01-24
-header_image: /assets/images/ai-creating-custom-thematic-audio-tours.jpg
+header_image: /assets/images/from-text-to-speech-to-narrative-mastery.webp
 ---
 
 Guided tours have entered a new era of innovation, thanks to advancements in artificial intelligence (AI). By integrating cutting-edge technologies, audio tours are becoming more immersive, accurate, and tailored to individual preferences. Let’s explore how AI is reshaping audio tours with lifelike Text-to-Speech (TTS), streamlined speech normalization, precise pronunciation, cohesive storytelling, customizable narrative generation, and the critical importance of feeding validated information to AI systems.
