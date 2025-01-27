@@ -11,23 +11,28 @@ order: 1
 
 To begin:
 
-1. **Select Your Destination:** Use the search bar to enter your desired location. As you type, the platform will suggest destinations based on your input. Choose your preferred destination from these suggestions.
+1. **Select Your Destination:** 
+Use the search bar to enter your desired location. As you type, the platform will suggest destinations based on your input. Choose your preferred destination from these suggestions.
 
    ![Selecting a Destination]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
 
-2. **View Available Tours:** Once your destination is selected, the map screen will display the area. On the laptop, the list of available tours for the displayed area will appear on the right side of the map. On mobile, this list is shown at the bottom of the screen. Select a tour from the list to begin your guided experience.
+2. **View Available Tours:** 
+Once your destination is selected, the map screen will display the area. On the laptop, the list of available tours for the displayed area will appear on the right side of the map. On mobile, this list is shown at the bottom of the screen. Select a tour from the list to begin your guided experience.
 
    ![Available Tours]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
-3. **Review Tour:** The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest.
+3. **Review Tour:** 
+The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
-4. **Start Tour:** This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio Guide for each location by selecting it from the list or directly on the map.
+4. **Start Tour:** 
+This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio Guide for each location by selecting it from the list or directly on the map.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
-5. **Audio Guide Page:** This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
+5. **Audio Guide Page:** 
+This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
 
    ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
