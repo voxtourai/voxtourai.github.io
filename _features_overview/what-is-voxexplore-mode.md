@@ -14,7 +14,7 @@ To begin:
 1. **Search for Your Destination**  
 Use the search bar to enter a location or landmark you’d like to explore. As you type, relevant suggestions will appear based on your input. Select one of the suggested places to see it on the map.
 
-   ![Searching for a Destination]({{ site.baseurl }}/assets/images/voxeplore-landing-page-search-bar.webp)
+   ![Searching for a Destination]({{ site.baseurl }}/assets/images/voxexplore-landing-page-search-bar.webp)
 
 2. **Browse Points of Interest**  
 Once a destination is selected, you’ll see an interactive map showing various points of interest (POIs) in the surrounding area. Scroll or zoom the map to reveal even more POIs.
@@ -26,7 +26,7 @@ Click or tap on any POI marker to open its info card. The info card provides an 
 
    ![Opening a Location Card]({{ site.baseurl }}/assets/images/voxexplore-destination-page-with-selected-place.webp)
 
-4. **Explore Detailed Information** 
+4. **Explore Detailed Information:** 
 Selecting “Open” brings up a detailed page with an expanded description, ratings, and additional insights—such as address, historical background, or significance. From here, you can choose to:
 
     - **Visit:** Navigate to Audio Guide.
