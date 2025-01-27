@@ -9,7 +9,7 @@ order: 2
 
 **A:** The **VoxExplore** mode allows you to wander freely. As you move, the app delivers information about nearby attractions, letting you discover hidden gems at your own pace. This mode is perfect for those who enjoy spontaneous exploration without a fixed route.
 
-To begin:
+To use VoxExplore:
 
 1. **Search for Your Destination**  
 Use the search bar to enter a location or landmark you’d like to explore. As you type, relevant suggestions will appear based on your input. Select one of the suggested places to see it on the map.

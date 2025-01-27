@@ -9,7 +9,7 @@ order: 1
 
 **A:** The **VoxRout** mode provides a structured path through your chosen destination. It guides you along a predefined route, ensuring you don't miss any key points of interest. This mode is ideal for users who prefer a planned itinerary with clear directions and highlights.
 
-To begin:
+To use VoxRout:
 
 1. **Select Your Destination** 
 Use the search bar to enter your desired location. As you type, the platform will suggest destinations based on your input. Choose your preferred destination from these suggestions.
