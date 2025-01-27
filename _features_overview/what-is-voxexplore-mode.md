@@ -26,7 +26,7 @@ Click or tap on any POI marker to open its info card. The info card provides an 
 
    ![Opening a Location Card]({{ site.baseurl }}/assets/images/voxexplore-destination-page-with-selected-place.webp)
 
-4. **Explore Detailed Information:** 
+4. **Explore Detailed Information** 
 Selecting “Open” brings up a detailed page with an expanded description, ratings, and additional insights—such as address, historical background, or significance. From here, you can choose to:
 
     - **Visit:** Navigate to Audio Guide.
@@ -34,7 +34,7 @@ Selecting “Open” brings up a detailed page with an expanded description, rat
 
    ![Detailed POI Page]({{ site.baseurl }}/assets/images/voxexplore-place-overview-page.webp)
 
-5. **Audio Guide Page:**  This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
+5. **Audio Guide Page**  This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
 
    ![Detailed POI Page]({{ site.baseurl }}/assets/images/voxexplore-place-overview-page.webp)
 
