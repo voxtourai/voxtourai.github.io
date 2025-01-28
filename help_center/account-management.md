@@ -15,7 +15,12 @@ Managing your account profile is quick and straightforward. Follow these steps t
 2. Navigate to the **Profile** section.
 3. Click on the **Edit Profile** icon (the pencil icon) located near your profile picture.
 
+[![Edit profile page](/assets/images/voxtour-profile-link.jpg)]
+
+[![Edit profile page](/assets/images/voxtour-profile-page.jpg)]
+
 ## Editing Your Profile Information
+
 On the **Edit Profile** page, you can modify the following fields:
 
 - **First Name**: Update your first name as it will appear on your profile.
@@ -23,12 +28,14 @@ On the **Edit Profile** page, you can modify the following fields:
 - **Nickname**: Add or edit your nickname for a more personalized touch.
 - **Birth Year**: Adjust your birth year to ensure your profile is accurate.
 
+[![Edit profile page](/assets/images/voxtour-profile-page-edit.jpg)]
+
 ## Saving Changes
 1. After updating the necessary fields, click the **Save** button at the top right corner of the page.
 2. Your changes will be saved immediately, and your profile will be updated.
 
 ## Viewing Updated Profile
-1. Return to the **Profile** page by clicking the back arrow.
+1. Once saved, you will be automatically redirected to the Profile page where you can verify the updated information in your profile summary.
 2. Verify the updated information in your profile summary, which includes your name and other relevant details.
 
 ## Additional Notes
