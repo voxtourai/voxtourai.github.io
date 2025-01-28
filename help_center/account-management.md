@@ -18,7 +18,7 @@ Managing your account profile is quick and straightforward. Follow these steps t
 
 3. Click on the **Edit Profile** icon (the pencil icon) located near your profile picture.
 
-![Edit profile page](/assets/images/voxtour-profile-page.jpg)
+![Edit profile page](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## Editing Your Profile Information
 
