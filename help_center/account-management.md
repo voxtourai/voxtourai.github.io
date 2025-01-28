@@ -13,11 +13,12 @@ Managing your account profile is quick and straightforward. Follow these steps t
 ## How to Access the Profile Edit Page
 1. Log in to your account.
 2. Navigate to the **Profile** section.
+
+![Edit profile page](/assets/images/voxtour-profile-link.jpg)
+
 3. Click on the **Edit Profile** icon (the pencil icon) located near your profile picture.
 
-[![Edit profile page](/assets/images/voxtour-profile-link.jpg)]
-
-[![Edit profile page](/assets/images/voxtour-profile-page.jpg)]
+![Edit profile page](/assets/images/voxtour-profile-page.jpg)
 
 ## Editing Your Profile Information
 
