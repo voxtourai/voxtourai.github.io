@@ -15,6 +15,17 @@ div.api-url-box span {
   color: #a0a0a0;
 }
 
+div.request-vars span.request-var-name {
+  font-weight: bold;
+}
+div.request-vars span.request-var-type {
+  color: #a0a0a0;
+  font-size: 12px;
+}
+div.request-vars span.request-var-name {
+  color: red;
+}
+
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
 /* Document
    ========================================================================== */
