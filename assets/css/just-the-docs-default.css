@@ -8,8 +8,12 @@
 div.api-url-box {
   background-color: #e4e4e4;
   padding: 5px;
-  width: 60%;
   margin-bottom: 10px;
+}
+@media screen and (min-width: 800px) {
+  div.api-url-box {
+    width: 70%;
+  }
 }
 div.api-url-box span {
   color: #a0a0a0;
