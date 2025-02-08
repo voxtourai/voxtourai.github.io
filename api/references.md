@@ -9,7 +9,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 
 VoxTour.ai provides a powerful API for integrating AI-powered audio guides and travel experiences into applications, websites, and services. Our API enables seamless access to high-quality, location-based storytelling, allowing users to explore destinations with engaging narratives, historical insights, and personalized recommendations.
 <details>
-<summary>/queryPOIs - Search POIs by different criteria</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/queryPOIs</span> - Search POIs by different criteria</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/queryPOIs</div>
 <div>The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.</div>
 <h3>Key Features</h3>
@@ -122,30 +122,30 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 {% endhighlight %}
 </details>
 <details>
-<summary><span style="font-weight: bold; color: #007bff;">/createTourTemplate</span> - Create Tour Template</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/createTourTemplate</span> - Create Tour Template</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTourTemplate</div>
 </details>
 <details>
-<summary>/uploadImage - Upload Image</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/uploadImage</span> - Upload Image</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/uploadImage</div>
 </details>
 <details>
-<summary>/updateTourTemplateImage - Update Tour Template Image</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/updateTourTemplateImage</span> - Update Tour Template Image</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/updateTourTemplateImage</div>
 </details>
 <details>
-<summary>/getTourTemplate - Get Tour Template</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/getTourTemplate</span> - Get Tour Template</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTourTemplate</div>
 </details>
 <details>
-<summary>/createTour - Create Tour</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/createTour</span> - Create Tour</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTour</div>
 </details>
 <details>
-<summary>/getTour - Get Tour</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/getTour</span> - Get Tour</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTour</div>
 </details>
 <details>
-<summary>/getLocation - Get Location</summary>
+<summary><span style="font-weight: bold; color: #00ab06;">/getLocation - Get Location</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getLocation</div>
 </details>
