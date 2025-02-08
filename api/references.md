@@ -41,11 +41,20 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 }
 {% endhighlight %}
 <h3>Request body</h3>
-<div class="request-vars"><span class="request-var-name">apiKey</span> <span class="request-var-type">string</span> <span class="request-var-required">Required</span></div>
+<div class="request-vars">
+    <span class="request-var-name">apiKey</span> 
+    <span class="request-var-type">string</span> 
+    <span class="request-var-required">Required</span>
+</div>
 <div class="request-vars-description">A unique authentication key required for API access. This key must be included in every request to authorize and validate usage. Obtain your API key from the VoxTour.ai Developer Portal.</div>
-<div class="request-vars"><span class="request-var-name">apiKey</span> <span class="request-var-type">string</span> <span class="request-var-required">Required</span></div>
-<div class="request-vars-description">A unique authentication key required for API access. This key must be included in every request to authorize and validate usage. Obtain your API key from the VoxTour.ai Developer Portal.</div>
-<h3>Example Response</h3>
+<div class="request-vars">
+    <span class="request-var-name">lang</span> 
+    <span class="request-var-type">string</span> 
+    <span class="request-var-required">Optional</span>
+</div>
+<div class="request-vars-description">
+    Specifies the language for the response content. Uses ISO 639-1 codes (e.g., "en" for English, "fr" for French). If not provided, the default language is English.
+</div><h3>Example Response</h3>
 Returns a list of matching POIs, including name, description, coordinates, and images:
 {% highlight json %}
 {
