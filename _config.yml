@@ -54,4 +54,4 @@ collections:
     permalink: /help-center/troubleshooting/:title/
   apis:
     output: true
-    permalink: /api/references/:title/
+    permalink: /api/references/:url/
