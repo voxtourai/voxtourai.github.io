@@ -80,7 +80,7 @@ Returns a list of matching POIs, including name, description, coordinates, and i
     "nativeName": "CN Tower",
     "category": "ArchitecturalMarvel",
     "subcategory": "Skyscraper",
-    "address": "290 Bremner Blvd, Toronto, Ontario, M5V 3L9, Canada",
+    "address": "290 Bremner Blvd, Toronto, ON, M5V3L9, Canada",
     "latitude": 43.6425637,
     "longitude": -79.38708718320467,
     "imageList": [
