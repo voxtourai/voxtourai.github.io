@@ -8,119 +8,14 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 # API References
 
 VoxTour.ai provides a powerful API for integrating AI-powered audio guides and travel experiences into applications, websites, and services. Our API enables seamless access to high-quality, location-based storytelling, allowing users to explore destinations with engaging narratives, historical insights, and personalized recommendations.
-<details>
-<summary>/queryPOIs</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/queryPOIs</div>
-<div>The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.</div>
-<h3>Key Features</h3>
-<ol>
-<li>Search POIs by different criteria (e.g., keyword, location, language)</li>
-<li>Filter results using a bounding box (latitude/longitude)</li>
-<li>Sort results by relevance or custom criteria</li>
-<li>Retrieve detailed POI information, including descriptions, images, and external links</li>
-</ol>
-<h3>Example Request</h3>
-<div>Querying for POIs named "Tower" within a defined bounding box:</div>
-{% highlight json %}
-{
-   "apiKey": "12345678-90ab-cdef-1234-567890abcdef",
-   "lang": "en",
-   "search": "Tower",
-   "boundingBox": [
-       43.300000,
-       44.100000,
-       -80.000000,
-       -78.500000
-   ],
-   "firstSortBy": null,
-   "firstSortDescending": false,
-   "secondSortBy": null,
-   "secondSortDescending": false,
-   "pageSize": 200,
-   "pageNumber": 1
-}
-{% endhighlight %}
-<h3>Request body</h3>
-<div class="request-vars">
-    <span class="request-var-name">apiKey</span> 
-    <span class="request-var-type">string</span> 
-    <span class="request-var-required">Required</span>
-</div>
-<div class="request-vars-description">A unique authentication key required for API access. This key must be included in every request to authorize and validate usage. Obtain your API key from the VoxTour.ai Developer Portal.</div>
-<div class="request-vars">
-    <span class="request-var-name">lang</span> 
-    <span class="request-var-type">string</span> 
-    <span class="request-var-optional">Optional</span>
-    <span class="request-var-defaults">Defaults to en</span>
-</div>
-<div class="request-vars-description">
-    Specifies the language for the response content. Uses ISO 639-1 codes (e.g., "en" for English, "fr" for French). If not provided, the default language is English.
-</div>
-<div class="request-vars">
-    <span class="request-var-name">search</span> 
-    <span class="request-var-type">string or null</span> 
-    <span class="request-var-optional">Optional</span>
-    <span class="request-var-defaults">Defaults to false</span>
-</div>
-<div class="request-vars-description">
-    A keyword or phrase used to filter Points of Interest (POIs) by name or related terms. If omitted, the API returns all POIs within the specified bounding box.
-</div>
-<div class="request-vars">
-    <span class="request-var-name">boundingBox</span> 
-    <span class="request-var-type">array</span> 
-    <span class="request-var-required">Required</span>
-</div>
-<div class="request-vars-description">
-    Defines the geographical area for the POI search. The array must contain four numerical values representing the southwest latitude, northeast latitude, southwest longitude, and northeast longitude. POIs within this bounding box will be included in the response.
-    <br><strong>Example:</strong> <code>[43.300000, 44.100000, -80.000000, -78.500000]</code>
-</div>
 
-<h3>Example Response</h3>
-Returns a list of matching POIs, including name, description, coordinates, and images:
-{% highlight json %}
-{
-   "poiList": [
-       {
-           "poiId": "87a1478a-7363-4dc4-818a-141eff446880",
-           "name": "CN Tower",
-           "info": "The CN Tower detailed description.",
-           "nativeName": "CN Tower",
-           "category": "ArchitecturalMarvel",
-           "subcategory": "Skyscraper",
-           "address": "CN Tower, 290, Bremner Boulevard, Toronto, Ontario, M5V 3L9, Canada",
-           "latitude": 43.6425637,
-           "longitude": -79.38708718320467,
-           "imageList": [
-               {
-                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_1.jpg",
-                   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
-                   "attributionHtml": "Giorgio Galeotti,CC BY 4.0, via Wikimedia Commons"
-               },
-               {
-                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_2.jpg",
-                   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
-                   "attributionHtml": "Ken Lund, CC BY-SA 2.0, via Wikimedia Commons"
-               }
-           ],
-           "hashtagMap": {},
-           "metadata": [
-               {
-                   "name": "wikipedia",
-                   "value": "en:CN Tower",
-                   "timestamp": "2024-06-03T12:17:00.568101Z"
-               },
-               {
-                   "name": "website",
-                   "value": "https://www.cntower.ca/",
-                   "timestamp": "2024-05-26T02:48:45.475446Z"
-               }
-           ],
-           "rank": 0.8958864102649058
-       }
-   ]
-}
-{% endhighlight %}
-</details>
+{% assign sorted_apis = site.apis | sort: 'order' %}
+{% for item in sorted_apis %}
+
+{{ content }}created separate files fo r every api
+
+{% endfor %}
+
 <details>
 <summary>/createTourTemplate</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTourTemplate</div>
@@ -139,7 +34,7 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 {
   "apiKey": "12345678-90ab-cdef-1234-567890abcdef",
   "name": "Cultural Tapestry Trail: A Journey Through Toronto's Heritage",
-  "description": "Embark on a cultural journey along Toronto’s most iconic landmarks...",
+  "description": "Embark on a cultural journey along Toronto’s most iconic landmarks",
   "lang": "en",
   "durationInMinutes": 240,
   "distanceInMeters": 4500,
@@ -172,7 +67,7 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 <div class="request-vars">
     <span class="request-var-name">description</span> 
     <span class="request-var-type">string</span> 
-    <span class="request-var-required">Optional</span>
+    <span class="request-var-optional">Optional</span>
 </div>
 <div class="request-vars-description">
     A detailed description of the tour, outlining its purpose, key highlights, and points of interest.
@@ -219,13 +114,58 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 Returns a unique <code>tourTemplateId</code> for future modifications or retrieval:
 {% highlight json %}
 {
-"tourTemplateId": "5c744b2b-8f6c-4be1-baf0-409e43a4e06e"
+    "tourTemplateId": "5c744b2b-8f6c-4be1-baf0-409e43a4e06e"
 }
 {% endhighlight %}
 </details>
 <details>
 <summary>/uploadImage</summary>
 <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/uploadImage</div>
+<div>The Upload Image API allows users to upload an image file and receive a unique image ID in response. This API supports multipart form data and requires an API key for authentication.</div>
+
+<h3>Key Features</h3>
+<ol>
+<li>Upload image files using multipart form data</li>
+<li>Receive a unique image ID for reference</li>
+<li>Requires an API key for authentication</li>
+</ol>
+
+<h3>Example Request</h3>
+<div>Uploading an image file:</div>
+
+{% highlight http %}
+POST /uploadImage
+Headers:
+Content-Type: multipart/form-data
+{% endhighlight %}
+
+<h3>Request Body (Form-Data)</h3>
+
+<div class="request-vars">
+    <span class="request-var-name">apiKey</span> 
+    <span class="request-var-type">string</span> 
+    <span class="request-var-required">Required</span>
+</div>
+<div class="request-vars-description">A unique authentication key required for API access. This key must be included in every request to authorize and validate usage. Obtain your API key from the VoxTour.ai Developer Portal.</div>
+
+<div class="request-vars">
+    <span class="request-var-name">file</span> 
+    <span class="request-var-type">file</span> 
+    <span class="request-var-required">Required</span>
+</div>
+<div class="request-vars-description">
+    The image file to be uploaded. Supported formats: JPG, PNG, and GIF.
+</div>
+
+<h3>Example Response</h3>
+Returns a unique file ID:
+
+{% highlight json %}
+{
+"fileId": "a7b1ac9d-3f64-4bd5-ad84-5cf59a72045b"
+}
+{% endhighlight %}
+
 </details>
 <details>
 <summary>/updateTourTemplateImage</summary>
