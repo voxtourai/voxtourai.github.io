@@ -3,7 +3,7 @@ layout: default
 title: "uploadImage"
 order: 3
 ---
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/uploadImage</div>
+
 <div>The Upload Image API allows users to upload an image file and receive a unique image ID in response. This API supports multipart form data and requires an API key for authentication.</div>
 
 <h3>Key Features</h3>
@@ -45,6 +45,6 @@ Returns a unique file ID:
 
 {% highlight json %}
 {
-"fileId": "a7b1ac9d-3f64-4bd5-ad84-5cf59a72045b"
+    "fileId": "a7b1ac9d-3f64-4bd5-ad84-5cf59a72045b"
 }
 {% endhighlight %}

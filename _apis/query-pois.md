@@ -4,7 +4,6 @@ title: "queryPOIs"
 order: 1
 ---
 
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/queryPOIs</div>
 <div>The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.</div>
 <h3>Key Features</h3>
 <ol>

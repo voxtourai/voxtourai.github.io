@@ -14,28 +14,8 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 
 <details>
     <summary>/{{ item.title }}</summary>
+    <div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/{{ item.title }}</div>
     {{item.content}}
 </details>
 
 {% endfor %}
-
-<details>
-<summary>/updateTourTemplateImage</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/updateTourTemplateImage</div>
-</details>
-<details>
-<summary>/getTourTemplate</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTourTemplate</div>
-</details>
-<details>
-<summary>/createTour</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTour</div>
-</details>
-<details>
-<summary>/getTour</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTour</div>
-</details>
-<details>
-<summary>/getLocation</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getLocation</div>
-</details>

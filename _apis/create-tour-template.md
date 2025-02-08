@@ -4,7 +4,6 @@ title: "createTourTemplate"
 order: 2
 ---
 
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTourTemplate</div>
 <div>The Create Tour Template API allows users to generate a custom tour template by defining a name, description, language, duration, distance, and a list of Points of Interest (POIs). The API returns a unique <code>tourTemplateId</code> for managing or modifying the template later.</div>
 <h3>Key Features</h3>
 <ol>
