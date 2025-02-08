@@ -23,9 +23,21 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 <div>Querying for POIs named "Tower" within a defined bounding box:</div>
 {% highlight json %}
 {
-  "name": "Michael",
-  "age": 56,
-  "city": "Toronto"
+   "apiKey": "12345678-90ab-cdef-1234-567890abcdef",
+   "lang": "en",
+   "search": "Tower",
+   "boundingBox": [
+       43.300000,
+       44.100000,
+       -80.000000,
+       -78.500000
+   ],
+   "firstSortBy": null,
+   "firstSortDescending": false,
+   "secondSortBy": null,
+   "secondSortDescending": false,
+   "pageSize": 200,
+   "pageNumber": 1
 }
 {% endhighlight %}
 </details>
