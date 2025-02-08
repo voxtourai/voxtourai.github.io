@@ -3,9 +3,8 @@ layout: default
 ---
 
 {% if page.title and page.title != '' %}
-<h1>{{ page.title }}</h1>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/{{ item.title }}</div>
+<h1>/{{ page.title }}</h1>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/{{ page.title }}</div>
 {% endif %}
-<hr>
 
 {{ content }}
