@@ -50,7 +50,7 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 <div class="request-vars">
     <span class="request-var-name">lang</span> 
     <span class="request-var-type">string</span> 
-    <span class="request-var-required">Optional</span>
+    <span class="request-var-optional">Optional</span>
 </div>
 <div class="request-vars-description">
     Specifies the language for the response content. Uses ISO 639-1 codes (e.g., "en" for English, "fr" for French). If not provided, the default language is English.
