@@ -20,6 +20,7 @@ div.api-url-box {
 div.request-vars {
   span.request-var-name {
     font-weight:bold;
+    font-size:18px;
   }
   span.request-var-type {
     color:#a0a0a0;
@@ -27,5 +28,11 @@ div.request-vars {
   }
   span.request-var-required {
     color:red;
+    font-size:14px;
   }
+}
+
+div.request-vars-description{
+  margin-bottom: 10px;
+  border-bottom: 1px solid #a0a0a0;
 }
