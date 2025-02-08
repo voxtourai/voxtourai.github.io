@@ -20,6 +20,14 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 <li>Retrieve detailed POI information, including descriptions, images, and external links</li>
 </ol>
 <b>Example Request</b>
+<div>Querying for POIs named "Tower" within a defined bounding box:</div>
+{% highlight json %}
+{
+  "name": "Michael",
+  "age": 56,
+  "city": "Toronto"
+}
+{% endhighlight %}
 </details>
 <details>
 <summary>Create Tour Route.</summary>
