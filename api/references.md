@@ -48,23 +48,23 @@ Returns a list of matching POIs, including name, description, coordinates, and i
        {
            "poiId": "87a1478a-7363-4dc4-818a-141eff446880",
            "name": "CN Tower",
-           "info": "The CN Tower, officially known as 'Tour CN,' is a prominent communications and observation tower located in downtown Toronto, Ontario, Canada. Completed in 1976, it stands at 553.3 meters (1,815 feet) and was the world's tallest free-standing structure for over three decades.",
+           "info": "The CN Tower detailed description.",
            "nativeName": "CN Tower",
            "category": "ArchitecturalMarvel",
            "subcategory": "Skyscraper",
-           "address": "CN Tower, 290, Bremner Boulevard, Harbourfront, Spadina—Fort York, Old Toronto, Toronto, Ontario, M5V 3L9, Canada",
+           "address": "CN Tower, 290, Bremner Boulevard, Toronto, Ontario, M5V 3L9, Canada",
            "latitude": 43.6425637,
            "longitude": -79.38708718320467,
            "imageList": [
                {
-                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CN_Tower_1.jpg",
+                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_1.jpg",
                    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
-                   "attributionHtml": "<a href=\"https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg\">Giorgio Galeotti</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>, via Wikimedia Commons"
+                   "attributionHtml": "Giorgio Galeotti,CC BY 4.0, via Wikimedia Commons"
                },
                {
-                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CN_Tower_2.jpg",
+                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_2.jpg",
                    "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
-                   "attributionHtml": "<a href=\"https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg\">Ken Lund from Reno, Nevada, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+                   "attributionHtml": "Ken Lund, CC BY-SA 2.0, via Wikimedia Commons"
                }
            ],
            "hashtagMap": {},
