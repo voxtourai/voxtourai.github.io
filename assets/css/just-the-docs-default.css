@@ -22,7 +22,7 @@ div.request-vars span.request-var-type {
   color: #a0a0a0;
   font-size: 12px;
 }
-div.request-vars span.request-var-name {
+div.request-vars span.request-var-required {
   color: red;
 }
 
