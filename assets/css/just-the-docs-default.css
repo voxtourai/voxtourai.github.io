@@ -5,14 +5,14 @@
   font-weight: bold;
 }
 
-.api-url-box {
+div.api-url-box {
   background-color: #e4e4e4;
   padding: 5px;
   width: 60%;
   margin-bottom: 10px;
 }
-.api-url-box span {
-  color: #777777;
+div.api-url-box span {
+  color: #a0a0a0;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
