@@ -88,21 +88,21 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 </details>
 <details>
 <summary>Create Tour Route</summary>
-<div class="api-url-box"><i>POST</i> https://api.voxtour.ai/v1/createTourRoute</div>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTourRoute</div>
 </details>
 <details>
-<summary>update Tour Route Image</summary>
-<div class="api-url-box"><i>POST</i> https://api.voxtour.ai/v1/updateTourTemplateImage</div>
+<summary>Update Tour Route Image</summary>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/updateTourTemplateImage</div>
 </details>
 <details>
 <summary>Get Tour Route</summary>
-<div class="api-url-box"><i>POST</i> https://api.voxtour.ai/v1/getTourRoute</div>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTourRoute</div>
 </details>
 <details>
 <summary>Create Tour</summary>
-<div class="api-url-box"><i>POST</i> https://api.voxtour.ai/v1/createTour</div>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/createTour</div>
 </details>
 <details>
 <summary>Get Tour</summary>
-<div class="api-url-box"><i>POST</i> https://api.voxtour.ai/v1/getTour</div>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/getTour</div>
 </details>
