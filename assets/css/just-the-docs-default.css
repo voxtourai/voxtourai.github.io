@@ -7,6 +7,9 @@
 
 .api-url-box {
   background-color: #e4e4e4;
+  padding: 5px;
+  width: 60%;
+  margin-bottom: 10px;
 }
 
 /*! normalize.css v8.0.1 | MIT License | github.com/necolas/normalize.css */
