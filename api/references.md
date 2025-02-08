@@ -71,7 +71,7 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
     <span class="request-var-required">Required</span>
 </div>
 <div class="request-vars-description">
-    Defines the geographical area for the POI search. The array must contain four numerical values representing the **southwest latitude, northeast latitude, southwest longitude, and northeast longitude**. POIs within this bounding box will be included in the response.
+    Defines the geographical area for the POI search. The array must contain four numerical values representing the southwest latitude, northeast latitude, southwest longitude, and northeast longitude. POIs within this bounding box will be included in the response.
     <br><strong>Example:</strong> <code>[43.300000, 44.100000, -80.000000, -78.500000]</code>
 </div>
 
