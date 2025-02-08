@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "/queryPOIs"
+title: "queryPOIs"
 order: 1
 ---
 

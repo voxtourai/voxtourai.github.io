@@ -13,7 +13,7 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 {% for item in sorted_apis %}
 
 <details>
-    <summary>{{ item.title }}</summary>
+    <summary>/{{ item.title }}</summary>
     {{item.content}}
 </details>
 

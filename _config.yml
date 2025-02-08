@@ -52,3 +52,6 @@ collections:
   troubleshooting:
     output: true
     permalink: /help-center/troubleshooting/:title/
+  apis:
+    output: true
+    permalink: /api/references/:title/
