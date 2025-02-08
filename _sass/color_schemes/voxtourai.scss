@@ -16,3 +16,16 @@ div.api-url-box {
       color:#a0a0a0;
     }
 }
+
+div.request-vars {
+  span.request-var-name {
+    font-weight:bold;
+  }
+  span.request-var-type {
+    color:#a0a0a0;
+    font-size:12px;
+  }
+  span.request-var-name {
+    color:red;
+  }
+}
