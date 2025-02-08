@@ -17,7 +17,6 @@ div.api-url-box span {
 
 div.request-vars span.request-var-name {
   font-weight: bold;
-  font-size: 18px;
 }
 div.request-vars span.request-var-type, div.request-vars span.request-var-optional, div.request-vars span.request-var-defaults {
   color: #a0a0a0;
