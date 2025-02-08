@@ -100,6 +100,6 @@ order: 2
 Returns a unique <code>tourTemplateId</code> for future modifications or retrieval:
 {% highlight json %}
 {
-"tourTemplateId": "5c744b2b-8f6c-4be1-baf0-409e43a4e06e"
+    "tourTemplateId": "5c744b2b-8f6c-4be1-baf0-409e43a4e06e"
 }
 {% endhighlight %}
