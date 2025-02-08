@@ -92,7 +92,7 @@ Returns a list of matching POIs, including name, description, coordinates, and i
 </details>
 <details>
 <summary>Update Tour Route Image</summary>
-<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/updateTourTemplateImage</div>
+<div class="api-url-box"><span>POST</span> https://api.voxtour.ai/v1/updateTourRouteImage</div>
 </details>
 <details>
 <summary>Get Tour Route</summary>
