@@ -85,12 +85,12 @@ Returns a list of matching POIs, including name, description, coordinates, and i
     "longitude": -79.38708718320467,
     "imageList": [
         {
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/CN_Tower_1.jpg",
+            "imageUrl": "https://upload.wikimedia.org/commons/CN_Tower_1.jpg",
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
             "attributionHtml": "Giorgio Galeotti,CC BY 4.0, via Wikimedia Commons"
         },
         {
-            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_2.jpg",
+            "imageUrl": "https://upload.wikimedia.org/commons/CN_Tower_2.jpg",
             "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
             "attributionHtml": "Ken Lund, CC BY-SA 2.0, via Wikimedia Commons"
         }
