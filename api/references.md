@@ -8,7 +8,29 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 # API Reference
 
 VoxTour.ai provides a powerful API for integrating AI-powered audio guides and travel experiences into applications, websites, and services. Our API enables seamless access to high-quality, location-based storytelling, allowing users to explore destinations with engaging narratives, historical insights, and personalized recommendations.
-
-## Search POIs by different criteria (e.g., keyword, location, language).
+<details>
+<summary>## Search POIs by different criteria.</summary>
 
 The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.
+
+*Key Features*
+1. Search POIs by different criteria (e.g., keyword, location, language).
+2. Filter results using a bounding box (latitude/longitude).
+3. Sort results by relevance or custom criteria.
+4. Retrieve detailed POI information, including descriptions, images, and external links
+
+*Example Request*
+</details>
+<details>
+<summary>## Create Tour Route.</summary>
+
+The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.
+
+*Key Features*
+1. Search POIs by different criteria (e.g., keyword, location, language).
+2. Filter results using a bounding box (latitude/longitude).
+3. Sort results by relevance or custom criteria.
+4. Retrieve detailed POI information, including descriptions, images, and external links
+
+*Example Request*
+</details>
