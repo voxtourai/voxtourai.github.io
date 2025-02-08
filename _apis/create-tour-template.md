@@ -1,7 +1,6 @@
 ---
 layout: api
 title: "createTourTemplate"
-url: "create-tour-template"
 order: 2
 ---
 

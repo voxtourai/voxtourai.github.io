@@ -2,7 +2,6 @@
 layout: api
 title: "queryPOIs"
 order: 1
-url: "query-pois"
 ---
 
 <div>The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.</div>
