@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: api
 title: "updateTourTemplateImage"
 order: 4
 ---

@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: api
 title: "createTour"
 order: 6
 ---
