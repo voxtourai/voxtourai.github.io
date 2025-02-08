@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "updateTourTemplateImage"
+title: "getTourTemplate"
 order: 5
 ---
 
