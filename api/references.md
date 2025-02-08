@@ -12,14 +12,14 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 <summary>Search POIs by different criteria</summary>
 <div class="api-url-box">POST https://api.voxtour.ai/v1/queryPOIs</div>
 <div>The POI Query API allows users to search for Points of Interest (POIs) within a specified geographical area based on keywords, categories, or ranking criteria. The API returns a structured list of POIs with details such as name, description, location, images, and metadata.</div>
-<b>Key Features</b>
+<h3>Key Features</h3>
 <ol>
 <li>Search POIs by different criteria (e.g., keyword, location, language)</li>
 <li>Filter results using a bounding box (latitude/longitude)</li>
 <li>Sort results by relevance or custom criteria</li>
 <li>Retrieve detailed POI information, including descriptions, images, and external links</li>
 </ol>
-<b>Example Request</b>
+<h3>Example Request</h3>
 <div>Querying for POIs named "Tower" within a defined bounding box:</div>
 {% highlight json %}
 {
@@ -38,6 +38,51 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
    "secondSortDescending": false,
    "pageSize": 200,
    "pageNumber": 1
+}
+{% endhighlight %}
+<h3>Example Response</h3>
+Returns a list of matching POIs, including name, description, coordinates, and images:
+{% highlight json %}
+{
+   "poiList": [
+       {
+           "poiId": "87a1478a-7363-4dc4-818a-141eff446880",
+           "name": "CN Tower",
+           "info": "The CN Tower, officially known as 'Tour CN,' is a prominent communications and observation tower located in downtown Toronto, Ontario, Canada. Completed in 1976, it stands at 553.3 meters (1,815 feet) and was the world's tallest free-standing structure for over three decades.",
+           "nativeName": "CN Tower",
+           "category": "ArchitecturalMarvel",
+           "subcategory": "Skyscraper",
+           "address": "CN Tower, 290, Bremner Boulevard, Harbourfront, Spadina—Fort York, Old Toronto, Toronto, Ontario, M5V 3L9, Canada",
+           "latitude": 43.6425637,
+           "longitude": -79.38708718320467,
+           "imageList": [
+               {
+                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CN_Tower_1.jpg",
+                   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
+                   "attributionHtml": "<a href=\"https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg\">Giorgio Galeotti</a>, <a href=\"https://creativecommons.org/licenses/by/4.0\">CC BY 4.0</a>, via Wikimedia Commons"
+               },
+               {
+                   "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CN_Tower_2.jpg",
+                   "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
+                   "attributionHtml": "<a href=\"https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg\">Ken Lund from Reno, Nevada, USA</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons"
+               }
+           ],
+           "hashtagMap": {},
+           "metadata": [
+               {
+                   "name": "wikipedia",
+                   "value": "en:CN Tower",
+                   "timestamp": "2024-06-03T12:17:00.568101Z"
+               },
+               {
+                   "name": "website",
+                   "value": "https://www.cntower.ca/",
+                   "timestamp": "2024-05-26T02:48:45.475446Z"
+               }
+           ],
+           "rank": 0.8958864102649058
+       }
+   ]
 }
 {% endhighlight %}
 </details>
