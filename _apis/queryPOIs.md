@@ -73,44 +73,44 @@ order: 1
 Returns a list of matching POIs, including name, description, coordinates, and images:
 {% highlight json %}
 {
-"poiList": [
-{
-"poiId": "87a1478a-7363-4dc4-818a-141eff446880",
-"name": "CN Tower",
-"info": "The CN Tower detailed description.",
-"nativeName": "CN Tower",
-"category": "ArchitecturalMarvel",
-"subcategory": "Skyscraper",
-"address": "290 Bremner Blvd, Toronto, Ontario, M5V 3L9, Canada",
-"latitude": 43.6425637,
-"longitude": -79.38708718320467,
-"imageList": [
-{
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/CN_Tower_1.jpg",
-"sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
-"attributionHtml": "Giorgio Galeotti,CC BY 4.0, via Wikimedia Commons"
-},
-{
-"imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_2.jpg",
-"sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
-"attributionHtml": "Ken Lund, CC BY-SA 2.0, via Wikimedia Commons"
-}
-],
-"hashtagMap": {},
-"metadata": [
-{
-"name": "wikipedia",
-"value": "en:CN Tower",
-"timestamp": "2024-06-03T12:17:00.568101Z"
-},
-{
-"name": "website",
-"value": "https://www.cntower.ca/",
-"timestamp": "2024-05-26T02:48:45.475446Z"
-}
-],
-"rank": 0.8958864102649058
-}
-]
+    "poiList": [
+    {
+    "poiId": "87a1478a-7363-4dc4-818a-141eff446880",
+    "name": "CN Tower",
+    "info": "The CN Tower detailed description.",
+    "nativeName": "CN Tower",
+    "category": "ArchitecturalMarvel",
+    "subcategory": "Skyscraper",
+    "address": "290 Bremner Blvd, Toronto, Ontario, M5V 3L9, Canada",
+    "latitude": 43.6425637,
+    "longitude": -79.38708718320467,
+    "imageList": [
+        {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/CN_Tower_1.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_1.jpg",
+            "attributionHtml": "Giorgio Galeotti,CC BY 4.0, via Wikimedia Commons"
+        },
+        {
+            "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/CN_Tower_2.jpg",
+            "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_2.jpg",
+            "attributionHtml": "Ken Lund, CC BY-SA 2.0, via Wikimedia Commons"
+        }
+    ],
+    "hashtagMap": {},
+    "metadata": [
+        {
+        "name": "wikipedia",
+        "value": "en:CN Tower",
+        "timestamp": "2024-06-03T12:17:00.568101Z"
+        },
+        {
+        "name": "website",
+        "value": "https://www.cntower.ca/",
+        "timestamp": "2024-05-26T02:48:45.475446Z"
+        }
+        ],
+        "rank": 0.8958864102649058
+        }
+    ]
 }
 {% endhighlight %}
