@@ -55,7 +55,27 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
 </div>
 <div class="request-vars-description">
     Specifies the language for the response content. Uses ISO 639-1 codes (e.g., "en" for English, "fr" for French). If not provided, the default language is English.
-</div><h3>Example Response</h3>
+</div>
+<div class="request-vars">
+    <span class="request-var-name">search</span> 
+    <span class="request-var-type">string or null</span> 
+    <span class="request-var-optional">Optional</span>
+    <span class="request-var-defaults">Defaults to false</span>
+</div>
+<div class="request-vars-description">
+    A keyword or phrase used to filter Points of Interest (POIs) by name or related terms. If omitted, the API returns all POIs within the specified bounding box.
+</div>
+<div class="request-vars">
+    <span class="request-var-name">boundingBox</span> 
+    <span class="request-var-type">array</span> 
+    <span class="request-var-required">Required</span>
+</div>
+<div class="request-vars-description">
+    Defines the geographical area for the POI search. The array must contain four numerical values representing the **southwest latitude, northeast latitude, southwest longitude, and northeast longitude**. POIs within this bounding box will be included in the response.
+    <br><strong>Example:</strong> <code>[43.300000, 44.100000, -80.000000, -78.500000]</code>
+</div>
+
+<h3>Example Response</h3>
 Returns a list of matching POIs, including name, description, coordinates, and images:
 {% highlight json %}
 {
