@@ -7,8 +7,6 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 
 # Widgets
 
-<h1>Widgets</h1>
-
 <style>
     html, body {
         height: 100%;
