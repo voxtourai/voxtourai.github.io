@@ -198,15 +198,15 @@
     "relUrl": "/api/widgets.html"
   },"33": {
     "doc": "Widgets",
-    "title": "Desktop Widget",
+    "title": "Desktop Widget (900px x 700px)",
     "content": " ",
-    "url": "https://support.voxtour.ai/api/widgets.html#desktop-widget",
-    "relUrl": "/api/widgets.html#desktop-widget"
+    "url": "https://support.voxtour.ai/api/widgets.html#desktop-widget-900px-x-700px",
+    "relUrl": "/api/widgets.html#desktop-widget-900px-x-700px"
   },"34": {
     "doc": "Widgets",
-    "title": "Mobile Widget",
+    "title": "Mobile Widget (400px x 700px)",
     "content": " ",
-    "url": "https://support.voxtour.ai/api/widgets.html#mobile-widget",
-    "relUrl": "/api/widgets.html#mobile-widget"
+    "url": "https://support.voxtour.ai/api/widgets.html#mobile-widget-400px-x-700px",
+    "relUrl": "/api/widgets.html#mobile-widget-400px-x-700px"
   }
 }
