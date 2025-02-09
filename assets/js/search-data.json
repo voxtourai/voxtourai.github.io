@@ -196,5 +196,17 @@
     "content": " ",
     "url": "https://support.voxtour.ai/api/widgets.html",
     "relUrl": "/api/widgets.html"
+  },"33": {
+    "doc": "Widgets",
+    "title": "Desktop Widget",
+    "content": " ",
+    "url": "https://support.voxtour.ai/api/widgets.html#desktop-widget",
+    "relUrl": "/api/widgets.html#desktop-widget"
+  },"34": {
+    "doc": "Widgets",
+    "title": "Mobile Widget",
+    "content": " ",
+    "url": "https://support.voxtour.ai/api/widgets.html#mobile-widget",
+    "relUrl": "/api/widgets.html#mobile-widget"
   }
 }
