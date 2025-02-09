@@ -9,6 +9,7 @@ div.api-url-box {
   background-color: #e4e4e4;
   padding: 5px;
   margin-bottom: 10px;
+  display: flex;
 }
 @media screen and (min-width: 800px) {
   div.api-url-box {
