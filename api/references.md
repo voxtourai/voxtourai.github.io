@@ -19,7 +19,7 @@ VoxTour.ai provides a powerful API for integrating AI-powered audio guides and t
             <span>POST</span> https://api.voxtour.ai/v1/{{ item.title }}
         </div>
         <div class="api-share">
-            <a href="{{ item.url }}"><img alt="Share" src="/assets/images/share-icon-20x20.png"></a>
+            <a href="{{ item.url }}"><img alt="Share" src="/assets/images/share-icon-20x20-tr.png"></a>
         </div>
     </div>
     {{item.content}}
