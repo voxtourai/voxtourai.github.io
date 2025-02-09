@@ -49,18 +49,18 @@ Returns detailed information about the requested location, including name, descr
 {
     "locationId": "6e72952b-e987-4b5c-9f05-b568d622bdbf",
     "name": "Cultural Tapestry Trail: A Journey Through Toronto's Heritage",
-    "text": "Union Station, a major railway station and intermodal transportation hub in Toronto, Ontario, Canada, stands as a testament to the country's rich rail heritage...",
+    "text": "Union Station, a major railway station ...",
     "audio": "https://bff.voxtour.ai/downloadFile/6bb7430a-b436-4333-bb2b-690d17380254",
     "imageList": [
         {
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/CN_Tower.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/CN_Tower.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower.jpg",
-        "attributionHtml": "<a href='https://commons.wikimedia.org/wiki/File:CN_Tower.jpg'>Giorgio Galeotti</a>, <a href='https://creativecommons.org/licenses/by/4.0'>CC BY 4.0</a>"
+        "attributionHtml": "Giorgio Galeotti, CC BY 4.0"
         },
         {
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/90/CN_Tower_Toronto.jpg",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/CN_Tower_Toronto.jpg",
         "sourceUrl": "https://commons.wikimedia.org/wiki/File:CN_Tower_Toronto.jpg",
-        "attributionHtml": "<a href='https://commons.wikimedia.org/wiki/File:CN_Tower_Toronto.jpg'>Ken Lund</a>, <a href='https://creativecommons.org/licenses/by-sa/2.0'>CC BY-SA 2.0</a>"
+        "attributionHtml": "Ken Lund, CC BY-SA 2.0"
         }
     ]
 }

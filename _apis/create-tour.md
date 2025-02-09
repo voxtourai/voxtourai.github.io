@@ -33,7 +33,7 @@ order: 6
        "OptimismPessimism": 3,
        "LanguageStyle": 3
    },
-   "tourTheme": "This tour focuses on Modern Toronto, showcasing the city's architectural marvels, cutting-edge urban developments, contemporary art, and vibrant city life."
+   "tourTheme": "This tour focuses on Modern Toronto, showcasing the ..."
 }
 {% endhighlight %}
 
