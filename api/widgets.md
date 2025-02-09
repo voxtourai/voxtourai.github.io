@@ -33,14 +33,17 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
     }
 </style>
 
-## Desktop Widget (900px x 700px)
-
+<details>
+    <summary>Desktop Widget (900px x 700px)</summary>
 <div class="voxtour-desctop-widget-container">
     <iframe class="voxtour-widget" src="https://widget.voxtour.ai/"></iframe>
 </div>
+</details>
 
-## Mobile Widget (400px x 700px)
+<details>
+    <summary>Mobile Widget (400px x 700px)</summary>
 
 <div class="voxtour-mobile-widget-container">
     <iframe class="voxtour-widget" src="https://widget.voxtour.ai/"></iframe>
 </div>
+</details>
