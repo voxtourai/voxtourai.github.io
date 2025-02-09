@@ -4,7 +4,7 @@ title: "uploadImage"
 order: 3
 ---
 
-<div>The Upload Image API allows users to upload an image file and receive a unique image ID in response. This API supports multipart form data and requires an API key for authentication.</div>
+<div>uploadImage API allows users to upload an image file and receive a unique image ID in response. This API supports multipart form data and requires an API key for authentication.</div>
 
 <h3>Key Features</h3>
 <ol>

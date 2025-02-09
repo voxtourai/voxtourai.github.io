@@ -1,10 +1,10 @@
 ---
 layout: api
-title: "updateTourTemplateImage"
+title: "queryPOIs"
 order: 4
 ---
 
-<div>The <strong>updateTourTemplateImage API</strong> allows users to update the image associated with a tour template by providing a valid tour template ID and an uploaded image file ID. This API ensures that the tour template displays the latest visual representation.</div>
+<div>queryPOIs API allows users to update the image associated with a tour template by providing a valid tour template ID and an uploaded image file ID. This API ensures that the tour template displays the latest visual representation.</div>
 
 <h3>Key Features</h3>
 <ol>
