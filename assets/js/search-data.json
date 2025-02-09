@@ -193,20 +193,8 @@
   },"32": {
     "doc": "Widgets",
     "title": "Widgets",
-    "content": " ",
+    "content": "Desktop Widget (900px x 700px) Mobile Widget (400px x 700px) ",
     "url": "https://support.voxtour.ai/api/widgets.html",
     "relUrl": "/api/widgets.html"
-  },"33": {
-    "doc": "Widgets",
-    "title": "Desktop Widget (900px x 700px)",
-    "content": " ",
-    "url": "https://support.voxtour.ai/api/widgets.html#desktop-widget-900px-x-700px",
-    "relUrl": "/api/widgets.html#desktop-widget-900px-x-700px"
-  },"34": {
-    "doc": "Widgets",
-    "title": "Mobile Widget (400px x 700px)",
-    "content": " ",
-    "url": "https://support.voxtour.ai/api/widgets.html#mobile-widget-400px-x-700px",
-    "relUrl": "/api/widgets.html#mobile-widget-400px-x-700px"
   }
 }
