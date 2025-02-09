@@ -1,9 +1,9 @@
 ---
 layout: default
-title: API
-description: API
+title: API & Widgets
+description: API & Widgets
 nav_order: 6
 has_children: true
 ---
 
-# API
+# API & Widgets
