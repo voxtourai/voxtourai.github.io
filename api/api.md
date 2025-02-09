@@ -2,7 +2,7 @@
 layout: default
 title: API & Widgets
 description: API & Widgets
-nav_order: 6
+nav_order: 3
 has_children: true
 ---
 
