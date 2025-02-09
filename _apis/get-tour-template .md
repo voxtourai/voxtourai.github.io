@@ -41,16 +41,16 @@ order: 5
 Returns details of the requested tour template:
 {% highlight json %}
 {
-"tourTemplateId": "6e72952b-e987-4b5c-9f05-b568d622bdbf",
-"name": "Cultural Tapestry Trail: A Journey Through Toronto's Heritage",
-"description": "Embark on a cultural journey through Toronto, visiting landmarks such as CN Tower, Union Station, and more.",
-"lang": "en",
-"durationInMinutes": 240,
-"distanceInMeters": 4500,
-"poiIdList": [
-{ "poiId": "edea824b-5aad-4691-98e1-1493269521b2" },
-{ "poiId": "6dcfc4f0-81c5-4f19-b3df-09464a84213b" },
-{ "poiId": "c5e38d48-74c4-438d-8860-d9953afab1fd" }
-]
+    "tourTemplateId": "6e72952b-e987-4b5c-9f05-b568d622bdbf",
+    "name": "Cultural Tapestry Trail: A Journey Through Toronto's Heritage",
+    "description": "Embark on a cultural journey through Toronto, visiting landmarks such as CN Tower, Union Station, and more.",
+    "lang": "en",
+    "durationInMinutes": 240,
+    "distanceInMeters": 4500,
+    "poiIdList": [
+        { "poiId": "edea824b-5aad-4691-98e1-1493269521b2" },
+        { "poiId": "6dcfc4f0-81c5-4f19-b3df-09464a84213b" },
+        { "poiId": "c5e38d48-74c4-438d-8860-d9953afab1fd" }
+    ]
 }
 {% endhighlight %}
