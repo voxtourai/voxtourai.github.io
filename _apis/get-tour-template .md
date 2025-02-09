@@ -43,7 +43,7 @@ Returns details of the requested tour template:
 {
     "tourTemplateId": "6e72952b-e987-4b5c-9f05-b568d622bdbf",
     "name": "Cultural Tapestry Trail: A Journey Through Toronto's Heritage",
-    "description": "Embark on a cultural journey through Toronto, visiting landmarks such as CN Tower, Union Station, and more.",
+    "description": "Embark on a cultural journey through Toronto ...",
     "lang": "en",
     "durationInMinutes": 240,
     "distanceInMeters": 4500,
