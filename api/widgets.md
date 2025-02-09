@@ -13,7 +13,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
         margin: 0;
     }
     .voxtour-desctop-widget-container {
-        width: 730px;
+        width: 900px;
         height: 700px;
         margin: 0 auto;
         display: flex;
