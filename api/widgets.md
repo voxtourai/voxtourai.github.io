@@ -68,18 +68,32 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
             const deltaY = Math.abs(touch.clientY - iframe.dataset.startY);
 
             if (deltaY > deltaX) {
-                // Calculate actual scroll movement
                 let scrollAmount = lastTouchY - touch.clientY;
                 window.scrollBy(0, scrollAmount);
-                lastTouchY = touch.clientY; // Update last Y position
-                event.preventDefault(); // Prevent iframe from capturing the event
+                lastTouchY = touch.clientY;
+                event.preventDefault();
             }
+        }, { passive: false });
+
+        iframe.contentWindow?.document.addEventListener("touchmove", function(event) {
+            event.stopPropagation();
+            event.preventDefault();
         }, { passive: false });
     }
 
-    // Apply the function to both iframes
     document.addEventListener("DOMContentLoaded", function () {
-        enableParentScroll(document.getElementById("desktop-iframe"));
-        enableParentScroll(document.getElementById("mobile-iframe"));
+        const desktopIframe = document.getElementById("desktop-iframe");
+        const mobileIframe = document.getElementById("mobile-iframe");
+
+        enableParentScroll(desktopIframe);
+        enableParentScroll(mobileIframe);
+
+        desktopIframe.addEventListener("load", function() {
+            enableParentScroll(desktopIframe);
+        });
+
+        mobileIframe.addEventListener("load", function() {
+            enableParentScroll(mobileIframe);
+        });
     });
 </script>
