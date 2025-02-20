@@ -23,6 +23,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
         border: 3px solid #aaa;
         border-radius: 10px;
         padding: 5px;
+        overflow: hidden;
     }
     .voxtour-widget {
         width: 100%;
@@ -59,7 +60,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
             const touch = event.touches[0];
             iframe.dataset.startX = touch.clientX;
             iframe.dataset.startY = touch.clientY;
-            lastTouchY = touch.clientY; // Store initial touch Y position
+            lastTouchY = touch.clientY;
         });
 
         iframe.addEventListener("touchmove", function(event) {
@@ -68,16 +69,12 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
             const deltaY = Math.abs(touch.clientY - iframe.dataset.startY);
 
             if (deltaY > deltaX) {
+                event.stopPropagation();
+                event.preventDefault();
                 let scrollAmount = lastTouchY - touch.clientY;
                 window.scrollBy(0, scrollAmount);
                 lastTouchY = touch.clientY;
-                event.preventDefault();
             }
-        }, { passive: false });
-
-        iframe.contentWindow?.document.addEventListener("touchmove", function(event) {
-            event.stopPropagation();
-            event.preventDefault();
         }, { passive: false });
     }
 
@@ -87,13 +84,5 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 
         enableParentScroll(desktopIframe);
         enableParentScroll(mobileIframe);
-
-        desktopIframe.addEventListener("load", function() {
-            enableParentScroll(desktopIframe);
-        });
-
-        mobileIframe.addEventListener("load", function() {
-            enableParentScroll(mobileIframe);
-        });
     });
 </script>
