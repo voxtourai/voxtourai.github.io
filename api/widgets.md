@@ -28,6 +28,8 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
         width: 100%;
         height: 100%;
         border: none;
+        touch-action: none;
+        pointer-events: auto;
     }
 </style>
 
