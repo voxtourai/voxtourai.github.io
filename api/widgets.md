@@ -29,10 +29,9 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
         width: 100%;
         height: 100%;
         border: none;
-        touch-action: pan-x;
         pointer-events: auto;
     }
-    .full-screen {
+    .voxtour-full-screen {
         width: 100vw !important;
         height: 100vh !important;
         position: fixed !important;
@@ -65,39 +64,31 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 </details>
 
 <script>
-    function toggleFullScreen() {
-        print("+++++++++++ toggleFullScreen")
-        let activeIframe = document.activeElement;
-        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
-            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
-        }
-        if (activeIframe) {
-            let container = activeIframe.parentNode;
-            container.classList.add('full-screen');
-        }
-    }
+    window.addEventListener("message", function(event) {
+      if (event.data && event.data.action === "vtwEnterFullScreen") {
+        vtwEnterFullScreen();
+      }
+    }, false);
 
-    function vtwEnterFullScreen() {
-        print("+++++++++++ vtwEnterFullScreen")
-        let activeIframe = document.activeElement;
-        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
-            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
-        }
-        if (activeIframe) {
-            let container = activeIframe.parentNode;
-            container.classList.add('full-screen');
-        }
-    }
+  function vtwEnterFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.add('voxtour-full-screen');
+      }
+  }
 
-    function vtwExitFullScreen() {
-        print("+++++++++++ vtwExitFullScreen")
-        let activeIframe = document.activeElement;
-        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
-            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
-        }
-        if (activeIframe) {
-            let container = activeIframe.parentNode;
-            container.classList.remove('full-screen');
-        }
-    }
+  function vtwExitFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.remove('voxtour-full-screen');
+      }
+  }
 </script>
