@@ -69,6 +69,8 @@
     window.addEventListener("message", function(event) {
       if (event.data && event.data.action === "vtwEnterFullScreen") {
         vtwEnterFullScreen();
+      } else if (event.data && event.data.action === "vtwExitFullScreen") {
+        vtwExitFullScreen();
       }
     }, false);
 
