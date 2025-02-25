@@ -66,6 +66,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 
 <script>
     function toggleFullScreen() {
+        print("+++++++++++ toggleFullScreen")
         let activeIframe = document.activeElement;
         if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
             activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
@@ -77,6 +78,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
     }
 
     function vtwEnterFullScreen() {
+        print("+++++++++++ vtwEnterFullScreen")
         let activeIframe = document.activeElement;
         if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
             activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
@@ -88,6 +90,7 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
     }
 
     function vtwExitFullScreen() {
+        print("+++++++++++ vtwExitFullScreen")
         let activeIframe = document.activeElement;
         if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
             activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
