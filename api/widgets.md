@@ -32,6 +32,18 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
         touch-action: pan-x;
         pointer-events: auto;
     }
+    .full-screen {
+        width: 100vw !important;
+        height: 100vh !important;
+        position: fixed !important;
+        top: 0 !important;
+        left: 0 !important;
+        z-index: 9999 !important;
+        border: none !important;
+        border-radius: 0 !important;
+        padding: 0 !important;
+        background: #fff;
+    }
 </style>
 
 <details>
@@ -48,41 +60,41 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
 <div class="voxtour-mobile-widget-container">
     <iframe class="voxtour-widget"  id="mobile-iframe" 
         src="https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=89c0e34d-8d32-402d-9752-11a49ef04f73">
-    </iframe>
+    </iframe>   
 </div>
 </details>
 
 <script>
-    function enableParentScroll(iframe) {
-        let lastTouchY = 0;
-
-        iframe.addEventListener("touchstart", function(event) {
-            const touch = event.touches[0];
-            iframe.dataset.startX = touch.clientX;
-            iframe.dataset.startY = touch.clientY;
-            lastTouchY = touch.clientY;
-        });
-
-        iframe.addEventListener("touchmove", function(event) {
-            const touch = event.touches[0];
-            const deltaX = Math.abs(touch.clientX - iframe.dataset.startX);
-            const deltaY = Math.abs(touch.clientY - iframe.dataset.startY);
-
-            if (deltaY > deltaX) {
-                event.stopPropagation();
-                event.preventDefault();
-                let scrollAmount = lastTouchY - touch.clientY;
-                window.scrollBy(0, scrollAmount);
-                lastTouchY = touch.clientY;
-            }
-        }, { passive: false });
+    function toggleFullScreen() {
+        let activeIframe = document.activeElement;
+        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+        }
+        if (activeIframe) {
+            let container = activeIframe.parentNode;
+            container.classList.add('full-screen');
+        }
     }
 
-    document.addEventListener("DOMContentLoaded", function () {
-        const desktopIframe = document.getElementById("desktop-iframe");
-        const mobileIframe = document.getElementById("mobile-iframe");
+    function vtwEnterFullScreen() {
+        let activeIframe = document.activeElement;
+        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+        }
+        if (activeIframe) {
+            let container = activeIframe.parentNode;
+            container.classList.add('full-screen');
+        }
+    }
 
-        enableParentScroll(desktopIframe);
-        enableParentScroll(mobileIframe);
-    });
+    function vtwExitFullScreen() {
+        let activeIframe = document.activeElement;
+        if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+            activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+        }
+        if (activeIframe) {
+            let container = activeIframe.parentNode;
+            container.classList.remove('full-screen');
+        }
+    }
 </script>
