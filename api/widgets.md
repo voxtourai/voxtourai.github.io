@@ -67,6 +67,8 @@ description: VoxTour.ai provides a powerful API for integrating AI-powered audio
     window.addEventListener("message", function(event) {
       if (event.data && event.data.action === "vtwEnterFullScreen") {
         vtwEnterFullScreen();
+      } else if (event.data && event.data.action === "vtwExitFullScreen") {
+        vtwExitFullScreen();
       }
     }, false);
 
