@@ -5,7 +5,7 @@ parent: Blog
 excerpt: VoxTour.ai Widget - Bringing Immersive Self-Guided Audio Tours to Any Website
 author: Michael Lifshits
 date: 2025-03-01
-header_image: /assets/images/ways-to-experience-voxtour.webp
+header_image: /assets/images/introducing-widget.webp
 ---
 
 <style>
