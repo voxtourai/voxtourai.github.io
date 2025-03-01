@@ -80,7 +80,7 @@ To demonstrate how the **VoxTour Widget** works, let's take a look at a self-gui
 > **Try It Live:** Explore the **Amsterdam Walking Tour**, featuring narrated insights on must-visit locations like the Royal Palace of Amsterdam, Dam Square, Westerkerk, and the famous canals.
 
 <div class="voxtour-widget-container">
-    <iframe class="voxtour-widget"  id="desktop-iframe" 
+    <iframe class="voxtour-widget"  id="widget-iframe" 
         src="https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=02c2f25a-ccdd-4a2b-8f5e-d75ae63ef0b7">
     </iframe>
 </div>
@@ -122,3 +122,35 @@ One of the most powerful features of the VoxTour Widget is its full-screen mode,
 The **VoxTour Widget** brings destinations to life, offering a unique way to engage your audience with immersive, self-guided experiences. Whether you want to **enhance your blog, promote a city’s heritage, or provide travelers with rich audio storytelling**, this simple yet powerful tool is a game-changer.
 
 📌 **Try it for yourself! Embed the VoxTour Widget today and give your audience an unforgettable travel experience!**
+
+<script>
+    window.addEventListener("message", function(event) {
+      if (event.data && event.data.action === "vtwEnterFullScreen") {
+        vtwEnterFullScreen();
+      } else if (event.data && event.data.action === "vtwExitFullScreen") {
+        vtwExitFullScreen();
+      }
+    }, false);
+
+  function vtwEnterFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("widget-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.add('voxtour-full-screen');
+      }
+  }
+
+  function vtwExitFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("widget-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.remove('voxtour-full-screen');
+      }
+  }
+</script>
