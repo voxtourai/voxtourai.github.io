@@ -86,10 +86,10 @@ To demonstrate how the **VoxTour Widget** works, let's take a look at a self-gui
 </div>
 
 This widget allows users to:  
-✅ Listen to **high-quality narrated stories** about Amsterdam’s history and culture.  
-✅ Follow a **GPS-based tour** for a real-time exploration experience.  
-✅ View images and descriptions of each **Point of Interest (POI)**.  
-✅ Use **full-screen mode** for an app-like immersive experience.
+- Listen to **high-quality narrated stories** about Amsterdam’s history and culture.  
+- Follow a **GPS-based tour** for a real-time exploration experience.  
+- View images and descriptions of each **Point of Interest (POI)**.  
+- Use **full-screen mode** for an app-like immersive experience.
 
 ---
 
@@ -99,11 +99,11 @@ One of the most powerful features of the VoxTour Widget is its full-screen mode,
 
 ### What Does This Mean?
 
-✅ **Feels Like a Mobile App:** When users enter full-screen mode, the widget functions just like a dedicated app, eliminating distractions like browser tabs and toolbars.
+**Feels Like a Mobile App:** When users enter full-screen mode, the widget functions just like a dedicated app, eliminating distractions like browser tabs and toolbars.
 
-✅ **Fast and Smooth Performance:** The tour loads quickly and functions seamlessly, even in areas with **poor internet connectivity**.
+**Fast and Smooth Performance:** The tour loads quickly and functions seamlessly, even in areas with **poor internet connectivity**.
 
-✅ **Add to Home Screen:** Visitors can **save the tour as an icon** on their smartphone’s home screen for easy access, just like a native app.
+**Add to Home Screen:** Visitors can **save the tour as an icon** on their smartphone’s home screen for easy access, just like a native app.
 
 ---
 
