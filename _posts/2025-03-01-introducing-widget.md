@@ -14,7 +14,7 @@ header_image: /assets/images/introducing-widget.webp
         margin: 0;
     }
     .voxtour-widget-container {
-        width: 736px;
+        width: 720px;
         height: 700px;
         border: 3px solid #aaa;
         border-radius: 6px;
