@@ -193,7 +193,7 @@
   },"32": {
     "doc": "Widgets",
     "title": "Widgets",
-    "content": "Desktop Widget (770px x 700px) Mobile Widget (400px x 700px) ",
+    "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
     "url": "https://support.voxtour.ai/api/widgets.html",
     "relUrl": "/api/widgets.html"
   }
