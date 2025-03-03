@@ -117,6 +117,12 @@ One of the most powerful features of the VoxTour Widget is its full-screen mode,
 
 ---
 
+## Trusted by Our Amazing Partners
+
+We are proud to collaborate with incredible partners like **[TripsNotes.com](https://tripsnotes.com/listen-and-travel-free-audio-tours/)** , who have already integrated the VoxTour Widget into their platform. They love how this feature enhances user engagement and provides travelers with immersive, self-guided experiences. Their enthusiasm for our widget further proves its value in transforming travel-related content into an interactive journey!
+
+---
+
 ## Transform Your Website with VoxTour Today
 
 The **VoxTour Widget** brings destinations to life, offering a unique way to engage your audience with immersive, self-guided experiences. Whether you want to **enhance your blog, promote a city’s heritage, or provide travelers with rich audio storytelling**, this simple yet powerful tool is a game-changer.
