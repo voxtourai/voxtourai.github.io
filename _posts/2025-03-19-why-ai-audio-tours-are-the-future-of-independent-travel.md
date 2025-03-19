@@ -29,7 +29,7 @@ Unlike traditional guided tours, AI-powered audio guides provide a **completely 
 
 For example, imagine a traveler in Tokyo who loves history but has little knowledge of local traditions. An AI guide could introduce them to **hidden Shinto shrines**, **explain the significance of tea ceremonies**, and even **suggest the best street food stalls** based on real-time data.
 
-By the way, **Voxtour.ai** has an amazing new audio tour in Tokyo—explore the city like never before! Check it out here. [Check it out here](https://voxtour.ai/itinerary?itineraryId=c9225a65-228b-464b-a4b9-8f9a3957ee6e)
+By the way, **Voxtour.ai** has an amazing new audio tour in Tokyo—explore the city like never before! [Check it out here](https://voxtour.ai/itinerary?itineraryId=c9225a65-228b-464b-a4b9-8f9a3957ee6e)
 
 ## AI vs. Early Travel Tech: How Far We've Come
 
