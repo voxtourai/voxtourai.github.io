@@ -7,7 +7,6 @@ author: Lada Vasina
 date: 2025-03-15
 header_image: /assets/images/travel-smart-how-ai-can-help-you-travel-on-budget.jpg
 ---
-# Travel Smart: How AI Can Help You Explore the World on a Budget
 
 ## The Rise of Budget Travel in the AI Era
 
