@@ -83,5 +83,5 @@ AI-powered audio tours are **not just a convenience**—they are redefining how 
 As AI technology continues to advance, travel will become **even more immersive, intuitive, and engaging**. Whether you're a solo backpacker, a digital nomad, or simply a traveler who loves flexibility, AI audio tours are the **future of exploration**.
 
 ### Ready to Experience Travel on Your Terms?
-Start your journey with an **AI-powered audio tour** and discover a whole new way to explore the world—at your own pace!
+Start your journey with an [**AI-powered VoxTour.ai audio tours**](https://voxtour.ai/)and discover a whole new way to explore the world—at your own pace!
 
