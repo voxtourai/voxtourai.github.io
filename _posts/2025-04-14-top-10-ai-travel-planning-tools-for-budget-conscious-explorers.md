@@ -44,6 +44,9 @@ Google Travel's AI suggests optimized travel dates, shows price history, and hel
 
 **5. Roam Around**\  
 *Best for: Instant AI-generated itineraries*\
+
+![WayAway](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-roamaround.jpg)
+
 Just input your destination and trip length, and Roam Around creates a daily travel itinerary for you, complete with sightseeing, dining, and transport tips.
 
 **6. ChatGPT (OpenAI)**\  
