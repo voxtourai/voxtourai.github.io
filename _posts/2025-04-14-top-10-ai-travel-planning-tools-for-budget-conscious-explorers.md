@@ -37,6 +37,9 @@ An AI travel search engine offering not only low prices but also cashback on fli
 
 **4. Google Travel**\  
 *Best for: Smart itinerary planning and tracking prices*\
+
+![WayAway](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-google.jpg)
+
 Google Travel's AI suggests optimized travel dates, shows price history, and helps organize your bookings in one place.
 
 **5. Roam Around**\  
