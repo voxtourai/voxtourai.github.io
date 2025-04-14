@@ -14,8 +14,9 @@ Traveling doesn’t have to be expensive, especially if you’re armed with smar
 Here are the top 10 AI travel planning tools that every budget-conscious explorer should know:
 
 
-**1. Hopper**  
-*Best for: Predicting the best time to book flights and hotels*\
+**1. Hopper**
+*Best for: Predicting the best time to book flights and hotels*  
+![Hopper - how it works?](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-hopper.jpg)
 Hopper uses powerful AI algorithms to analyze billions of flight and hotel prices every day. It tells you when to book and when to wait, helping you save up to 40% on flights.
 
 **2. Skyscanner**  
