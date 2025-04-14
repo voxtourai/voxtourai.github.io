@@ -24,12 +24,15 @@ Hopper uses powerful AI algorithms to analyze billions of flight and hotel price
 **2. Skyscanner**\  
 *Best for: Finding budget flights globally*\
 
-![Hopper - how it works?](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-skyscanner.jpg)
+![Skyscanner](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-skyscanner.jpg)
 
 Skyscanner's AI helps you search for the cheapest flights across flexible dates and locations. The "Everywhere" feature is a goldmine for spontaneous, budget-friendly trips.
 
 **3. WayAway**\ 
 *Best for: Flight cashback and itineraries*\
+
+![WayAway](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-wayaway.jpg)
+
 An AI travel search engine offering not only low prices but also cashback on flights booked through their platform. Great for frequent travelers looking to save more.
 
 **4. Google Travel**\  
