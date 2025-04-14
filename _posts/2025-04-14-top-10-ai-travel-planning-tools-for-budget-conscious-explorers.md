@@ -72,14 +72,14 @@ Kiwi.com uses AI to mix and match transportation modes, giving you the cheapest 
 **9. Wanderlog**<br>
 *Best for: Group travel and collaborative planning*<br>
 
-![Kiwi.com](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-wanderlog.jpg)
+![Wanderlog](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-wanderlog.jpg)
 
 Perfect for budget-conscious groups, Wanderlog helps you collaboratively plan your trip, organize expenses, and map your route—all in one place.
 
 **10. Rome2Rio**<br>
 *Best for: Comparing multiple transport options*<br>
 
-![Kiwi.com](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-rome2rio.jpg)
+![Rome2Rio](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-rome2rio.jpg)
 
 Rome2Rio uses AI to show every possible travel option between two places—planes, trains, buses, ferries, or cars—with pricing and duration estimates.
 
