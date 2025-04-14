@@ -7,7 +7,6 @@ author: Lada Vasina
 date: 2025-04-14
 header_image: /assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers.jpg
 ---
-**Top 10 AI Travel Planning Tools for Budget-Conscious Explorers**
 
 Traveling doesn’t have to be expensive, especially if you’re armed with smart tools that help you plan better, book smarter, and explore more affordably. Thanks to AI, planning a trip is no longer a time-consuming or overwhelming task. Whether you're a solo backpacker, a family traveler, or a weekend wanderer, these AI-powered travel tools can help you explore the world without breaking the bank.
 
@@ -58,6 +57,9 @@ Use ChatGPT as your AI travel assistant to get personalized recommendations for 
 
 **7. TripPlanner AI**<br>  
 *Best for: Generating complete travel itineraries with estimated costs*<br>
+
+![WayAway](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-tripplannerai.jpg)
+
 This tool allows users to generate full itineraries including accommodations, attractions, and local transportation while keeping an eye on the budget.
 
 **8. Kiwi.com**<br>  
