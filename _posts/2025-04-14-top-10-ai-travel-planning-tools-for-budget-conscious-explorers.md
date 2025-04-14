@@ -51,6 +51,9 @@ Just input your destination and trip length, and Roam Around creates a daily tra
 
 **6. ChatGPT (OpenAI)**<br>  
 *Best for: Custom travel suggestions and planning support*<br>
+
+![WayAway](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-chatgpt.jpg)
+
 Use ChatGPT as your AI travel assistant to get personalized recommendations for routes, budget tips, destination comparisons, and more.
 
 **7. TripPlanner AI**<br>  
