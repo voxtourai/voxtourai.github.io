@@ -14,7 +14,7 @@ Traveling doesn’t have to be expensive, especially if you’re armed with smar
 Here are the top 10 AI travel planning tools that every budget-conscious explorer should know:
 
 
-**1. Hopper**\
+**1. Hopper**<br>
 *Best for: Predicting the best time to book flights and hotels*\
 
 ![Hopper - how it works?](/assets/images/top-10-ai-travel-planning-tools-for-budget-conscious-explorers-hopper.jpg)
