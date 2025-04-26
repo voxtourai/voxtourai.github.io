@@ -5,7 +5,7 @@ parent: Blog
 excerpt: How VoxTour Changes the Game. VoxTour doesn’t just feed you facts. It guides you, senses where you are, and adapts on the fly - blending planned routes with spontaneous discovery.
 author: Lada Vasina
 date: 2025-04-26
-header_image: /assets/images/what-makes-voxtour-different-warsaw-example.jpg
+header_image: /assets/images/what-makes-voxtour-different-with-warsaw-example.jpg
 ---
 # What Makes VoxTour Different from Other Apps? A Walk Through Warsaw
 
@@ -101,5 +101,7 @@ VoxTour lets you do exactly that — by **combining smart technology** with **re
 You’re not following a guide.  
 You’re walking through a living, breathing story — one that unfolds around you, wherever your feet (and your heart) take you.
 
-And that’s something most travel apps will never quite manage.
+And that’s something most travel apps will never quite manage. 
+
+You can listen to the Warsaw tour right here with our widget by **[clicking this link](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=a7e8e723-7fc6-4efa-83e7-dd77c5f025d9&locale=en&fullScreen=true&fullScreenTriggerable=false)*
 
