@@ -13,7 +13,7 @@ When you open a typical travel app, you usually get one of two options:
 - A fixed, rigid walking tour with no room for improvisation.
 - A messy map full of random points of interest, with no real story connecting them.
 
-But VoxTour.ai? It does something very different - and there’s no better place to see it in action than in **Warsaw**.
+But **[VoxTour.ai](https://voxtour.ai)**? It does something very different - and there’s no better place to see it in action than in **Warsaw**.
 
 ## 🎧 How VoxTour Changes the Game
 
@@ -103,5 +103,5 @@ You’re walking through a living, breathing story - one that unfolds around you
 
 And that’s something most travel apps will never quite manage. 
 
-You can listen to the Warsaw tour right here with our widget by **[clicking this link](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=a7e8e723-7fc6-4efa-83e7-dd77c5f025d9&locale=en&fullScreen=true&fullScreenTriggerable=false)*
+You can listen to the Warsaw tour right here with our widget by **[clicking this link](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=a7e8e723-7fc6-4efa-83e7-dd77c5f025d9&locale=en&fullScreen=true&fullScreenTriggerable=false)**
 
