@@ -27,6 +27,8 @@ Instead, you’re exploring with a smart, flexible companion - one that knows wh
 
 ## 📍 The Warsaw Example: 14 Main Sights - and 300+ Hidden Stories
 
+![Warsaw Tour](/assets/images/what-makes-voxtour-different-warsaw-example.jpg)
+
 The VoxTour Warsaw route starts like a classic walk:  
 You kick off at **Castle Square**, stand in awe before the **Royal Castle**, and stroll toward the grand **Old Town Market Square**.
 
