@@ -51,8 +51,7 @@ And here’s where **[VoxTour.ai](https://voxtour.ai/)** comes in!
 Once your destination is chosen, **VoxTour.ai** becomes your perfect travel companion.  
 Our **AI-powered audio guides** help you dive deeper into the places you visit — **turning every street into a story, every landmark into an experience**.
 
-Imagine:  
-While you walk along the coast of Crete, wander the volcanic parks of Tenerife, or explore the ancient ruins of Cyprus, **VoxTour.ai** will bring the history, culture, and hidden gems to life through engaging, easy-to-listen audio stories.
+Imagine, while you walk along the coast of Crete, wander the volcanic parks of Tenerife, or explore the ancient ruins of Cyprus, **VoxTour.ai** will bring the history, culture, and hidden gems to life through engaging, easy-to-listen audio stories.
 
 No giant tour groups, no heavy guidebooks — just **you, your journey, and your personal guide in your pocket**.
 
