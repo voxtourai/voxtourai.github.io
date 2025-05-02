@@ -2,7 +2,7 @@
 layout: post
 title: How Audio Tours Are Redefining the Way We Travel
 parent: Blog
-excerpt: Planning your next trip just got easier with AI! Discover how tools like Gemini 2.5 can help you choose the perfect destination based on weather, activities, and beauty — and how VoxTour.ai audio guides can turn your itinerary into an unforgettable journey.
+excerpt: In an era where independent travel is booming, the way we explore cities, landmarks, and cultures is changing. Gone are the days of rigid schedules and crowded group tours. Today’s traveler wants freedom, flexibility, and depth — and audio tours deliver just that.
 author: Lada Vasina
 date: 2025-05-01
 header_image: /assets/images/free_augio_tours_on_your_phone.jpg
