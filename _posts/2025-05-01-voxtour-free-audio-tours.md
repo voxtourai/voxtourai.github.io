@@ -25,7 +25,7 @@ Our tours are more than just walking directions. Each one is designed with immer
 
 ### Enrich Your Blog or Website with VoxTour Widgets
 
-VoxTour.ai doesn’t just empower travelers — we help **content creators** too. With our easy-to-use audio tour **widgets**, bloggers and travel websites can embed our guides directly into **[their articles](https://tripsnotes.com/free-audiotours/)**. Readers can listen to an audio experience without ever leaving the page, adding depth and interactivity to your content.
+VoxTour.ai doesn’t just empower travelers — we help **content creators** too. With our easy-to-use audio tour **widgets**, bloggers and travel websites can embed our guides directly into [their articles](https://tripsnotes.com/free-audiotours/). Readers can listen to an audio experience without ever leaving the page, adding depth and interactivity to your content.
 
 Whether you run a [yacht travel blog](https://oceanshaker.com/why-free-audio-tours-are-a-must-have-on-every-trip/), a local tourism site, or a cultural publication, VoxTour widgets make your content more dynamic — and more helpful to your audience.
 
