@@ -8,7 +8,7 @@ date: 2025-05-15
 header_image: /assets/images/top-cities-that-deserve-an-audio-tour.jpg
 ---
 
-Not all incredible destinations come with crowds and guidebooks. Some are quietly magical, waiting for curious travelers to discover their stories—if only there were a voice to tell them. At **Voxtour**, we believe every city has a soul. That’s why we’re working on audio tours for five underrated yet utterly fascinating destinations. Plug in your headphones and get ready to explore!
+Not all incredible destinations come with crowds and guidebooks. Some are quietly magical, waiting for curious travelers to discover their stories—if only there were a voice to tell them. At **[VoxTour.ai](https://voxtour.ai/)**, we believe every city has a soul. That’s why we’re working on audio tours for five underrated yet utterly fascinating destinations. Plug in your headphones and get ready to explore!
 
 ### 🎧 1. Aachen, Germany: The City of Emperors and Hot Springs
 
