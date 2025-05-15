@@ -16,7 +16,7 @@ Nestled near the borders of Belgium and the Netherlands, Aachen is a cultural cr
 
 But it’s not all history—Aachen’s thermal spas have soothed travelers since Roman times.
 
-👉 _Stay tuned for our upcoming **Voxtour audio guide for Aachen**—perfect for discovering legends in the streets surrounding the cathedral and thermal baths._  
+👉 _Listen right now **Voxtour audio guide for Aachen**—perfect for discovering legends in the streets surrounding the cathedral and thermal baths._  
 [**Launch the Audio Tour Widget for Aachen**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=b51fa71a-2cd2-4384-9a21-75eea7b40c96&locale=en&fullScreen=true&fullScreenTriggerable=false)
 
 ### 🏰 2. Wernigerode, Germany: A Fairytale at the Foot of the Harz Mountains
@@ -25,7 +25,7 @@ This half-timbered town looks like it leapt from the pages of a Brothers Grimm t
 
 Quirky fact: Wernigerode has Germany’s smallest house—and it’s only 2.95 meters wide!
 
-👉 _Our upcoming **Voxtour audio tour** will guide you from medieval market squares to panoramic castle views—no fairytale narrator required._  
+👉 _Our **Voxtour audio tour** will guide you from medieval market squares to panoramic castle views—no fairytale narrator required._  
 [**Launch the Audio Tour Widget for Wernigerode**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=e0feb085-8220-4981-b7b2-4de2b4d918a4&locale=en&fullScreen=true&fullScreenTriggerable=false)
 
 ### 🚲 3. Maastricht, Netherlands: Layers of History Beneath Your Feet
@@ -34,7 +34,7 @@ Maastricht isn’t just a charming university city—it’s a deep time capsule.
 
 Did you know? Beneath the city lie 20,000+ caves carved out over centuries—a perfect place for an audio-guided adventure.
 
-👉 _We’re crafting a **Voxtour Maastricht tour** that walks you through cobblestone alleys and hidden tunnels alike._  
+👉 _We crafted a **Voxtour Maastricht tour** that walks you through cobblestone alleys and hidden tunnels alike._  
 [**Launch the Audio Tour Widget for Maastricht**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=f9b9cfae-4014-447f-912f-9fec9b145772&locale=en&fullScreen=true&fullScreenTriggerable=false)
 
 
@@ -44,7 +44,7 @@ Few places are as iconic—and as mystifying—as Mont Saint-Michel. Perched ato
 
 At low tide, you can walk across the sand to reach it. At high tide, it becomes an island fortress.
 
-👉 _Our **Voxtour audio guide** will soon lead you through its narrow alleys, abbey secrets, and sweeping bay views—with no crowds or rush._  
+👉 _Our **Voxtour audio guide** leads you through its narrow alleys, abbey secrets, and sweeping bay views—with no crowds or rush._  
 [**Launch the Audio Tour Widget for Mont Saint-Michel**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=a1c9a3fa-960b-474d-b591-0092fd6ee967&locale=en&fullScreen=true&fullScreenTriggerable=false)
 
 
@@ -54,12 +54,12 @@ Known as Donostia in Basque, San Sebastián is world-famous for two things: stun
 
 Add a dash of Belle Époque architecture, and you’ve got the perfect place to explore with your senses—and our voice.
 
-👉 _Get ready for the **Voxtour San Sebastián experience**—from pintxo bars to seaside promenades._  
+👉 _Try the **Voxtour San Sebastián experience**—from pintxo bars to seaside promenades._  
 [**Launch the Audio Tour Widget for San Sebastián**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=718b3195-d93c-4b6b-a4dc-b7ca7969f8c7&locale=en&fullScreen=true&fullScreenTriggerable=false)
 
 
 ## Why These Cities?
 
-At Voxtour, we don’t just follow the tourist trail. We search for cities rich in atmosphere, layered stories, and walkable charm—places where an audio tour makes discovery more personal and immersive. These five are just the beginning.
+At Voxtour.ai, we don’t just follow the tourist trail. We search for cities rich in atmosphere, layered stories, and walkable charm—places where an audio tour makes discovery more personal and immersive. These five are just the beginning.
 
 **Want your city to be next?** Let us know in the comments or drop us a line!
