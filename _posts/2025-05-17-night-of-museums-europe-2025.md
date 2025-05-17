@@ -20,7 +20,7 @@ Experience timeless history under the stars in Athens. Enjoy free access to icon
 ### **Lisbon, Portugal**
 In Lisbon, more than 70 museums and cultural spaces join the celebration with interactive exhibitions, guided night tours, and family-friendly workshops. The **National Tile Museum**, the **MAAT**, and the **Calouste Gulbenkian Museum** all offer special access.
 
-🔗 [View Lisbon’s Program](https://www.patrimoniocultural.gov.pt/pt/agenda/noite-europeia-dos-museus/)
+🔗 [View Lisbon’s Program](https://lisboasecreta.co/en/international-museum-day-2025/)
 
 **Still around after the big night?** Use our [**audio guide to Lisbon**](
 https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=f4a59261-58a8-4b51-9a49-6767c8949e58&locale=en&fullScreen=true&fullScreenTriggerable=false) to wander its hills, neighborhoods, and viewpoints—no rush, no groups.
