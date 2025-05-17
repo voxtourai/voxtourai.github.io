@@ -60,7 +60,7 @@ Barcelona’s museums participate with style—think live jazz inside the **Pica
 
 🔗 [View Barcelona’s Program](https://fmirobcn.org/en/activities/adults-i-altres-grups/2/345/2025-international-museum-night-and-day-of-the-museums-at-the-miro)
 
-**Extending your stay?** Discover Gaudí, Gothic alleyways, and seaside charm with our [**Voxtour audio guide for Barcelona**](https://widget.voxtour.ai/barcelona).
+**Extending your stay?** Discover Gaudí, Gothic alleyways, and seaside charm with our [**Voxtour audio guide for Barcelona**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=2c0b5396-7ab6-4f20-b479-ccda4d045c68&locale=en&fullScreen=true&fullScreenTriggerable=false).
 
 ---
 
