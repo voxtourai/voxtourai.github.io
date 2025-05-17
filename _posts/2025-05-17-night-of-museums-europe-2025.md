@@ -2,7 +2,7 @@
 layout: post
 title: Night of Museums 2025 - Experience Europe’s Culture After Dark
 parent: Blog
-excerpt: One night a year, museums across Europe throw open their doors **for free**—welcoming visitors to explore art, science, and history long after sunset. The **Night of Museums** (or **La Nuit des Musées**) returns on **Saturday, May 17, 2025**, offering a magical opportunity to enjoy exhibitions under moonlight, candlelight, and sometimes even starlight.
+excerpt: One night a year, museums across Europe throw open their doors for fre- welcoming visitors to explore art, science, and history long after sunset. The Night of Museums (or La Nuit des Musées) returns on Saturday, May 17, 2025, offering a magical opportunity to enjoy exhibitions under moonlight, candlelight, and sometimes even starlight.
 author: Lada Vasina
 date: 2025-05-16
 header_image: /assets/images/night-of-museums-europe-2025.jpg
