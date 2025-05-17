@@ -29,7 +29,7 @@ https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=f4
 
 ### **Rome, Italy**
 Rome transforms into a cultural wonderland with its “Notte dei Musei.” More than 50 venues — including the Capitoline Museums and Galleria d’Arte Moderna — will stay open until 1:00 a.m. Many charge just €1. Expect everything from theater to dance to live music.  
-🔗 [Download Rome’s Program (PDF)](https://www.museiincomuneroma.it/sites/default/files/f_file/Programma%20NOTTE%20DEI%20MUSEI%202025_0.pdf)
+🔗 [Download Rome’s Program (PDF)](https://www.museiincomuneroma.it/it)
 
 ---
 
