@@ -48,7 +48,7 @@ Museums in Bologna will stay open until midnight with free access and a variety 
 ### **Madrid, Spain**
 Madrid transforms into an open-air museum on this night. Visit the **Prado Museum** or **Reina Sofía** for classic and contemporary treasures. Many galleries stay open until 1 a.m., some offering live dance or music performances.
 
-🔗 [View Madrid’s Program](https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Actividades-por-el-Dia-y-la-Noche-de-los-Museos-2025) *(check for updates close to the date)*
+🔗 [View Madrid’s Program](https://www.madrid.es/portales/munimadrid/es/Inicio/Cultura-ocio-y-deporte/Cultura-y-ocio/Actividades-por-el-Dia-y-la-Noche-de-los-Museos-2025/?vgnextchannel=c937f073808fe410VgnVCM2000000c205a0aRCRD&vgnextfmt=default&vgnextoid=2b4bd5a84a9a6910VgnVCM1000001d4a900aRCRD) *(check for updates close to the date)*
 
 **Have an extra day or two?** Dive deeper into Madrid’s stories with our [**self-guided audio tour**](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=d023c9ca-6003-4f54-881b-c6adb44058c4&locale=en&fullScreen=true&fullScreenTriggerable=false) available 24/7.
 
