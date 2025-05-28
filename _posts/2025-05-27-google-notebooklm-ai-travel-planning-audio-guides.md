@@ -20,7 +20,7 @@ Each podcast is approximately 30 minutes long, and what distinguishes it from ot
 
 Beyond its general educational uses, NotebookLM presents new opportunities for **travel planning and exploration**. Users preparing to visit an unfamiliar destination can compile relevant data—travel guides, historical references, cultural articles, or even personal travel blogs—and use them to generate a tailored podcast introduction to the location.
 
-This becomes particularly powerful when combined with **[Voxtour.ai](https://voxtour.ai)**’s audio guides, which offer **self-guided, location-aware experiences** in cities around the world. For instance, prior to visiting **Liverpool**, a traveler could use NotebookLM to build foundational knowledge through AI-generated conversations, and then use the **Voxtour Liverpool audio guide** to explore the city on-site with structured, story-rich narration.
+This becomes particularly powerful when combined with **[Voxtour.ai](https://voxtour.ai)**’s audio guides, which offer **self-guided, location-aware experiences** in cities around the world. For instance, prior to visiting **Liverpool**, a traveler could use NotebookLM to build foundational knowledge through AI-generated conversations, and then use the **[Voxtour Liverpool audio guide](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=8fb8d28d-245f-4feb-ac9b-e486dd1b46b6&locale=en&fullScreen=true&fullScreenTriggerable=false)** to explore the city on-site with structured, story-rich narration.
 
 ## Enhancing Independent Travel with AI
 
