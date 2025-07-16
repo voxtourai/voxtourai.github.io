@@ -26,6 +26,8 @@ Sure, the AI could “say” things. But it couldn’t *feel* them. It was like 
 
 ## Adding a Human Touch
 
+![dry-humored Londoner explaining the politics behind a pigeon-covered monument](https://support.voxtour.ai/assets/images/dry-humored-Londonert.jpg)
+
 We didn’t want another audio guide that rattled off bullet points. We wanted a voice that *lived* the story it was telling—something that could raise goosebumps at a war memorial or smile as it shared a quirky statue’s backstory.
 
 To make that happen, we had to teach the AI more than facts. We had to teach it *tone*. We layered prompt after prompt, voice samples, fallback scripts—anything to give it character.
