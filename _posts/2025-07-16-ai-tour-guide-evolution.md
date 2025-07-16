@@ -19,7 +19,7 @@ But it didn’t start this way.
 
 Our earliest tours, powered by models like **ChatGPT-4** and **Grok 2**, had one job: get the facts right. Even that was a challenge. These models could talk smoothly, but their confidence often outpaced their accuracy. They’d misplace events, invent historical tidbits, or confuse one monument with another. Fluent? Yes. Reliable? Not yet.
 
-We tackled this by introducing something called **RAG**—*Retrieval-Augmented Generation*. That’s a fancy way of saying: the AI checks a trusted library of real facts before it speaks. It worked. Suddenly, our tours were grounded. But there was still a missing piece: voice.
+We tackled this by introducing something called **RAG** (*Retrieval-Augmented Generation*). That’s a fancy way of saying: the AI checks a trusted library of real facts before it speaks. It worked. Suddenly, our tours were grounded. But there was still a missing piece: voice.
 
 Sure, the AI could “say” things. But it couldn’t *feel* them. It was like being on a tour with someone reading a script they’d just seen for the first time.
 
