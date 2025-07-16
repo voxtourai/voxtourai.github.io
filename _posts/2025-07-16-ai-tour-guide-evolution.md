@@ -78,7 +78,7 @@ And you’ll forget you’re listening to AI at all.
 ## Ready to Try It?
 
 Next time you're on a VoxTour, close your eyes for a moment. Listen.
-, 
+
 That voice? It started as a machine. But now, it’s something else.
 
 It’s your **storyteller**, your **companion**, your **guide** and maybe even your **friend**.
