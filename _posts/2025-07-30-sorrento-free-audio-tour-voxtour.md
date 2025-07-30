@@ -12,7 +12,7 @@ Sorrento, perched above the sparkling Bay of Naples, is a town woven with legend
 
 ## A Glimpse into Sorrento’s Past
 
-Did you know that the Greek historian Diodorus Siculus claimed Sorrento was founded by **Liparus**, the same figure who founded Lipari? According to myth, **three sirens** settled on the cliffs of Sorrento, luring sailors to their doom with beautiful song — a myth even **Ulysses** had to resist.
+Did you know that the Greek historian Diodorus Siculus claimed Sorrento was founded by **Liparus**, the same figure who founded Lipari? According to myth, **three sirens** settled on the cliffs of Sorrento, luring sailors to their doom with beautiful song, a myth even **Ulysses** had to resist.
 
 Over the centuries, Sorrento fell under the rule of **Ostrogoths, Byzantines, Saracens**, and **Spanish**, before finally joining the **Kingdom of Italy in 1861**. The town flourished, attracting literary and artistic giants like **Goethe, Byron, Wagner, Keats, Ibsen**, and **Dickens**. Today, it continues to charm with its mix of ancient culture, artisan craft, and stunning coastal views.
 
@@ -21,13 +21,13 @@ Explore Sorrento with VoxTour.ai’s Free Audio Guide
 We’re excited to announce the release of our **new self-guided audio tour**:  
 **_“Sorrento Highlights: From Villa Fiorentino to Marina Grande”_**
 
-With just your **smartphone and headphones**, you can dive into Sorrento’s rich heritage at your own pace — no guides, no groups, and no fees.
+With just your **smartphone and headphones**, you can dive into Sorrento’s rich heritage at your own pace, no guides, no groups, and no fees.
 
 👉 **[Start Listening Now](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=34966c35-73f8-4b92-b475-1494b276e3ce&locale=en&fullScreen=true&fullScreenTriggerable=false)**
 
 ![Language Selection Screenshot](/assets/images/sorrento-marine.jpg)
 
-## Tour Stops — 12 Fascinating Points of Interest
+## Tour Stops: 12 Fascinating Points of Interest
 
 1. **Villa Fiorentino**: A 20th-century villa that now hosts exhibitions and cultural events.
 2. **Corso Italia**: Sorrento’s lively main street lined with boutiques, cafes, and vibrant local life.
