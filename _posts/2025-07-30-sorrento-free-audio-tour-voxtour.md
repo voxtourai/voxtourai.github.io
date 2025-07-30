@@ -25,6 +25,8 @@ With just your **smartphone and headphones**, you can dive into Sorrento’s ric
 
 👉 **[Start Listening Now](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=34966c35-73f8-4b92-b475-1494b276e3ce&locale=en&fullScreen=true&fullScreenTriggerable=false)**
 
+![Language Selection Screenshot](/assets/images/sorrento-marine.jpg)
+
 ## Tour Stops — 12 Fascinating Points of Interest
 
 1. **Villa Fiorentino**: A 20th-century villa that now hosts exhibitions and cultural events.
@@ -42,7 +44,7 @@ With just your **smartphone and headphones**, you can dive into Sorrento’s ric
 
 ## More Than a Tour: Standalone POIs Available
 
-Besides the main tour, **VoxTour.ai offers individual audio guides for additional places around Sorrento**. You can listen to these stories anytime — whether you’re walking past or just exploring from a café.
+Besides the main tour, **VoxTour.ai offers individual audio guides for additional places around Sorrento**. You can listen to these stories anytime, whether you’re walking past or just exploring from a café.
 
 ## How to Change the Tour Language
 
