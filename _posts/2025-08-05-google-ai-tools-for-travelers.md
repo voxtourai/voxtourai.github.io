@@ -2,18 +2,18 @@
 layout: post
 title: Google AI Is Taking Over—What Travelers Need to Know
 parent: Blog
-excerpt: Google’s Gemini quickly became my go-to AI platform. The paid tier already bundles cloud storage I was paying for, and—crucially—Gemini integrates seamlessly with the rest of Google’s ecosystem. What truly impresses me, however, is the *velocity* at which the company is launching new AI tools. 
+excerpt: Google’s Gemini quickly became my go-to AI platform. The paid tier already bundles cloud storage I was paying for, and crucially Gemini integrates seamlessly with the rest of Google’s ecosystem. What truly impresses me, however, is the  velocity at which the company is launching new AI tools. 
 author: Slava Gerber
 date: 2025-08-05
 header_image: /assets/images/google-ai-tools-for-travelers.jpg
 ---
-Google’s **Gemini** quickly became my go-to AI platform. The paid tier bundles cloud storage I was already paying for, and—crucially—Gemini integrates seamlessly with the rest of Google’s ecosystem. What truly impresses me, however, is the *velocity* at which the company is launching new AI tools. Every week brings another release, and each update expands the ways travelers (and content creators) can work smarter.
+Google’s **Gemini** quickly became my go-to AI platform. The paid tier bundles cloud storage I was already paying for, and crucially Gemini integrates seamlessly with the rest of Google’s ecosystem. What truly impresses me, however, is the *velocity* at which the company is launching new AI tools. Every week brings another release, and each update expands the ways travelers (and content creators) can work smarter.
 
 > **Tip:** Pair these AI tools with [VoxTour’s free audio tours](https://voxtour.ai) for an even richer, hands-free exploration experience. Let Gemini handle your research while VoxTour guides you on-site.
 
 ## Search, Reinvented
 
-Google has embedded Gemini directly into Search. Type a query and the first block you see is now an AI-generated answer—*before* the traditional links. For users who stop at that top summary, this single change fundamentally reshapes search behavior.
+Google has embedded Gemini directly into Search. Type a query and the first block you see is now an AI-generated answer *before* the traditional links. For users who stop at that top summary, this single change fundamentally reshapes search behavior.
 
 ## Essential Google AI Tools for Modern Travelers
 
