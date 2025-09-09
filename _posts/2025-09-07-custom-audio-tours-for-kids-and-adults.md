@@ -2,7 +2,7 @@
 layout: post
 title: One Destination, Two Adventures. How Custom Audio Tours Bring History to Life for All Ages
 parent: Blog
-excerpt: Google has just rolled out a groundbreaking feature for travelers and global explorers. Their Translate app has long offered a Conversation button, which made cross-language communication more convenient. But now, with the power of AI fully integrated, Google introduces Live Translate and it feels like the future is already here.
+excerpt: Imagine arriving at the Colosseum in Rome, one of the most famous landmarks in the world. For adults, it’s a powerful symbol of ancient Rome’s grandeur, echoing stories of emperors, gladiators, and political power. For a 7-year-old? It might just look like a big broken circle made of rocks.
 author: Lada Vasina
 date: 2025-09-07
 header_image: /assets/images/custom-audio-tours-for-kids-and-adults.jpg
