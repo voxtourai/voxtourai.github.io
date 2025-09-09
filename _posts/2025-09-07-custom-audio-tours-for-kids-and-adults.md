@@ -41,7 +41,7 @@ The **kids' tour** is a storybook come to life:
 Instead of a dry history lesson, kids get a chance to imagine themselves in the arena not as passive listeners, but as curious adventurers.
 
 
-## 👨‍👩‍👧 Why It Matters
+## Why It Matters
 
 Custom kids’ tours don’t just keep children entertained, they make the trip better for the whole family:
 - **Parents can listen and learn without constant interruptions**
@@ -52,7 +52,7 @@ Custom kids’ tours don’t just keep children entertained, they make the trip 
 This balance is what turns travel from “just sightseeing” into **a shared family memory**.
 
 
-## 🌍 What’s Next
+## What’s Next
 
 At **[VoxTour.ai](https://voxtour.ai)**, we are working toward making this vision possible. Our goal is to design **multi-layered tours** where every traveler adults, teens, and kids can explore at their own level of curiosity.
 
