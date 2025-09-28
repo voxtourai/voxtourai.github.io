@@ -83,8 +83,8 @@ We’re actively expanding our catalog with new cities, themed tours (art, histo
 
 The new VoxTour app is free to download and available now:
 
-- 📱 [Download for iOS](https://voxtour.ai)
-- 📱 [Download for Android](https://voxtour.ai)
+- 📱 [Download for iOS](https://play.google.com/store/apps/details?id=ai.voxtou)
+- 📱 [Download for Android](https://apps.apple.com/us/app/voxtour-ai/id6752468240)
 
 All tours are completely free, no ads, no subscriptions, just authentic stories and immersive experiences., no subscriptions, no ads, just stories worth walking.
 
