@@ -2,6 +2,14 @@
   {% assign language_label = "Language" %}
   {% if site.active_lang == "ru" %}
     {% assign language_label = "Язык" %}
+  {% elsif site.active_lang == "es" %}
+    {% assign language_label = "Idioma" %}
+  {% elsif site.active_lang == "fr" %}
+    {% assign language_label = "Langue" %}
+  {% elsif site.active_lang == "it" %}
+    {% assign language_label = "Lingua" %}
+  {% elsif site.active_lang == "he" %}
+    {% assign language_label = "שפה" %}
   {% endif %}
   <label for="language-select">{{ language_label }}</label>
   <select id="language-select" onchange="if (this.value) window.location.href = this.value;">
@@ -12,6 +20,14 @@
         {% assign lang_label = "English" %}
       {% elsif lang == "ru" %}
         {% assign lang_label = "Русский" %}
+      {% elsif lang == "es" %}
+        {% assign lang_label = "Español" %}
+      {% elsif lang == "fr" %}
+        {% assign lang_label = "Français" %}
+      {% elsif lang == "it" %}
+        {% assign lang_label = "Italiano" %}
+      {% elsif lang == "he" %}
+        {% assign lang_label = "עברית" %}
       {% endif %}
       {% if lang == site.active_lang %}
         <option value="{{ lang_href }}" selected>{{ lang_label }}</option>

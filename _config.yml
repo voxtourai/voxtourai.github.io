@@ -13,7 +13,7 @@ theme: just-the-docs
 plugins:
   - jekyll-polyglot
 
-languages: ["en", "ru"]
+languages: ["en", "ru", "he", "es", "fr", "it"]
 default_lang: "en"
 default_lang_in_subdir: false
 exclude_from_localization:

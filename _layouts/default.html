@@ -74,7 +74,15 @@ layout: table_wrappers
       {% if site.search_enabled != false %}
         {% assign search_placeholder = "Search VoxTour Support" %}
         {% if site.active_lang == "ru" %}
-          {% assign search_placeholder = "Поиск по VoxTour Support" %}
+          {% assign search_placeholder = "Поиск по поддержке VoxTour" %}
+        {% elsif site.active_lang == "es" %}
+          {% assign search_placeholder = "Buscar en el soporte de VoxTour" %}
+        {% elsif site.active_lang == "fr" %}
+          {% assign search_placeholder = "Rechercher dans le support VoxTour" %}
+        {% elsif site.active_lang == "it" %}
+          {% assign search_placeholder = "Cerca nel supporto VoxTour" %}
+        {% elsif site.active_lang == "he" %}
+          {% assign search_placeholder = "חיפוש בתמיכת VoxTour" %}
         {% endif %}
         <div class="search">
           <div class="search-input-wrap">

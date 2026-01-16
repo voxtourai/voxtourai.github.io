@@ -68,9 +68,10 @@
         {%- endif -%}
         {%- assign display_title = node.title -%}
         {%- if active_lang != site.default_lang and node.lang != active_lang -%}
-          {%- assign mapped_title = site.data.nav_ru[node.url] -%}
-          {%- if mapped_title -%}
-            {%- assign display_title = mapped_title -%}
+          {%- assign nav_key = "nav_" | append: active_lang -%}
+          {%- assign nav_map = site.data[nav_key] -%}
+          {%- if nav_map and nav_map[node.url] -%}
+            {%- assign display_title = nav_map[node.url] -%}
           {%- endif -%}
         {%- endif -%}
         <a href="{{ node.url | absolute_url }}" class="nav-list-link{% if page.url == node.url %} active{% endif %}">{{ display_title }}</a>
@@ -85,9 +86,10 @@
               {%- endif -%}
               {%- assign child_title = child.title -%}
               {%- if active_lang != site.default_lang and child.lang != active_lang -%}
-                {%- assign mapped_child_title = site.data.nav_ru[child.url] -%}
-                {%- if mapped_child_title -%}
-                  {%- assign child_title = mapped_child_title -%}
+                {%- assign nav_key = "nav_" | append: active_lang -%}
+                {%- assign nav_map = site.data[nav_key] -%}
+                {%- if nav_map and nav_map[child.url] -%}
+                  {%- assign child_title = nav_map[child.url] -%}
                 {%- endif -%}
               {%- endif -%}
               <a href="{{ child.url | absolute_url }}" class="nav-list-link{% if page.url == child.url %} active{% endif %}">{{ child_title }}</a>
@@ -99,9 +101,10 @@
                   <li class="nav-list-item {% if page.url == grand_child.url %} active{% endif %}">
                     {%- assign grand_child_title = grand_child.title -%}
                     {%- if active_lang != site.default_lang and grand_child.lang != active_lang -%}
-                      {%- assign mapped_grand_child_title = site.data.nav_ru[grand_child.url] -%}
-                      {%- if mapped_grand_child_title -%}
-                        {%- assign grand_child_title = mapped_grand_child_title -%}
+                      {%- assign nav_key = "nav_" | append: active_lang -%}
+                      {%- assign nav_map = site.data[nav_key] -%}
+                      {%- if nav_map and nav_map[grand_child.url] -%}
+                        {%- assign grand_child_title = nav_map[grand_child.url] -%}
                       {%- endif -%}
                     {%- endif -%}
                     <a href="{{ grand_child.url | absolute_url }}" class="nav-list-link{% if page.url == grand_child.url %} active{% endif %}">{{ grand_child_title }}</a>
