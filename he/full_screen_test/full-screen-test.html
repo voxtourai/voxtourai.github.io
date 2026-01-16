@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Iframe Scroll Test</title>
+    <style>
+        html, body {
+            height: 100%;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            overflow-y: auto;
+        }
+        .content {
+            height: 500px;
+            background: linear-gradient(white, lightgray);
+            text-align: center;
+            padding: 20px;
+        }
+        .iframe-container {
+            width: 400px;
+            height: 700px;
+            border: 3px solid #aaa;
+            border-radius: 10px;
+            padding: 5px;
+            margin: 50px auto;
+            overflow: hidden;
+        }
+        .voxtour-widget {
+            width: 100%;
+            height: 100%;
+            border: none;
+            pointer-events: auto;
+        }
+        .voxtour-full-screen {
+            width: 100vw !important;
+            height: 100vh !important;
+            position: fixed !important;
+            top: 0 !important;
+            left: 0 !important;
+            z-index: 9999 !important;
+            border: none !important;
+            border-radius: 0 !important;
+            padding: 0 !important;
+            background: #fff;
+        }
+    </style>
+</head>
+<body>
+
+<div class="content">
+    <h2>Scroll the Page Normally</h2>
+    <p>Swipe up/down anywhere, including inside the iframe, and the page should scroll.</p>
+</div>
+
+<div class="iframe-container">
+    <iframe class="voxtour-widget" id="test-iframe"
+            src="http://localhost:44375/">
+    </iframe>
+</div>
+
+<div class="content">
+    <h2>Test More Scrolling Below</h2>
+    <p>Ensure vertical scroll still works when touching the iframe.</p>
+</div>
+
+<script>
+
+    window.addEventListener("message", function(event) {
+      if (event.data && event.data.action === "vtwEnterFullScreen") {
+        vtwEnterFullScreen();
+      } else if (event.data && event.data.action === "vtwExitFullScreen") {
+        vtwExitFullScreen();
+      }
+    }, false);
+
+  function vtwEnterFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.add('voxtour-full-screen');
+      }
+  }
+
+  function vtwExitFullScreen() {
+      let activeIframe = document.activeElement;
+      if (!activeIframe || activeIframe.tagName !== 'IFRAME') {
+          activeIframe = document.getElementById("desktop-iframe") || document.getElementById("mobile-iframe");
+      }
+      if (activeIframe) {
+          let container = activeIframe.parentNode;
+          container.classList.remove('voxtour-full-screen');
+      }
+  }
+</script>
+
+</body>
+</html>
