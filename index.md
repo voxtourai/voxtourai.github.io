@@ -2,6 +2,7 @@
 layout: default
 title: About
 nav_order: 1
+permalink: /
 ---
 
 At VoxTour.ai, we revolutionize the way people experience and explore the world through our cutting-edge web application for self-guided GPS tours. We blend the power of artificial intelligence with the richness of human-generated content to offer an immersive and personalized journey for users. Our platform is fueled by state-of-the-art languagemodels (LLM), ensuring that the content of each tour is not only informative but also engaging. 

@@ -1,13 +1,14 @@
 ---
 layout: default
-title: Features Overview
-parent: Help Center
-description: Features Overview
+title: Обзор функций
+parent: Центр помощи
+description: Обзор функций
 nav_order: 2
+lang: ru
 permalink: /help_center/features-overview.html
 ---
 
-# Features Overview
+# Обзор функций
 
 {% assign active_lang = site.active_lang | default: site.default_lang %}
 {% assign sorted_items = site.features_overview | sort: 'order' %}

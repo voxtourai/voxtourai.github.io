@@ -5,5 +5,9 @@ gem "webrick", "~> 1.7"
 
 gem "just-the-docs", "~> 0.3.3"
 
-gem 'jekyll-sass-converter'
+gem "jekyll-sass-converter"
+
+group :jekyll_plugins do
+  gem "jekyll-polyglot"
+end
 

@@ -1,16 +1,17 @@
 ---
 layout: default
-title: Features Overview
-parent: Help Center
-description: Features Overview
-nav_order: 2
-permalink: /help_center/features-overview.html
+title: Общая информация
+parent: Центр помощи
+description: Общая информация
+nav_order: 1
+lang: ru
+permalink: /help_center/general-information.html
 ---
 
-# Features Overview
+# Общая информация
 
 {% assign active_lang = site.active_lang | default: site.default_lang %}
-{% assign sorted_items = site.features_overview | sort: 'order' %}
+{% assign sorted_items = site.general_information | sort: 'order' %}
 {% if active_lang == site.default_lang %}
 {% assign filtered_items = sorted_items | where_exp: "item", "item.lang == nil or item.lang == active_lang" %}
 {% else %}

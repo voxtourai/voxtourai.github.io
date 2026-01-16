@@ -10,6 +10,19 @@ baseurl: ""
 
 theme: just-the-docs
 
+plugins:
+  - jekyll-polyglot
+
+languages: ["en", "ru"]
+default_lang: "en"
+default_lang_in_subdir: false
+exclude_from_localization:
+  - assets
+  - CNAME
+  - sitemap.xml
+  - robots.txt
+parallel_localization: false
+
 defaults:
   - scope:
       path: "*.md"

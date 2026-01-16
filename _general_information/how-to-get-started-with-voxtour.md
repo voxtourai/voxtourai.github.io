@@ -17,7 +17,7 @@ order: 2
 
 Once you've selected a tour, you can choose from three unique modes to enhance your exploration:
 
-- **VoxRout:** Follow a structured path through your chosen destination, ensuring you visit all key points of interest along a predefined route.
+- **VoxRoute:** Follow a structured path through your chosen destination, ensuring you visit all key points of interest along a predefined route.
 
 - **VoxExplore:** Wander freely and receive information about nearby attractions as you move, allowing for spontaneous discoveries at your own pace.
 

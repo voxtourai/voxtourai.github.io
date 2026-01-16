@@ -1,0 +1,56 @@
+<div class="language-footer">
+  {% assign language_label = "Language" %}
+  {% if site.active_lang == "ru" %}
+    {% assign language_label = "Язык" %}
+  {% endif %}
+  <label for="language-select">{{ language_label }}</label>
+  <select id="language-select" onchange="if (this.value) window.location.href = this.value;">
+    {% for lang in site.languages %}
+      {% capture lang_href %}{{site.baseurl}}/{% if lang != site.default_lang %}{{ lang }}/{% endif %}{% if page.permalink_lang[lang] != '/' %}{{page.permalink_lang[lang]}}{% endif %}{% endcapture %}
+      {% assign lang_label = lang %}
+      {% if lang == "en" %}
+        {% assign lang_label = "English" %}
+      {% elsif lang == "ru" %}
+        {% assign lang_label = "Русский" %}
+      {% endif %}
+      {% if lang == site.active_lang %}
+        <option value="{{ lang_href }}" selected>{{ lang_label }}</option>
+      {% else %}
+        <option value="{{ lang_href }}">{{ lang_label }}</option>
+      {% endif %}
+    {% endfor %}
+  </select>
+</div>
+
+<style>
+  .language-footer {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    margin-bottom: 0;
+  }
+  .language-footer select {
+    max-width: 200px;
+  }
+  .aux-nav {
+    display: flex;
+    align-items: center;
+  }
+  .aux-nav-list {
+    display: flex;
+    align-items: center;
+  }
+  .aux-nav-list-item {
+    display: flex;
+    align-items: center;
+  }
+  .aux-nav-list-item .language-footer {
+    height: 100%;
+    padding: 16px;
+    align-items: center;
+  }
+  .aux-nav-list-item .language-footer label {
+    margin: 0;
+    line-height: 1.2;
+  }
+</style>
