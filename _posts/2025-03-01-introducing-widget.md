@@ -6,6 +6,7 @@ excerpt: VoxTour.ai Widget - Bringing Immersive Self-Guided Audio Tours to Any W
 author: Michael Lifshits
 date: 2025-03-01
 header_image: /assets/images/introducing-widget.webp
+image: /assets/images/introducing-widget.webp
 ---
 
 <style>

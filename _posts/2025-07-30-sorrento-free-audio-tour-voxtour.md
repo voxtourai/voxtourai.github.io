@@ -6,6 +6,7 @@ excerpt: We are excited to announce the release of our new self-guided audio tou
 author: Lada Vasina
 date: 2025-07-30
 header_image: /assets/images/blog-sorrento.jpg
+image: /assets/images/blog-sorrento.jpg
 ---
 
 Sorrento, perched above the sparkling Bay of Naples, is a town woven with legend, beauty, and centuries of dramatic history. From ancient Greek myths to modern tourism, its streets whisper stories that have enchanted travelers for generations.

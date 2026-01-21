@@ -6,6 +6,7 @@ excerpt: Google recently introduced its new model, Gemini 3, currently considere
 author: Slava Gerber
 date: 2025-11-24
 header_image: /assets/images/google-gemini-agi-travel-planning.jpg
+image: /assets/images/google-gemini-agi-travel-planning.jpg
 ---
 
 For years, we’ve talked about AI as a tool, something that answers questions, helps with translations, or organizes a to-do list. But this moment feels different.

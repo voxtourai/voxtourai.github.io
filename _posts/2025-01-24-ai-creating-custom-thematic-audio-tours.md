@@ -6,6 +6,7 @@ author: Lada Vasina
 parent: Blog
 date: 2025-01-24
 header_image: /assets/images/ai-creating-custom-thematic-audio-tours.jpg
+image: /assets/images/ai-creating-custom-thematic-audio-tours.jpg
 ---
 
 Traveling is about more than just ticking off famous landmarks; it’s about connecting with a destination on a personal level. Custom thematic audio tours offer an innovative way to explore cities through a unique lens, whether it’s following in the footsteps of a historical figure, diving into an art movement, or uncovering culinary secrets. Unlike standard tours that provide a broad overview, thematic tours focus on specific interests, making your travel experience more meaningful and tailored.

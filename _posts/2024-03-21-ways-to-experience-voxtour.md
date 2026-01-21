@@ -6,6 +6,7 @@ excerpt: Explore the world with VoxTour.ai through VoxRoute, VoxExplore, VoxLens
 author: Michael Lifshits
 date: 2024-03-21
 header_image: /assets/images/ways-to-experience-voxtour.webp
+image: /assets/images/ways-to-experience-voxtour.webp
 ---
 
 # 5 Ways to Experience VoxTour.ai: VoxRoute, VoxExplore, VoxLens, VoxRoute+, and VoxExplore+

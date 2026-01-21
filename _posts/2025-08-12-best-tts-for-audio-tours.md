@@ -6,6 +6,7 @@ excerpt: We create and listen to a lot of narrated travel content. If you just w
 author: Lada Vasina
 date: 2025-08-12
 header_image: /assets/images/best-tts-for-audio-tours.png
+image: /assets/images/best-tts-for-audio-tours.png
 ---
 
 *We create and listen to a lot of narrated travel content. If you just want a clear answer on which TTS to and why start here. (P.S. you can sample the result in our [VoxTour audio guides](https://voxtour.ai) whenever you’re curious.)*

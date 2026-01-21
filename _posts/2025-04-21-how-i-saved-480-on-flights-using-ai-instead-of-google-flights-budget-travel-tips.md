@@ -6,6 +6,7 @@ excerpt: As a frequent traveler always on the lookout for ways to save, I recent
 author: Lada Vasina
 date: 2025-04-21
 header_image: /assets/images/how-i-saved-480-on-flights-using-ai-instead-of-google-flights-budget-travel-tips.jpg
+image: /assets/images/how-i-saved-480-on-flights-using-ai-instead-of-google-flights-budget-travel-tips.jpg
 ---
 
 As a frequent traveler always on the lookout for ways to save, I recently discovered a game-changing way to cut my flight costs. Instead of relying on traditional search engines like Google Flights, I turned to an AI-powered travel assistant—and it saved me a whopping $480! Let me walk you through the practical steps that helped me save big, and how you can apply these tips to your own travel plans.

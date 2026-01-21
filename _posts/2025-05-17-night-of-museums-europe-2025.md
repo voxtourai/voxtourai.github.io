@@ -6,6 +6,7 @@ excerpt: One night a year, museums across Europe throw open their doors for fre-
 author: Lada Vasina
 date: 2025-05-16
 header_image: /assets/images/night-of-museums-europe-2025.jpg
+image: /assets/images/night-of-museums-europe-2025.jpg
 ---
 **Saturday, May 17** brings one of Europe’s most exciting cultural evenings — **Night of Museums 2025**. Museums across the continent will stay open late, offering a rich mix of exhibitions, live performances, and creative activities, often free of charge. Whether you're fascinated by classic art, experimental displays, or just love the idea of exploring a museum after hours, this is the night to do it.
 

@@ -6,6 +6,7 @@ excerpt: Google’s Gemini quickly became my go-to AI platform. The paid tier al
 author: Slava Gerber
 date: 2025-08-05
 header_image: /assets/images/google-ai-tools-for-travelers.jpg
+image: /assets/images/google-ai-tools-for-travelers.jpg
 ---
 Google’s **Gemini** quickly became my go-to AI platform. The paid tier bundles cloud storage I was already paying for, and crucially Gemini integrates seamlessly with the rest of Google’s ecosystem. What truly impresses me, however, is the *velocity* at which the company is launching new AI tools. Every week brings another release, and each update expands the ways travelers (and content creators) can work smarter.
 

@@ -6,6 +6,7 @@ excerpt: In this guide, we’ll explore how AI can help you save money on flight
 author: Lada Vasina
 date: 2025-03-15
 header_image: /assets/images/travel-smart-how-ai-can-help-you-travel-on-budget.jpg
+image: /assets/images/travel-smart-how-ai-can-help-you-travel-on-budget.jpg
 ---
 
 ## The Rise of Budget Travel in the AI Era

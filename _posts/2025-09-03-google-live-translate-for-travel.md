@@ -6,6 +6,7 @@ excerpt: Google has just rolled out a groundbreaking feature for travelers and g
 author: Slava Gerber
 date: 2025-09-03
 header_image: /assets/images/google-live-translate-for-travel.jpg
+image: /assets/images/google-live-translate-for-travel.jpg
 ---
 Google has just rolled out a groundbreaking feature for travelers and global explorers. Their **Translate app** has long offered a *Conversation* button, which made cross-language communication more convenient. But now, with the power of AI fully integrated, Google introduces **Live Translate** and it feels like the future is already here.
 

@@ -6,6 +6,7 @@ excerpt: AI-powered audio guides provide a completely customizable experience. T
 author: Lada Vasina
 date: 2025-03-19
 header_image: /assets/images/why-ai-audio-tours-are-the-future-of-independent-travel.jpg
+image: /assets/images/why-ai-audio-tours-are-the-future-of-independent-travel.jpg
 ---
 
 ## The Rise of Independent Travel: AI as the Ultimate Companion

@@ -6,6 +6,7 @@ excerpt: Learn how VoxTour.ai works with local guides to validate POIs, create r
 author: Michael Lifshits
 date: 2024-07-22
 header_image: /assets/images/collaboration-with-local-guides.webp
+image: /assets/images/collaboration-with-local-guides.webp
 ---
 # VoxTour’s Collaboration with Local Guides
 

@@ -6,6 +6,7 @@ excerpt: Learn how we craft engaging narratives for VoxExplore and VoxRoute usin
 author: Michael Lifshits
 date: 2024-05-03
 header_image: /assets/images/how-we-build-narrative.webp
+image: /assets/images/how-we-build-narrative.webp
 ---
 # How We Build Narratives at VoxTour
 

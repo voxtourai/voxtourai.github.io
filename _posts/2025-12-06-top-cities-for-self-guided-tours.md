@@ -6,6 +6,7 @@ excerpt: Most cities welcome tour groups. They tolerate umbrellas in the air, gu
 author: Lada Vasina
 date: 2025-12-06
 header_image: /assets/images/top-cities-for-self-guided-tours.png
+image: /assets/images/top-cities-for-self-guided-tours.png
 ---
 
 *A cinematic travel story for curious wanderers.*

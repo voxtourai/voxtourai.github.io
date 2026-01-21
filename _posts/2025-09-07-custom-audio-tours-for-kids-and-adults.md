@@ -6,6 +6,7 @@ excerpt: Imagine arriving at the Colosseum in Rome, one of the most famous landm
 author: Lada Vasina
 date: 2025-09-07
 header_image: /assets/images/custom-audio-tours-for-kids-and-adults.jpg
+image: /assets/images/custom-audio-tours-for-kids-and-adults.jpg
 ---
 Traveling with kids can be magical but also tricky. Parents want history, culture, and context. Kids want fun, stories, and surprises. That’s why the idea of **family-oriented custom tours** is so powerful.
 

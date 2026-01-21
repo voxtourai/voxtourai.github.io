@@ -6,6 +6,7 @@ excerpt: After months of development, feedback, and testing, we’re proud to la
 author: Lada Vasina
 date: 2025-09-27
 header_image: /assets/images/voxtour-app-launch-new-audio-tours-phoenix-denver-colorado-springs.png
+image: /assets/images/voxtour-app-launch-new-audio-tours-phoenix-denver-colorado-springs.png
 ---
 At **VoxTour**, we believe that every city has a story to tell and the best way to hear it is by walking its streets with a local voice in your ear.
 

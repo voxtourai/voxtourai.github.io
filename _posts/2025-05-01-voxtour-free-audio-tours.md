@@ -6,6 +6,7 @@ excerpt: In an era where independent travel is booming, the way we explore citie
 author: Lada Vasina
 date: 2025-05-01
 header_image: /assets/images/free_augio_tours_on_your_phone.jpg
+image: /assets/images/free_augio_tours_on_your_phone.jpg
 ---
 In an era where independent travel is booming, the way we explore cities, landmarks, and cultures is changing. Gone are the days of rigid schedules and crowded group tours. Today’s traveler wants freedom, flexibility, and depth and **audio tours** deliver just that.
 

@@ -2,6 +2,7 @@
 
 title: VoxTour Support
 description: VoxTour.ai Support Pages
+lang: en
 
 ### Build settings
 
@@ -12,6 +13,7 @@ theme: just-the-docs
 
 plugins:
   - jekyll-polyglot
+  - jekyll-seo-tag
 
 languages: ["en", "ru", "he", "es", "fr", "it"]
 default_lang: "en"

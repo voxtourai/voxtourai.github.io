@@ -1,0 +1,43 @@
+{% assign active_lang = site.active_lang | default: site.default_lang | default: "en" %}
+{% assign default_lang = site.default_lang | default: active_lang %}
+{% assign page_url = page.url | default: "/" %}
+
+{% assign url_without_lang = page_url %}
+{% if active_lang != default_lang %}
+  {% assign lang_prefix = '/' | append: active_lang | append: '/' %}
+  {% if page_url == '/' | append: active_lang %}
+    {% assign url_without_lang = '/' %}
+  {% elsif page_url == lang_prefix %}
+    {% assign url_without_lang = '/' %}
+  {% elsif page_url contains lang_prefix %}
+    {% assign url_without_lang = page_url | replace_first: lang_prefix, '/' %}
+  {% endif %}
+{% endif %}
+
+{% if site.languages and site.languages.size > 0 %}
+  {% for lang in site.languages %}
+    {% if lang == default_lang %}
+      {% assign href = url_without_lang %}
+    {% else %}
+      {% assign href = '/' | append: lang | append: url_without_lang %}
+    {% endif %}
+    <link rel="alternate" hreflang="{{ lang }}" href="{{ href | absolute_url }}">
+  {% endfor %}
+  <link rel="alternate" hreflang="x-default" href="{{ url_without_lang | absolute_url }}">
+{% endif %}
+
+{% if page.robots %}
+  <meta name="robots" content="{{ page.robots }}">
+{% elsif page.noindex == true %}
+  <meta name="robots" content="noindex, nofollow">
+{% endif %}
+
+{% assign seo_image = nil %}
+{% if page.seo and page.seo.image %}
+  {% assign seo_image = page.seo.image %}
+{% endif %}
+{% if page.header_image and page.image == nil and seo_image == nil %}
+  <meta property="og:image" content="{{ page.header_image | absolute_url }}">
+  <meta name="twitter:image" content="{{ page.header_image | absolute_url }}">
+  <meta name="twitter:card" content="summary_large_image">
+{% endif %}

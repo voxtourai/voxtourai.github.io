@@ -6,6 +6,7 @@ excerpt: Planning your next trip just got easier with AI! Discover how tools lik
 author: Slava Gerber
 date: 2025-04-29
 header_image: /assets/images/plan-your-travel-route-with-ai-and-voxtour.jpg
+image: /assets/images/plan-your-travel-route-with-ai-and-voxtour.jpg
 ---
 Travel planning has always been exciting — but also overwhelming. Where should you go? What’s the weather like? Will there be activities for the kids?  
 Now, thanks to advancements in AI technology, planning a perfect trip has become easier, faster, and smarter than ever.

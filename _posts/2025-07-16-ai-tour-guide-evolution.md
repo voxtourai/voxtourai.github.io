@@ -6,6 +6,7 @@ excerpt: When we set out to build immersive AI-guided tours, we weren’t just l
 author: Michael Lifshits
 date: 2025-07-16
 header_image: /assets/images/ai-tour-guide-evolution.jpg
+image: /assets/images/ai-tour-guide-evolution.jpg
 ---
 
 When we set out to build immersive AI-guided tours at **[Voxtour.ai](https://voxtour.ai)**, we weren’t just trying to feed facts to travelers. We dreamed of something more vivid, a voice that could paint history, emotion, and curiosity into every corner of a city. We imagined something closer to a seasoned podcast host or a witty local storyteller than a robotic announcer.

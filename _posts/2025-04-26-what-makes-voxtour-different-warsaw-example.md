@@ -6,6 +6,7 @@ excerpt: How VoxTour Changes the Game. VoxTour doesn’t just feed you facts. It
 author: Lada Vasina
 date: 2025-04-26
 header_image: /assets/images/what-makes-voxtour-different-with-warsaw-example.jpg
+image: /assets/images/what-makes-voxtour-different-with-warsaw-example.jpg
 ---
 # What Makes VoxTour Different from Other Apps? A Walk Through Warsaw
 

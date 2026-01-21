@@ -6,6 +6,7 @@ excerpt: Explore cities like a local with VoxTour.ai, your personal AI-powered a
 author: Lada Vasina
 date: 2025-07-26
 header_image: /assets/images/1-search.jpg
+image: /assets/images/1-search.jpg
 ---
 
 Explore cities like a local with **[VoxTour.ai](https://voxtour.ai)**, your personal AI-powered audio tour companion. Whether you’re walking the streets of Paris or discovering the history of Bergen, VoxTour guides you with immersive storytelling and maps, no guidebooks or tour groups needed!

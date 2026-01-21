@@ -6,6 +6,7 @@ excerpt: NotebookLM is a generative AI tool designed to create customized audio 
 author: Lada Vasina
 date: 2025-05-27
 header_image: /assets/images/google-notebooklm-ai-travel-planning-audio-guides.jpg
+image: /assets/images/google-notebooklm-ai-travel-planning-audio-guides.jpg
 ---
 
 Recent developments in artificial intelligence continue to reshape the way users interact with information. One of the most notable innovations is Google’s new tool, **NotebookLM**, which introduces a dynamic approach to personalized audio content generation. Though still in early stages, its potential applications for travel research and education are particularly compelling.

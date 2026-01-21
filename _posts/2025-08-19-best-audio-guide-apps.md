@@ -6,6 +6,7 @@ excerpt: Compare VoxTour, VoiceMap, Rick Steves Audio Europe, and izi.TRAVEL for
 author: Lada Vasina
 date: 2025-08-19
 header_image: /assets/images/best-audio-guide-apps.jpg
+image: /assets/images/best-audio-guide-apps.jpg
 ---
 
 * **Best overall for AI-smart, multilingual tours (and free Universal routes):** **VoxTour** *(iPhone app coming very soon)*
