@@ -2,7 +2,7 @@
 layout: default
 title: Aperçu des fonctionnalités
 parent: Centre d'aide
-description: Aperçu des fonctionnalités
+description: "Aperçu des fonctionnalités VoxTour.ai comme VoxExplore, VoxRout et VoxLens, avec un guide rapide d’utilisation pour chaque mode."
 nav_order: 2
 lang: fr
 permalink: /help_center/features-overview.html

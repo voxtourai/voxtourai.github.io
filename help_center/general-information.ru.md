@@ -2,7 +2,7 @@
 layout: default
 title: Общая информация
 parent: Центр помощи
-description: Общая информация
+description: "Общая информация о VoxTour.ai: что это, как начать, поддерживаемые устройства, интернет, создание контента и озвучка."
 nav_order: 1
 lang: ru
 permalink: /help_center/general-information.html

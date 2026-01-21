@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Informazioni
+description: "VoxTour.ai è un'app web per tour GPS autoguidati con narrazioni generate dall’IA, sintesi vocale, personalizzazione e mappe interattive per viaggi immersivi."
 nav_order: 1
 lang: it
 permalink: /

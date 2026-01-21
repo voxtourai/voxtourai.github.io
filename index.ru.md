@@ -1,6 +1,7 @@
 ---
 layout: default
 title: О нас
+description: "VoxTour.ai — веб‑приложение для самостоятельных GPS‑аудиотуров с историями, созданными ИИ, озвучкой, персонализацией и интерактивными картами."
 nav_order: 1
 lang: ru
 permalink: /

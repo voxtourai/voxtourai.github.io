@@ -1,6 +1,7 @@
 ---
 layout: default
 title: אודות
+description: "VoxTour.ai היא אפליקציית ווב לסיורי GPS מודרכים עצמאית עם סיפורים שנוצרו בבינה מלאכותית, טקסט‑לדיבור, התאמה אישית ומפות אינטראקטיביות לחוויות טיול."
 nav_order: 1
 lang: he
 permalink: /

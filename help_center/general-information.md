@@ -2,7 +2,7 @@
 layout: default
 title: General Information
 parent: Help Center
-description: General Information
+description: "General VoxTour.ai info: what it is, getting started, supported devices, internet needs, content creation, and text-to-speech."
 nav_order: 1
 permalink: /help_center/general-information.html
 ---

@@ -2,7 +2,7 @@
 layout: default
 title: מידע כללי
 parent: מרכז עזרה
-description: מידע כללי
+description: "מידע כללי על VoxTour.ai: מה זה, איך מתחילים, מכשירים נתמכים, חיבור לאינטרנט, יצירת תוכן וטקסט-לדיבור."
 nav_order: 1
 lang: he
 permalink: /help_center/general-information.html

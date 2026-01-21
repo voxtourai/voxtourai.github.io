@@ -2,7 +2,7 @@
 layout: default
 title: Información general
 parent: Centro de ayuda
-description: Información general
+description: "Información general de VoxTour.ai: qué es, cómo empezar, dispositivos compatibles, conexión a internet, creación de contenido y texto a voz."
 nav_order: 1
 lang: es
 permalink: /help_center/general-information.html

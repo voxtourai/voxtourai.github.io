@@ -1,6 +1,7 @@
 ---
 layout: default
 title: À propos
+description: "VoxTour.ai est une application web de visites GPS autoguidées avec récits générés par IA, synthèse vocale, personnalisation et cartes interactives pour des voyages immersifs."
 nav_order: 1
 lang: fr
 permalink: /

@@ -2,7 +2,7 @@
 layout: default
 title: Resumen de funciones
 parent: Centro de ayuda
-description: Resumen de funciones
+description: "Resumen de funciones de VoxTour.ai como VoxExplore, VoxRout y VoxLens, con guía rápida de uso de cada modo."
 nav_order: 2
 lang: es
 permalink: /help_center/features-overview.html
