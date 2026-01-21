@@ -32,6 +32,52 @@
   <meta name="robots" content="noindex, nofollow">
 {% endif %}
 
+{% if page.parent %}
+  {% assign breadcrumb_items = "" %}
+  {% assign position = 1 %}
+  {% capture breadcrumb_items %}
+{"@type":"ListItem","position":{{ position }},"name":"Home","item":"{{ '/' | absolute_url }}"}
+  {% endcapture %}
+
+  {% if page.grand_parent %}
+    {% assign gp_title = page.grand_parent %}
+    {% assign gp_page = site.pages | where: "title", gp_title | where: "lang", active_lang | first %}
+    {% if gp_page == nil %}
+      {% assign gp_page = site.pages | where: "title", gp_title | first %}
+    {% endif %}
+    {% if gp_page %}
+      {% assign position = position | plus: 1 %}
+      {% capture gp_item %}
+{"@type":"ListItem","position":{{ position }},"name":"{{ gp_title | escape }}","item":"{{ gp_page.url | absolute_url }}"}
+      {% endcapture %}
+      {% assign breadcrumb_items = breadcrumb_items | append: "," | append: gp_item | strip %}
+    {% endif %}
+  {% endif %}
+
+  {% assign parent_title = page.parent %}
+  {% assign parent_page = site.pages | where: "title", parent_title | where: "lang", active_lang | first %}
+  {% if parent_page == nil %}
+    {% assign parent_page = site.pages | where: "title", parent_title | first %}
+  {% endif %}
+  {% if parent_page %}
+    {% assign position = position | plus: 1 %}
+    {% capture parent_item %}
+{"@type":"ListItem","position":{{ position }},"name":"{{ parent_title | escape }}","item":"{{ parent_page.url | absolute_url }}"}
+    {% endcapture %}
+    {% assign breadcrumb_items = breadcrumb_items | append: "," | append: parent_item | strip %}
+  {% endif %}
+
+  {% assign position = position | plus: 1 %}
+  {% capture current_item %}
+{"@type":"ListItem","position":{{ position }},"name":"{{ page.title | escape }}","item":"{{ page.url | absolute_url }}"}
+  {% endcapture %}
+  {% assign breadcrumb_items = breadcrumb_items | append: "," | append: current_item | strip %}
+
+  <script type="application/ld+json">
+{"@context":"https://schema.org","@type":"BreadcrumbList","itemListElement":[{{ breadcrumb_items }}]}
+  </script>
+{% endif %}
+
 {% assign seo_image = nil %}
 {% if page.seo and page.seo.image %}
   {% assign seo_image = page.seo.image %}
