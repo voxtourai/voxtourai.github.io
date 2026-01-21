@@ -48,6 +48,69 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Submit URLs to IndexNow
+        continue-on-error: true
+        run: |
+          python - <<'PY'
+          import json
+          import sys
+          import urllib.request
+          from pathlib import Path
+          
+          cname_path = Path("CNAME")
+          if not cname_path.exists():
+              raise SystemExit("CNAME not found; cannot determine host.")
+          host = cname_path.read_text().strip()
+          if not host:
+              raise SystemExit("CNAME is empty; cannot determine host.")
+          
+          key_file = None
+          key = None
+          for candidate in Path(".").glob("*.txt"):
+              content = candidate.read_text().strip()
+              if content and content == candidate.stem:
+                  key_file = candidate
+                  key = content
+                  break
+          if not key_file or not key:
+              raise SystemExit("IndexNow key file not found (expected *.txt with content matching filename).")
+          
+          base_url = f"https://{host}"
+          urls = set()
+          for path in Path("_site").rglob("*.html"):
+              rel = "/" + str(path.relative_to("_site")).replace("\\", "/")
+              if rel == "/404.html":
+                  continue
+              if rel.startswith("/full_screen_test/"):
+                  continue
+              if rel.endswith("/index.html"):
+                  rel = rel[: -len("index.html")]
+              urls.add(base_url + rel)
+          
+          if not urls:
+              print("No HTML pages found in _site; skipping IndexNow.")
+              sys.exit(0)
+          
+          url_list = sorted(urls)
+          key_location = f"{base_url}/{key_file.name}"
+          chunk_size = 10000
+          
+          for start in range(0, len(url_list), chunk_size):
+              payload = {
+                  "host": host,
+                  "key": key,
+                  "keyLocation": key_location,
+                  "urlList": url_list[start : start + chunk_size],
+              }
+              data = json.dumps(payload).encode("utf-8")
+              request = urllib.request.Request(
+                  "https://api.indexnow.org/indexnow",
+                  data=data,
+                  headers={"Content-Type": "application/json"},
+              )
+              with urllib.request.urlopen(request) as response:
+                  print(f"IndexNow submitted {len(payload['urlList'])} URLs, status {response.status}.")
+          PY
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
