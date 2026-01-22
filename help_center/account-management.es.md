@@ -16,11 +16,11 @@ Gestionar el perfil de tu cuenta es rápido y sencillo. Sigue estos pasos para e
 1. Inicia sesión en tu cuenta.
 2. Ve a la sección **Perfil**.
 
-    ![Página de perfil](/assets/images/voxtour-profile-link.jpg)
+    ![Enlace al perfil en el menú](/assets/images/voxtour-profile-link.jpg)
 
 3. Haz clic en el icono **Editar perfil** (el icono de lápiz) cerca de tu foto de perfil.
 
-![Edición de perfil](/assets/images/voxtour-profile-page-with-arrow.jpg)
+![Icono de lápiz para editar el perfil](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## Edición de la información del perfil
 
@@ -31,7 +31,7 @@ En la página **Editar perfil**, puedes modificar los siguientes campos:
 - **Apodo**: Agrega o edita tu apodo para un toque más personal.
 - **Año de nacimiento**: Ajusta tu año de nacimiento para que tu perfil sea correcto.
 
-[![Edición de perfil](/assets/images/voxtour-profile-page-edit.jpg)]
+[![Formulario de edición del perfil](/assets/images/voxtour-profile-page-edit.jpg)]
 
 ## Guardar cambios
 1. Después de actualizar los campos necesarios, haz clic en el botón **Guardar** en la esquina superior derecha de la página.

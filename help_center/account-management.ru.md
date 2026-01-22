@@ -16,11 +16,11 @@ permalink: /help_center/account-management.html
 1. Войдите в свой аккаунт.
 2. Перейдите в раздел **Профиль**.
 
-    ![Страница профиля](/assets/images/voxtour-profile-link.jpg)
+    ![Ссылка на профиль в меню](/assets/images/voxtour-profile-link.jpg)
 
 3. Нажмите на значок **Редактировать профиль** (иконка карандаша) рядом с фото профиля.
 
-![Редактирование профиля](/assets/images/voxtour-profile-page-with-arrow.jpg)
+![Значок карандаша для редактирования профиля](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## Редактирование данных профиля
 
@@ -31,7 +31,7 @@ permalink: /help_center/account-management.html
 - **Ник**: добавьте или измените ник для персонализации.
 - **Год рождения**: укажите актуальный год рождения.
 
-[![Редактирование профиля](/assets/images/voxtour-profile-page-edit.jpg)]
+[![Форма редактирования профиля](/assets/images/voxtour-profile-page-edit.jpg)]
 
 ## Сохранение изменений
 1. После обновления данных нажмите кнопку **Сохранить** в правом верхнем углу.

@@ -26,7 +26,7 @@ With just your **smartphone and headphones**, you can dive into Sorrento’s ric
 
 👉 **[Start Listening Now](https://widget.voxtour.ai/?apiKey=96f5b69a-6f16-4b36-ae05-b85a7dd728a6&tourId=34966c35-73f8-4b92-b475-1494b276e3ce&locale=en&fullScreen=true&fullScreenTriggerable=false)**
 
-![Language Selection Screenshot](/assets/images/sorrento-marine.jpg)
+![Marina Grande waterfront in Sorrento](/assets/images/sorrento-marine.jpg)
 
 ## Tour Stops: 12 Fascinating Points of Interest
 
@@ -56,7 +56,7 @@ To change the language:
 2. Select your preferred language.
 3. The audio and text will update instantly.
 
-![Language Selection Screenshot](/assets/images/sorrento-screen.jpg)
+![Tour language selection screen](/assets/images/sorrento-screen.jpg)
 
 
 ## ▶️ Start Listening Now

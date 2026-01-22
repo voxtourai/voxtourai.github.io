@@ -14,26 +14,26 @@ To use VoxRoute:
 1. **Select Your Destination**  
 Use the search bar to enter your desired location. As you type, the platform will suggest destinations based on your input. Choose your preferred destination from these suggestions.
 
-   ![Selecting a Destination]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
+   ![Destination search bar]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
 
 2. **View Available Tours**  
 Once your destination is selected, the map screen will display the area. On the laptop, the list of available tours for the displayed area will appear on the right side of the map. On mobile, this list is shown at the bottom of the screen. Select a tour from the list to begin your guided experience.
 
-   ![Available Tours]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
+   ![Map with available tour list]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
 3. **Review Tour**  
 The app will display an overview of the tour, including its title, rating, duration, distance, and type. You can also review the description and a list of points of interest.
 
-   ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
+   ![Tour overview with details]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
 4. **Start Tour**  
 This is the main tour page displaying all Points of Interest for the selected tour. You can explore the Points of Interest on the map and access Audio Guide for each location by selecting it from the list or directly on the map.
 
-   ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
+   ![Tour map with points of interest]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
 5. **Audio Guide Page**  
 This page features an audio narration and its text transcription for the selected Point of Interest. It also includes an image gallery, allowing users to browse visuals of the location. The interface provides simple playback controls, including options to adjust the playback speed and volume.
 
-   ![Tour Map]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
+   ![POI audio guide page]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
  
 By following these steps, you can effectively utilize the VoxRoute mode to explore your destination with ease and enrich your travel experience.

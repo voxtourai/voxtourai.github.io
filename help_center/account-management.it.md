@@ -16,11 +16,11 @@ Gestire il profilo del tuo account è semplice e veloce. Segui questi passaggi p
 1. Accedi al tuo account.
 2. Vai alla sezione **Profilo**.
 
-    ![Pagina profilo](/assets/images/voxtour-profile-link.jpg)
+    ![Link del profilo nel menu](/assets/images/voxtour-profile-link.jpg)
 
 3. Fai clic sull'icona **Modifica profilo** (l'icona della matita) vicino alla tua foto profilo.
 
-![Modifica profilo](/assets/images/voxtour-profile-page-with-arrow.jpg)
+![Icona a matita per modificare il profilo](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## Modifica delle informazioni del profilo
 
@@ -31,7 +31,7 @@ Nella pagina **Modifica profilo**, puoi cambiare i seguenti campi:
 - **Nickname**: Aggiungi o modifica il tuo nickname per un tocco più personale.
 - **Anno di nascita**: Regola l'anno di nascita per mantenere il profilo accurato.
 
-[![Modifica profilo](/assets/images/voxtour-profile-page-edit.jpg)]
+[![Modulo di modifica del profilo](/assets/images/voxtour-profile-page-edit.jpg)]
 
 ## Salvataggio delle modifiche
 1. Dopo aver aggiornato i campi necessari, fai clic sul pulsante **Salva** nell'angolo in alto a destra della pagina.

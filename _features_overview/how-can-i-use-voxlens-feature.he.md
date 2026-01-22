@@ -15,24 +15,24 @@ lang: he
 1. **חפשו יעד**  
 השתמשו בשורת החיפוש כדי למצוא מקום שתרצו לחקור. בזמן ההקלדה יופיעו הצעות — בחרו את היעד הרצוי כדי לראות אותו על המפה.
     
-    ![חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-landing-page-search-bar.webp)
+    ![שורת חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-landing-page-search-bar.webp)
 
 2. **מצאו את כפתור המצלמה במפה**  
 לאחר בחירת היעד תראו מפה אינטראקטיבית עם נקודות עניין שונות. חפשו את סמל המצלמה כדי להפעיל את VoxLens.
 
-    ![חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-tour-overview-page.webp)
+    ![מפה עם כפתור מצלמה של VoxLens]({{ site.baseurl }}/assets/images/voxlens-tour-overview-page.webp)
 
 3. **טעינת תמונה**  
 בחרו תמונה מהגלריה במכשיר שמציגה את המקום הרצוי. האפליקציה תנתח את התמונה שנבחרה.
    
-    ![חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-frame-load-image.webp)
+    ![מסך טעינת תמונה ב VoxLens]({{ site.baseurl }}/assets/images/voxlens-frame-load-image.webp)
 
 4. **זיהוי תמונה**  
 VoxLens מנתחת את התמונה שהועלתה כדי לזהות את האתר. אם הזיהוי הצליח, תוכלו להוסיף prompt כדי להתאים את החוויה. ה־prompt מאפשר להוסיף הקשר או שאלות על המקום.
 
-    ![חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-frame-image-detection.webp)
+    ![תוצאות זיהוי תמונה ב VoxLens]({{ site.baseurl }}/assets/images/voxlens-frame-image-detection.webp)
 
 5. **עמוד מדריך אודיו**  
 לאחר מכן האפליקציה תיצור עבורכם מדריך אודיו בהתאם להגדרות הפרופיל, כגון העדפות קריינות ותחומי עניין.
 
-    ![חיפוש יעד]({{ site.baseurl }}/assets/images/voxlens-frame-page.webp)
+    ![עמוד מדריך אודיו של VoxLens]({{ site.baseurl }}/assets/images/voxlens-frame-page.webp)

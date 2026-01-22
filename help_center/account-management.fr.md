@@ -16,11 +16,11 @@ Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour m
 1. Connectez-vous à votre compte.
 2. Accédez à la section **Profil**.
 
-    ![Page de profil](/assets/images/voxtour-profile-link.jpg)
+    ![Lien du profil dans le menu](/assets/images/voxtour-profile-link.jpg)
 
 3. Cliquez sur l'icône **Modifier le profil** (l'icône crayon) près de votre photo de profil.
 
-![Modification du profil](/assets/images/voxtour-profile-page-with-arrow.jpg)
+![Icône crayon pour modifier le profil](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## Modification des informations du profil
 
@@ -31,7 +31,7 @@ Sur la page **Modifier le profil**, vous pouvez modifier les champs suivants:
 - **Surnom**: Ajoutez ou modifiez votre surnom pour une touche plus personnelle.
 - **Année de naissance**: Ajustez votre année de naissance pour que votre profil soit exact.
 
-[![Modification du profil](/assets/images/voxtour-profile-page-edit.jpg)]
+[![Formulaire de modification du profil](/assets/images/voxtour-profile-page-edit.jpg)]
 
 ## Enregistrer les modifications
 1. Après avoir mis à jour les champs nécessaires, cliquez sur le bouton **Enregistrer** en haut à droite de la page.

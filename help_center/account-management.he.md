@@ -16,11 +16,11 @@ permalink: /help_center/account-management.html
 1. התחברו לחשבון שלכם.
 2. עברו אל אזור **פרופיל**.
 
-    ![עמוד פרופיל](/assets/images/voxtour-profile-link.jpg)
+    ![קישור לפרופיל בתפריט](/assets/images/voxtour-profile-link.jpg)
 
 3. לחצו על סמל **עריכת פרופיל** (סמל העיפרון) ליד תמונת הפרופיל שלכם.
 
-![עריכת פרופיל](/assets/images/voxtour-profile-page-with-arrow.jpg)
+![אייקון עיפרון לעריכת הפרופיל](/assets/images/voxtour-profile-page-with-arrow.jpg)
 
 ## עריכת מידע הפרופיל
 
@@ -31,7 +31,7 @@ permalink: /help_center/account-management.html
 - **כינוי**: הוסיפו או ערכו כינוי למגע אישי יותר.
 - **שנת לידה**: עדכנו את שנת הלידה כדי לשמור על דיוק הפרופיל.
 
-[![עריכת פרופיל](/assets/images/voxtour-profile-page-edit.jpg)]
+[![טופס עריכת פרופיל](/assets/images/voxtour-profile-page-edit.jpg)]
 
 ## שמירת השינויים
 1. לאחר עדכון השדות הדרושים, לחצו על כפתור **שמור** בפינה הימנית העליונה של העמוד.

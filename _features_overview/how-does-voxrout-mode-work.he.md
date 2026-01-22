@@ -15,26 +15,26 @@ lang: he
 1. **בחרו יעד**  
 השתמשו בשורת החיפוש כדי להזין את היעד הרצוי. בזמן ההקלדה, המערכת תציע יעדים בהתאם לקלט. בחרו את היעד המתאים מתוך ההצעות.
 
-   ![בחירת יעד]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
+   ![שורת חיפוש יעד]({{ site.baseurl }}/assets/images/voxrout-landing-page-search-bar.webp)
 
 2. **צפו בסיורים זמינים**  
 לאחר בחירת היעד, מסך המפה יציג את האזור. במחשב, רשימת הסיורים הזמינים תופיע בצד ימין של המפה. במובייל, הרשימה מוצגת בתחתית המסך. בחרו סיור מהרשימה כדי להתחיל את החוויה המודרכת.
 
-   ![סיורים זמינים]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
+   ![מפה עם רשימת סיורים זמינים]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
 3. **סקירת הסיור**  
 האפליקציה תציג סקירה של הסיור, כולל כותרת, דירוג, משך, מרחק וסוג. תוכלו גם לעיין בתיאור וברשימת נקודות העניין.
 
-   ![מפת הסיור]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
+   ![סקירת סיור עם פרטים]({{ site.baseurl }}/assets/images/voxrout-tour-overview-page.webp)
 
 4. **התחילו את הסיור**  
 זו היא עמוד הסיור המרכזי שמציג את כל נקודות העניין בסיור הנבחר. תוכלו לחקור נקודות עניין על המפה ולקבל גישה למדריך האודיו לכל נקודה על ידי בחירה מהרשימה או ישירות מהמפה.
 
-   ![מפת הסיור]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
+   ![מפת סיור עם נקודות עניין]({{ site.baseurl }}/assets/images/voxrout-tour-page.webp)
 
 5. **עמוד מדריך אודיו**  
 עמוד זה מציג קריינות אודיו ותמלול טקסט עבור נקודת העניין שנבחרה. הוא כולל גם גלריית תמונות המאפשרת לעיין בתמונות המקום. הממשק מספק בקרות השמעה פשוטות, כולל אפשרויות לשינוי מהירות ההשמעה והווליום.
 
-   ![מפת הסיור]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
+   ![עמוד מדריך אודיו לנקודת עניין]({{ site.baseurl }}/assets/images/voxrout-place-page.webp)
 
 באמצעות השלבים האלה תוכלו להשתמש ב־VoxRoute בקלות ולשפר את חוויית הטיול שלכם.
