@@ -2,7 +2,7 @@
 layout: default
 title: Panoramica delle funzionalità
 parent: Centro assistenza
-description: "Panoramica delle funzionalità di VoxTour.ai come VoxExplore, VoxRout e VoxLens, con una guida rapida all’uso di ogni modalità."
+description: "Panoramica delle funzionalità di VoxTour.ai come VoxExplore, VoxRoute e VoxLens, con una guida rapida all’uso di ogni modalità."
 nav_order: 2
 lang: it
 permalink: /help_center/features-overview.html

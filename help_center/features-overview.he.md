@@ -2,7 +2,7 @@
 layout: default
 title: סקירת תכונות
 parent: מרכז עזרה
-description: "סקירה של פיצ'רים ב-VoxTour.ai כמו VoxExplore, VoxRout ו-VoxLens, עם הנחיה קצרה לשימוש בכל מצב."
+description: "סקירה של פיצ'רים ב-VoxTour.ai כמו VoxExplore, VoxRoute ו-VoxLens, עם הנחיה קצרה לשימוש בכל מצב."
 nav_order: 2
 lang: he
 permalink: /help_center/features-overview.html

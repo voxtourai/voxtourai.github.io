@@ -2,7 +2,7 @@
 layout: default
 title: Features Overview
 parent: Help Center
-description: "Overview of VoxTour.ai features like VoxExplore, VoxRout, and VoxLens, with quick guidance for each mode."
+description: "Overview of VoxTour.ai features like VoxExplore, VoxRoute, and VoxLens, with quick guidance for each mode."
 nav_order: 2
 permalink: /help_center/features-overview.html
 ---
