@@ -1,6 +1,7 @@
 ---
 layout: help_center
 title: "How does the VoxRoute mode work?"
+slug: how-does-voxrout-mode-work
 parent_url: "https://support.voxtour.ai/help_center/features-overview.html"
 order: 1
 ---

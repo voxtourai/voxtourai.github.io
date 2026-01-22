@@ -1,6 +1,7 @@
 ---
 layout: help_center
 title: "Как работает режим VoxRoute?"
+slug: how-does-voxrout-mode-work
 parent_url: "/ru/help_center/features-overview.html"
 order: 1
 lang: ru
