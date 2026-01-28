@@ -52,6 +52,9 @@ collections:
   general_information:
     output: true
     permalink: /help-center/general-information/:title/
+  user_guide:
+    output: true
+    permalink: /help-center/user-guide/:title/
   features_overview:
     output: true
     permalink: /help-center/features-overview/:title/
@@ -61,12 +64,6 @@ collections:
   settings:
     output: true
     permalink: /help-center/settings/:title/
-  tour_usage:
-    output: true
-    permalink: /help-center/tour-usage/:title/
-  troubleshooting:
-    output: true
-    permalink: /help-center/troubleshooting/:title/
   apis:
     output: true
     permalink: /api/references/:title/
