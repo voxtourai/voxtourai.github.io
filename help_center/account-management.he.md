@@ -3,7 +3,7 @@ layout: default
 title: ניהול חשבון
 parent: מרכז עזרה
 description: "למדו כיצד לעדכן פרטים אישיים בפרופיל: שם פרטי, שם משפחה, כינוי ושנת לידה."
-nav_order: 3
+nav_order: 4
 lang: he
 permalink: /help_center/account-management.html
 ---

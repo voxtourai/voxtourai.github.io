@@ -3,7 +3,7 @@ layout: default
 title: Account Management
 parent: Help Center
 description: Learn how to update your personal details like first name, last name, nickname, and birth year in your profile.
-nav_order: 3
+nav_order: 4
 permalink: /help_center/account-management.html
 ---
 

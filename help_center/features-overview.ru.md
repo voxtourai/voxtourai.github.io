@@ -3,7 +3,7 @@ layout: default
 title: Обзор функций
 parent: Центр помощи
 description: "Обзор функций VoxTour.ai, включая VoxExplore, VoxRoute и VoxLens, с краткими инструкциями по каждому режиму."
-nav_order: 2
+nav_order: 3
 lang: ru
 permalink: /help_center/features-overview.html
 ---

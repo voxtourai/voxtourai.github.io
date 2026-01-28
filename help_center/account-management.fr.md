@@ -3,7 +3,7 @@ layout: default
 title: Gestion du compte
 parent: Centre d'aide
 description: "Apprenez à mettre à jour vos informations personnelles dans le profil: prénom, nom, surnom et année de naissance."
-nav_order: 3
+nav_order: 4
 lang: fr
 permalink: /help_center/account-management.html
 ---

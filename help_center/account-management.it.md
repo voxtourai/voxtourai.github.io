@@ -3,7 +3,7 @@ layout: default
 title: Gestione dell'account
 parent: Centro assistenza
 description: "Scopri come aggiornare i tuoi dati personali nel profilo: nome, cognome, nickname e anno di nascita."
-nav_order: 3
+nav_order: 4
 lang: it
 permalink: /help_center/account-management.html
 ---

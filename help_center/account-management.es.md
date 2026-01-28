@@ -3,7 +3,7 @@ layout: default
 title: Gestión de la cuenta
 parent: Centro de ayuda
 description: "Aprende a actualizar tus datos personales en el perfil: nombre, apellido, apodo y año de nacimiento."
-nav_order: 3
+nav_order: 4
 lang: es
 permalink: /help_center/account-management.html
 ---
