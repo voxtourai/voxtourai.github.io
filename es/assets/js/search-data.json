@@ -179,6 +179,12 @@
     "url": "https://support.voxtour.ai/legal/terms-of-use.html",
     "relUrl": "/legal/terms-of-use.html"
   },"30": {
+    "doc": "Guía de usuario",
+    "title": "Guía de usuario",
+    "content": "Primeros pasos ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html",
+    "relUrl": "/help_center/user-guide.html"
+  },"31": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
