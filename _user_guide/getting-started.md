@@ -24,8 +24,9 @@ This unlocks audio playback and lets you save your progress and favorites.
 ### Step 4: Press Play
 Select a tour or an individual audio point and tap **Play** ▶️.  
 Listen at your own pace in any order, wherever you are.
-
+**Tip:**  
+Most tours are available in multiple languages. You can choose the tour language before starting playback.
+For the best experience, use headphones and download tours in advance if you plan to listen offline.
 ---
 
-**Tip:**  
-For the best experience, use headphones and download tours in advance if you plan to listen offline.
+
