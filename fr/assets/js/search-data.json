@@ -185,6 +185,12 @@
     "url": "https://support.voxtour.ai/help_center/user-guide.html",
     "relUrl": "/help_center/user-guide.html"
   },"31": {
+    "doc": "Guide d’utilisation",
+    "title": "Bien démarrer",
+    "content": "Avec VoxTour.ai, vous pouvez explorer les villes et découvrir les visites disponibles avant de vous connecter. Pour commencer à écouter les histoires audio, une connexion rapide est requise. Étape 1 : Trouvez votre ville . Utilisez la barre de recherche ou parcourez la carte pour sélectionner la ville qui vous intéresse. Vous verrez une carte avec des points audio et des visites disponibles. Étape 2 : Explorez la carte . Appuyez sur un point ou une visite pour voir ce qui est disponible. Vous pouvez explorer librement la carte et consulter les détails des visites sans vous connecter. Étape 3 : Connectez-vous pour écouter . Lorsque vous êtes prêt à écouter, connectez-vous ou créez un compte. Cela débloque la lecture audio et vous permet d’enregistrer votre progression et vos favoris. Étape 4 : Appuyez sur Play . Sélectionnez une visite ou un point audio individuel et appuyez sur Play ▶️. Écoutez à votre rythme, dans n’importe quel ordre, où que vous soyez. Astuce : La plupart des visites sont disponibles en plusieurs langues. Vous pouvez choisir la langue de la visite avant de commencer la lecture. Pour une meilleure expérience, utilisez des écouteurs et téléchargez les visites à l’avance si vous prévoyez d’écouter hors ligne. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#bien-d%C3%A9marrer",
+    "relUrl": "/help_center/user-guide.html#bien-démarrer"
+  },"32": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",

@@ -185,6 +185,12 @@
     "url": "https://support.voxtour.ai/help_center/user-guide.html",
     "relUrl": "/help_center/user-guide.html"
   },"31": {
+    "doc": "Guía de usuario",
+    "title": "Primeros pasos",
+    "content": "Con VoxTour.ai puedes explorar ciudades y descubrir los tours disponibles antes de iniciar sesión. Para comenzar a escuchar las historias en audio, es necesario iniciar sesión rápidamente. Paso 1: Encuentra tu ciudad . Utiliza la barra de búsqueda o explora el mapa para seleccionar la ciudad que te interesa. Verás un mapa con puntos de audio y tours disponibles. Paso 2: Explora el mapa . Toca cualquier punto o tour para ver qué está disponible. Puedes explorar el mapa libremente y ver los detalles de los tours sin iniciar sesión. Paso 3: Inicia sesión para escuchar . Cuando estés listo para escuchar, inicia sesión o crea una cuenta. Esto desbloquea la reproducción de audio y te permite guardar tu progreso y favoritos. Paso 4: Pulsa Play . Selecciona un tour o un punto de audio individual y pulsa Play ▶️. Escucha a tu propio ritmo, en cualquier orden y desde cualquier lugar. Consejo: La mayoría de los tours están disponibles en varios idiomas. Puedes elegir el idioma del tour antes de comenzar la reproducción. Para una mejor experiencia, usa auriculares y descarga los tours con antelación si planeas escuchar sin conexión. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#primeros-pasos",
+    "relUrl": "/help_center/user-guide.html#primeros-pasos"
+  },"32": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
