@@ -39,6 +39,5 @@ Listen at your own pace in any order, wherever you are.
 **Tip:**  
 Most tours are available in multiple languages. You can choose the tour language before starting playback.
 For the best experience, use headphones and download tours in advance if you plan to listen offline.
----
 
 
