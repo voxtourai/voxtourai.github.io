@@ -3,6 +3,7 @@ layout: help_center
 title: "Find Your City & Tours"
 parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
 order: 3
+lang: en
 ---
 
 ## Find Your City & Tours
@@ -85,7 +86,7 @@ Choose a tour that matches the language you want to listen in.
 
 ### Step 6: Preview the tour route on the map
 
-Some tours include a **route icon** (map/book icon) next to the **Open** button.
+Tours include a **route icon** (map/book icon) next to the **Open** button.
 
 Tap or click this icon to:
 - display the full tour route on the map
@@ -93,6 +94,8 @@ Tap or click this icon to:
 - understand the walking path before starting
 
 This is helpful if you want to check distances, walking direction, or how the tour fits into your plans.
+
+![Route Icon]({{ site.baseurl }}/assets/images/tour-route.webp)
 
 ---
 
