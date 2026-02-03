@@ -2,7 +2,7 @@
 layout: default
 title: Account Management
 parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
-nav_order: 6
+order: 6
 ---
 
 # Account Management

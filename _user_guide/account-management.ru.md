@@ -2,7 +2,7 @@
 layout: default
 title: Управление аккаунтом
 parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
-nav_order: 6
+order: 6
 lang: ru
 ---
 
