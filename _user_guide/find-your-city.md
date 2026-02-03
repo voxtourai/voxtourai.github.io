@@ -34,7 +34,7 @@ After selecting a city, you’ll see:
 - a **map** with numbered and icon-based POIs
 - a **list of available tours** for that city
 
-The map and the tour list work together — you can explore visually or browse tours first.
+The map and the tour list work together, you can explore visually or browse tours first.
 
 ![City map with POIs and tour list]({{ site.baseurl }}/assets/images/voxrout-destination-page-with-tour-list.webp)
 
