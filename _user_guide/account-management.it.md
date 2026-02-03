@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Gestione dell'account
-parent: Centro assistenza
-description: "Scopri come aggiornare i tuoi dati personali nel profilo: nome, cognome, nickname e anno di nascita."
-nav_order: 4
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 lang: it
-permalink: /help_center/account-management.html
 ---
 
 # Gestione dell'account

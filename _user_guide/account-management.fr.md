@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Gestion du compte
-parent: Centre d'aide
-description: "Apprenez à mettre à jour vos informations personnelles dans le profil: prénom, nom, surnom et année de naissance."
-nav_order: 4
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 lang: fr
-permalink: /help_center/account-management.html
 ---
 
 # Gestion du compte

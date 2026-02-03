@@ -1,10 +1,8 @@
 ---
 layout: default
 title: Account Management
-parent: Help Center
-description: Learn how to update your personal details like first name, last name, nickname, and birth year in your profile.
-nav_order: 4
-permalink: /help_center/account-management.html
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 ---
 
 # Account Management

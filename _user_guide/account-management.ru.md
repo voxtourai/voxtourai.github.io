@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Управление аккаунтом
-parent: Центр помощи
-description: "Узнайте, как обновлять личные данные в профиле: имя, фамилию, ник и год рождения."
-nav_order: 4
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 lang: ru
-permalink: /help_center/account-management.html
 ---
 
 # Управление аккаунтом

@@ -1,11 +1,9 @@
 ---
 layout: default
 title: Gestión de la cuenta
-parent: Centro de ayuda
-description: "Aprende a actualizar tus datos personales en el perfil: nombre, apellido, apodo y año de nacimiento."
-nav_order: 4
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 lang: es
-permalink: /help_center/account-management.html
 ---
 
 # Gestión de la cuenta

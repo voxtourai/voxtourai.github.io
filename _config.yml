@@ -58,9 +58,6 @@ collections:
   features_overview:
     output: true
     permalink: /help-center/features-overview/:title/
-  account_management:
-    output: true
-    permalink: /help-center/account-management/:title/
   settings:
     output: true
     permalink: /help-center/settings/:title/

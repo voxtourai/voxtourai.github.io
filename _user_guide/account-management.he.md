@@ -1,11 +1,9 @@
 ---
 layout: default
 title: ניהול חשבון
-parent: מרכז עזרה
-description: "למדו כיצד לעדכן פרטים אישיים בפרופיל: שם פרטי, שם משפחה, כינוי ושנת לידה."
-nav_order: 4
+parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
+nav_order: 6
 lang: he
-permalink: /help_center/account-management.html
 ---
 
 # ניהול חשבון
