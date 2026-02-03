@@ -157,52 +157,46 @@
   },"26": {
     "doc": "Guide d’utilisation",
     "title": "Comment se connecter",
-    "content": "Si vous disposez déjà d’un compte VoxTour.ai, vous pouvez vous connecter avec votre adresse e-mail et votre mot de passe, ou via une option tierce prise en charge, selon votre appareil. Étape 1 : Ouvrir la page de connexion . Sur mobile : Depuis l’écran d’accueil, appuyez sur l’icône du menu ☰ et sélectionnez Se connecter. Sur ordinateur : Sur la page d’accueil, cliquez sur Se connecter dans le coin supérieur droit. Étape 2 : Choisir la méthode de connexion . VoxTour.ai propose différentes options de connexion selon la plateforme. Sur ordinateur (web) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Google | . Saisissez votre adresse e-mail et votre mot de passe, puis cliquez sur Se connecter, ou sélectionnez Continuer avec Google. Sur iPhone (application iOS) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Apple | Google | . Sur Android (application) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Google | . Étape 3 : Mot de passe oublié ? . Si vous avez oublié votre mot de passe : . | Sélectionnez Mot de passe oublié ? | Saisissez votre adresse e-mail | Suivez les instructions envoyées par e-mail pour réinitialiser votre mot de passe | . Étape 4 : Connecté et prêt à partir . Une fois connecté, vous pouvez : . | Écouter des visites audio | Reprendre là où vous vous êtes arrêté | Enregistrer vos lieux et visites favoris | Accéder à votre compte depuis plusieurs appareils | . Remarque : Si vous n’avez pas encore de compte, sélectionnez S’inscrire pour en créer un. Gestion du compte ",
+    "content": "Si vous disposez déjà d’un compte VoxTour.ai, vous pouvez vous connecter avec votre adresse e-mail et votre mot de passe, ou via une option tierce prise en charge, selon votre appareil. Étape 1 : Ouvrir la page de connexion . Sur mobile : Depuis l’écran d’accueil, appuyez sur l’icône du menu ☰ et sélectionnez Se connecter. Sur ordinateur : Sur la page d’accueil, cliquez sur Se connecter dans le coin supérieur droit. Étape 2 : Choisir la méthode de connexion . VoxTour.ai propose différentes options de connexion selon la plateforme. Sur ordinateur (web) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Google | . Saisissez votre adresse e-mail et votre mot de passe, puis cliquez sur Se connecter, ou sélectionnez Continuer avec Google. Sur iPhone (application iOS) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Apple | Google | . Sur Android (application) . Vous pouvez vous connecter à l’aide de : . | Adresse e-mail et mot de passe | Google | . Étape 3 : Mot de passe oublié ? . Si vous avez oublié votre mot de passe : . | Sélectionnez Mot de passe oublié ? | Saisissez votre adresse e-mail | Suivez les instructions envoyées par e-mail pour réinitialiser votre mot de passe | . Étape 4 : Connecté et prêt à partir . Une fois connecté, vous pouvez : . | Écouter des visites audio | Reprendre là où vous vous êtes arrêté | Enregistrer vos lieux et visites favoris | Accéder à votre compte depuis plusieurs appareils | . Remarque : Si vous n’avez pas encore de compte, sélectionnez S’inscrire pour en créer un. Gestion du compte Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour modifier vos informations personnelles, telles que votre prénom, nom, surnom et année de naissance. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#comment-se-connecter",
     "relUrl": "/help_center/user-guide.html#comment-se-connecter"
   },"27": {
-    "doc": "Guide d’utilisation",
-    "title": "Gestion du compte",
-    "content": "Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour modifier vos informations personnelles, telles que votre prénom, nom, surnom et année de naissance. ",
-    "url": "https://support.voxtour.ai/help_center/user-guide.html#gestion-du-compte",
-    "relUrl": "/help_center/user-guide.html#gestion-du-compte"
-  },"28": {
     "doc": "Guide d’utilisation",
     "title": "Comment accéder à la page de modification du profil",
     "content": ". | Connectez-vous à votre compte. | Accédez à la section Profil. | Cliquez sur l’icône Modifier le profil (l’icône crayon) près de votre photo de profil. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#comment-acc%C3%A9der-%C3%A0-la-page-de-modification-du-profil",
     "relUrl": "/help_center/user-guide.html#comment-accéder-à-la-page-de-modification-du-profil"
-  },"29": {
+  },"28": {
     "doc": "Guide d’utilisation",
     "title": "Modification des informations du profil",
     "content": "Sur la page Modifier le profil, vous pouvez modifier les champs suivants: . | Prénom: Mettez à jour votre prénom tel qu’il apparaîtra sur votre profil. | Nom: Modifiez votre nom pour refléter les informations mises à jour. | Surnom: Ajoutez ou modifiez votre surnom pour une touche plus personnelle. | Année de naissance: Ajustez votre année de naissance pour que votre profil soit exact. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#modification-des-informations-du-profil",
     "relUrl": "/help_center/user-guide.html#modification-des-informations-du-profil"
-  },"30": {
+  },"29": {
     "doc": "Guide d’utilisation",
     "title": "Enregistrer les modifications",
     "content": ". | Après avoir mis à jour les champs nécessaires, cliquez sur le bouton Enregistrer en haut à droite de la page. | Vos modifications seront enregistrées immédiatement et votre profil sera mis à jour. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#enregistrer-les-modifications",
     "relUrl": "/help_center/user-guide.html#enregistrer-les-modifications"
-  },"31": {
+  },"30": {
     "doc": "Guide d’utilisation",
     "title": "Voir le profil mis à jour",
     "content": ". | Une fois enregistré, vous serez automatiquement redirigé vers la page Profil où vous pourrez vérifier les informations mises à jour dans le résumé de votre profil. | Vérifiez les informations mises à jour dans le résumé de votre profil, qui comprend votre nom et d’autres détails pertinents. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#voir-le-profil-mis-%C3%A0-jour",
     "relUrl": "/help_center/user-guide.html#voir-le-profil-mis-à-jour"
-  },"32": {
+  },"31": {
     "doc": "Guide d’utilisation",
     "title": "Notes supplémentaires",
     "content": ". | Photo de profil: Vous pouvez aussi mettre à jour votre photo de profil en cliquant sur l’icône crayon sur votre avatar. | Certains champs peuvent ne pas être modifiables selon votre type de compte ou vos autorisations. | Si vous rencontrez des problèmes lors de la modification de votre profil, contactez notre équipe de support pour obtenir de l’aide. | . En suivant les étapes ci-dessus, vous pourrez facilement gérer les détails de votre compte afin que votre profil reste à jour. Paramètres ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#notes-suppl%C3%A9mentaires",
     "relUrl": "/help_center/user-guide.html#notes-supplémentaires"
-  },"33": {
+  },"32": {
     "doc": "Guide d’utilisation",
     "title": "Paramètres",
     "content": " ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#param%C3%A8tres",
     "relUrl": "/help_center/user-guide.html#paramètres"
-  },"34": {
+  },"33": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",

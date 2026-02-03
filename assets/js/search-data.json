@@ -157,52 +157,46 @@
   },"26": {
     "doc": "User Guide",
     "title": "How to sign in",
-    "content": "If you already have a VoxTour.ai account, you can sign in using your email and password or a supported third-party option, depending on your device. Step 1: Open the sign-in page . On mobile: From the home screen, tap the menu icon ☰ and select Sign In. On desktop: On the home page, click Sign In in the top-right corner of the screen. Step 2: Choose how to sign in . VoxTour.ai offers different sign-in options depending on your platform. On desktop (web) . You can sign in using: . | Email and password | Google | . Enter your email and password, then click Sign in, or select Continue with Google. On iPhone (iOS app) . You can sign in using: . | Email and password | Apple | Google | . Choose your preferred option: . | Enter your email and password and tap Sign in | Or tap Continue with Apple | Or tap Continue with Google | . On Android (app) . You can sign in using: . | Email and password | Google | . Enter your email and password and tap Sign in, or tap Continue with Google. Step 3: Forgot your password? . If you don’t remember your password: . | Select Did you forget your password? | Enter your email address | Follow the instructions sent to your email to reset your password | . Step 4: Signed in and ready to go . Once signed in, you can: . | Start listening to audio tours | Continue where you left off | Save your favorite places and tours | Access your account across devices | . Note: If you don’t have an account yet, select Sign up to create one. Account Management ",
+    "content": "If you already have a VoxTour.ai account, you can sign in using your email and password or a supported third-party option, depending on your device. Step 1: Open the sign-in page . On mobile: From the home screen, tap the menu icon ☰ and select Sign In. On desktop: On the home page, click Sign In in the top-right corner of the screen. Step 2: Choose how to sign in . VoxTour.ai offers different sign-in options depending on your platform. On desktop (web) . You can sign in using: . | Email and password | Google | . Enter your email and password, then click Sign in, or select Continue with Google. On iPhone (iOS app) . You can sign in using: . | Email and password | Apple | Google | . Choose your preferred option: . | Enter your email and password and tap Sign in | Or tap Continue with Apple | Or tap Continue with Google | . On Android (app) . You can sign in using: . | Email and password | Google | . Enter your email and password and tap Sign in, or tap Continue with Google. Step 3: Forgot your password? . If you don’t remember your password: . | Select Did you forget your password? | Enter your email address | Follow the instructions sent to your email to reset your password | . Step 4: Signed in and ready to go . Once signed in, you can: . | Start listening to audio tours | Continue where you left off | Save your favorite places and tours | Access your account across devices | . Note: If you don’t have an account yet, select Sign up to create one. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-sign-in",
     "relUrl": "/help_center/user-guide.html#how-to-sign-in"
   },"27": {
-    "doc": "User Guide",
-    "title": "Account Management",
-    "content": "Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
-    "url": "https://support.voxtour.ai/help_center/user-guide.html#account-management",
-    "relUrl": "/help_center/user-guide.html#account-management"
-  },"28": {
     "doc": "User Guide",
     "title": "How to Access the Profile Edit Page",
     "content": ". | Log in to your account. | Navigate to the Profile section. | Click on the Edit Profile icon (the pencil icon) located near your profile picture. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-access-the-profile-edit-page",
     "relUrl": "/help_center/user-guide.html#how-to-access-the-profile-edit-page"
-  },"29": {
+  },"28": {
     "doc": "User Guide",
     "title": "Editing Your Profile Information",
     "content": "On the Edit Profile page, you can modify the following fields: . | First Name: Update your first name as it will appear on your profile. | Last Name: Change your last name to reflect updated information. | Nickname: Add or edit your nickname for a more personalized touch. | Birth Year: Adjust your birth year to ensure your profile is accurate. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#editing-your-profile-information",
     "relUrl": "/help_center/user-guide.html#editing-your-profile-information"
-  },"30": {
+  },"29": {
     "doc": "User Guide",
     "title": "Saving Changes",
     "content": ". | After updating the necessary fields, click the Save button at the top right corner of the page. | Your changes will be saved immediately, and your profile will be updated. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#saving-changes",
     "relUrl": "/help_center/user-guide.html#saving-changes"
-  },"31": {
+  },"30": {
     "doc": "User Guide",
     "title": "Viewing Updated Profile",
     "content": ". | Once saved, you will be automatically redirected to the Profile page where you can verify the updated information in your profile summary. | Verify the updated information in your profile summary, which includes your name and other relevant details. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#viewing-updated-profile",
     "relUrl": "/help_center/user-guide.html#viewing-updated-profile"
-  },"32": {
+  },"31": {
     "doc": "User Guide",
     "title": "Additional Notes",
     "content": ". | Profile Picture: You can also update your profile picture by clicking the pencil icon over your avatar. | Some fields may not be editable depending on your account type or permissions. | If you encounter any issues while editing your profile, contact our support team for assistance. | . By following the steps above, you can easily manage your account details to ensure your profile stays accurate and up-to-date. Settings ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-notes",
     "relUrl": "/help_center/user-guide.html#additional-notes"
-  },"33": {
+  },"32": {
     "doc": "User Guide",
     "title": "Settings",
     "content": " ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
     "relUrl": "/help_center/user-guide.html#settings"
-  },"34": {
+  },"33": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
