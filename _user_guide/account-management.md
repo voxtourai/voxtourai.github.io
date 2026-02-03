@@ -5,8 +5,6 @@ parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
 order: 6
 ---
 
-# Account Management
-
 Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year.
 
 ## How to Access the Profile Edit Page

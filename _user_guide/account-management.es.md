@@ -6,8 +6,6 @@ order: 6
 lang: es
 ---
 
-# Gestión de la cuenta
-
 Gestionar el perfil de tu cuenta es rápido y sencillo. Sigue estos pasos para editar tus datos personales, como tu nombre, apellido, apodo y año de nacimiento.
 
 ## Cómo acceder a la página de edición del perfil

@@ -6,8 +6,6 @@ order: 6
 lang: it
 ---
 
-# Gestione dell'account
-
 Gestire il profilo del tuo account è semplice e veloce. Segui questi passaggi per modificare i tuoi dati personali, come nome, cognome, nickname e anno di nascita.
 
 ## Come accedere alla pagina di modifica del profilo

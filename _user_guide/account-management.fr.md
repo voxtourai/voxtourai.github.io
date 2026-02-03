@@ -6,8 +6,6 @@ order: 6
 lang: fr
 ---
 
-# Gestion du compte
-
 Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour modifier vos informations personnelles, telles que votre prénom, nom, surnom et année de naissance.
 
 ## Comment accéder à la page de modification du profil
