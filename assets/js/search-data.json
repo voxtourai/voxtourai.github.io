@@ -131,77 +131,77 @@
     "url": "https://support.voxtour.ai/api/references.html",
     "relUrl": "/api/references.html"
   },"22": {
-    "doc": "Settings",
-    "title": "Settings",
-    "content": " ",
-    "url": "https://support.voxtour.ai/help_center/settings.html",
-    "relUrl": "/help_center/settings.html"
-  },"23": {
     "doc": "Terms of use",
     "title": "Terms of use",
     "content": "Last Updated: 26 Mar 2024 . 1. Eligibility . By utilizing VoxTour.ai, you affirm that you have reached the age of majority or above and possess the legal capacity to consent to these Terms. If you are accessing our services on behalf of an entity, you further confirm and assure that you hold the requisite authority to legally bind that organization to these Terms. 2. Service Description . VoxTour.ai offers a diverse range of audio tours and related services, including but not limited to virtual guided tours of historic sites, museums, art galleries, landmarks, and various points of interest. Our aim is to provide engaging and educational experiences that cater to your specific interests and preferences. These audio tours are created and curated by our team of experts and contributors who work diligently to ensure that they are informative, immersive, and enjoyable. 3. User Accounts . Some features of VoxTour.ai may require you to create a user account. You must provide accurate and complete information to register for an account to use our services. You are responsible for maintaining the confidentiality of your account information, including your username and password. You are also responsible for any activity that occurs under your account. If you suspect any unauthorized use of your account, you must notify us immediately. 4. Content Ownership . All content available on VoxTour.ai, including audio tours, text, images, software, and graphics, is the property of VoxTour.ai and its licensors. This content is protected by copyright and other intellectual property laws. You may use this content solely for personal, non-commercial purposes. Any use of our content for commercial purposes, such as reproduction or distribution, requires prior written consent from VoxTour.ai. 5. User-Generated Content . VoxTour.ai may allow users to submit their own content, such as custom tours, tour reviews, comments, and ratings. By submitting content, you grant VoxTour.ai a non-exclusive, worldwide, royalty-free license to use, reproduce, and distribute your content. We may use this content for promotional and marketing purposes, but you retain ownership of the content you create. 6. Privacy . Our Privacy Policy explains in detail how we collect, use, and protect your personal information. By using VoxTour.ai, you agree to our data practices as described in the Privacy Policy. We are committed to safeguarding your privacy and maintaining the confidentiality of your personal information. 7. Prohibited Conduct . While using VoxTour.ai, you agree not to engage in any conduct that violates applicable laws or these Terms, including but not limited to: . | Violating intellectual property rights, including copyright and trademark rights. | Impersonating any person or entity, or falsely stating or misrepresenting your affiliation with a person or entity. | Uploading or transmitting any malicious software, viruses, or harmful code. | Transmitting spam or other unauthorized communications. | Engaging in any activity that disrupts or interferes with the proper functioning of VoxTour.ai. | . 8. Termination . We may suspend or terminate your access to VoxTour.ai, including your user account, if you violate these Terms or engage in any prohibited conduct. You may also terminate your account at any time by following the provided account closure instructions. 9. Disclaimers and Limitation of Liability VoxTour.ai is provided on an “as is” and “as available” basis. While we strive to deliver high-quality content and services, including generated content, we cannot guarantee uninterrupted or error-free service. Our platform utilizes artificial intelligence algorithms, which may result in occasional inaccuracies in the content presented. Therefore, it is advisable not to solely rely on the content from our services as a definitive source of truth or factual information, nor should it be considered a substitute for professional advice. It is your responsibility to assess the accuracy and suitability of the content for your specific needs, potentially employing human review where necessary, before utilizing or disseminating content from our services. We disclaim any liability for damages or losses arising from your use of the service, and you acknowledge that your use of VoxTour.ai is undertaken at your own risk. 10. Governing Law and Dispute Resolution . These Terms are governed by the laws of Ontario, Canada. Any disputes, claims, or legal actions arising from or related to these Terms or your use of VoxTour.ai will be subject to the exclusive jurisdiction of the courts in Ontario, Canada. We encourage users to reach out to us first to attempt to resolve any disputes amicably before pursuing legal actions. 11. Changes to Terms . We reserve the right to update these Terms from time to time. Any changes will be posted on our website, and we may also notify you through your registered email address. It is your responsibility to review these Terms periodically for any updates or modifications. Your continued use of VoxTour.ai following the posting of changes constitutes your acceptance of those changes. 12. Contact Us . If you have any questions, concerns, or feedback regarding these Terms or VoxTour.ai, please don’t hesitate to contact us. We value your input and are here to address any inquiries or issues you may have. By using VoxTour.ai, you acknowledge that you have read, understood, and agree to these comprehensive Terms of Use. ",
     "url": "https://support.voxtour.ai/legal/terms-of-use.html",
     "relUrl": "/legal/terms-of-use.html"
-  },"24": {
+  },"23": {
     "doc": "User Guide",
     "title": "User Guide",
     "content": "Getting Started ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html",
     "relUrl": "/help_center/user-guide.html"
-  },"25": {
+  },"24": {
     "doc": "User Guide",
     "title": "Getting Started",
     "content": "With VoxTour.ai, you can explore cities and discover available tours before signing in. To start listening to audio stories, a quick sign-in is required. Step 1: Find your city . Use the search bar or browse the map to select a city you’re interested in. You’ll see a map with audio points and available tours. Step 2: Explore the map . Tap on any point or tour to preview what’s available. You can freely explore the map and see tour details without logging in. Step 3: Sign in to listen . When you’re ready to listen, sign in or create an account. This unlocks audio playback and lets you save your progress and favorites. Step 4: Press Play . Select a tour or an individual audio point and tap Play ▶️. Listen at your own pace in any order, wherever you are. Tip: Most tours are available in multiple languages. You can choose the tour language before starting playback. For the best experience, use headphones and download tours in advance if you plan to listen offline. Sign Up &amp; Sign In ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#getting-started",
     "relUrl": "/help_center/user-guide.html#getting-started"
-  },"26": {
+  },"25": {
     "doc": "User Guide",
     "title": "How to create an account (Sign up)",
     "content": "Creating an account in VoxTour.ai is quick and only takes a few steps. An account is required to start listening to audio tours. Step 1: Open the sign-up page . On mobile: From the home screen, tap the menu icon ☰ in the top corner and select Sign Up. On desktop: On the home page, click Sign Up in the top-right corner of the screen. Step 2: Enter your details . To create a new account, sign up using your email address. Fill in the following fields: . | First name | Last name | Email address | Password | Confirm password | . Make sure your email address is correct — it will be used to verify your account. When finished, tap or click Get Started. Step 3: Verify your email address . After submitting the form, VoxTour.ai will send a 6-digit verification code to your email address. On mobile and desktop: . | Check your inbox for the verification email. | Enter the verification code on the screen. | Tap or click Verify. | . If you don’t see the email, check your spam folder or select Resend Code. Step 4: Account created . Once your email is verified, your account is ready to use. You can now: . | Sign in to your account | Start listening to audio tours | Save your progress | Add places and tours to your favorites | . Note: Google and Apple are available for sign in only. If you already have an account, choose Sign In instead of creating a new one. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-create-an-account-sign-up",
     "relUrl": "/help_center/user-guide.html#how-to-create-an-account-sign-up"
-  },"27": {
+  },"26": {
     "doc": "User Guide",
     "title": "How to sign in",
     "content": "If you already have a VoxTour.ai account, you can sign in using your email and password or a supported third-party option, depending on your device. Step 1: Open the sign-in page . On mobile: From the home screen, tap the menu icon ☰ and select Sign In. On desktop: On the home page, click Sign In in the top-right corner of the screen. Step 2: Choose how to sign in . VoxTour.ai offers different sign-in options depending on your platform. On desktop (web) . You can sign in using: . | Email and password | Google | . Enter your email and password, then click Sign in, or select Continue with Google. On iPhone (iOS app) . You can sign in using: . | Email and password | Apple | Google | . Choose your preferred option: . | Enter your email and password and tap Sign in | Or tap Continue with Apple | Or tap Continue with Google | . On Android (app) . You can sign in using: . | Email and password | Google | . Enter your email and password and tap Sign in, or tap Continue with Google. Step 3: Forgot your password? . If you don’t remember your password: . | Select Did you forget your password? | Enter your email address | Follow the instructions sent to your email to reset your password | . Step 4: Signed in and ready to go . Once signed in, you can: . | Start listening to audio tours | Continue where you left off | Save your favorite places and tours | Access your account across devices | . Note: If you don’t have an account yet, select Sign up to create one. Account Management ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-sign-in",
     "relUrl": "/help_center/user-guide.html#how-to-sign-in"
-  },"28": {
+  },"27": {
     "doc": "User Guide",
     "title": "Account Management",
     "content": "Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#account-management",
     "relUrl": "/help_center/user-guide.html#account-management"
-  },"29": {
+  },"28": {
     "doc": "User Guide",
     "title": "How to Access the Profile Edit Page",
     "content": ". | Log in to your account. | Navigate to the Profile section. | Click on the Edit Profile icon (the pencil icon) located near your profile picture. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-access-the-profile-edit-page",
     "relUrl": "/help_center/user-guide.html#how-to-access-the-profile-edit-page"
-  },"30": {
+  },"29": {
     "doc": "User Guide",
     "title": "Editing Your Profile Information",
     "content": "On the Edit Profile page, you can modify the following fields: . | First Name: Update your first name as it will appear on your profile. | Last Name: Change your last name to reflect updated information. | Nickname: Add or edit your nickname for a more personalized touch. | Birth Year: Adjust your birth year to ensure your profile is accurate. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#editing-your-profile-information",
     "relUrl": "/help_center/user-guide.html#editing-your-profile-information"
-  },"31": {
+  },"30": {
     "doc": "User Guide",
     "title": "Saving Changes",
     "content": ". | After updating the necessary fields, click the Save button at the top right corner of the page. | Your changes will be saved immediately, and your profile will be updated. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#saving-changes",
     "relUrl": "/help_center/user-guide.html#saving-changes"
-  },"32": {
+  },"31": {
     "doc": "User Guide",
     "title": "Viewing Updated Profile",
     "content": ". | Once saved, you will be automatically redirected to the Profile page where you can verify the updated information in your profile summary. | Verify the updated information in your profile summary, which includes your name and other relevant details. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#viewing-updated-profile",
     "relUrl": "/help_center/user-guide.html#viewing-updated-profile"
-  },"33": {
+  },"32": {
     "doc": "User Guide",
     "title": "Additional Notes",
-    "content": ". | Profile Picture: You can also update your profile picture by clicking the pencil icon over your avatar. | Some fields may not be editable depending on your account type or permissions. | If you encounter any issues while editing your profile, contact our support team for assistance. | . By following the steps above, you can easily manage your account details to ensure your profile stays accurate and up-to-date. ",
+    "content": ". | Profile Picture: You can also update your profile picture by clicking the pencil icon over your avatar. | Some fields may not be editable depending on your account type or permissions. | If you encounter any issues while editing your profile, contact our support team for assistance. | . By following the steps above, you can easily manage your account details to ensure your profile stays accurate and up-to-date. Settings ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-notes",
     "relUrl": "/help_center/user-guide.html#additional-notes"
+  },"33": {
+    "doc": "User Guide",
+    "title": "Settings",
+    "content": " ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
+    "relUrl": "/help_center/user-guide.html#settings"
   },"34": {
     "doc": "Widgets",
     "title": "Widgets",
