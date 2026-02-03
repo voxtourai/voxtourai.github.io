@@ -58,9 +58,6 @@ collections:
   features_overview:
     output: true
     permalink: /help-center/features-overview/:title/
-  settings:
-    output: true
-    permalink: /help-center/settings/:title/
   apis:
     output: true
     permalink: /api/references/:title/
