@@ -69,7 +69,7 @@ This means:
 - If you are currently in a different country, the route may not be immediately visible.
 - You may need to manually zoom or move the map to view the full route.
 
-The same behavior applies when tapping **Direction** — navigation is based on your current location.
+The same behavior applies when tapping **Direction** - navigation is based on your current location.
 
 #### On desktop:
 The map appears alongside the tour content.
@@ -92,7 +92,7 @@ When you select **Visit**, VoxTour.ai:
 - Launches the audio player
 - Starts the story for that location
 
-You can start from any stop — you do not have to follow the route in order.
+You can start from any stop, you do not have to follow the route in order.
 
 ![Language selector]({{ site.baseurl }}/assets/images/start-listen-tour-player.webp)
 
