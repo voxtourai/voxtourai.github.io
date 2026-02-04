@@ -163,46 +163,52 @@
   },"27": {
     "doc": "Guía de usuario",
     "title": "Encuentra tu ciudad y tours",
-    "content": "VoxTour.ai te permite explorar ciudades de forma flexible. Puedes descubrir tours seleccionados o explorar puntos de interés individuales (POIs) directamente desde el mapa. Puedes navegar por ciudades, tours y lugares sin iniciar sesión. Para escuchar las historias de audio, necesitas iniciar sesión. Paso 1: Buscar una ciudad . En escritorio: En la página principal, utiliza el campo Buscar por destino para introducir el nombre de una ciudad (por ejemplo, Roma o París) y selecciónala en los resultados. En móvil: Toca el campo de búsqueda, escribe el nombre de una ciudad y selecciónala de la lista. Paso 2: Explorar el mapa de la ciudad . Después de seleccionar una ciudad, verás: . | un mapa con POIs numerados y con iconos | una lista de tours disponibles para esa ciudad | . El mapa y la lista de tours funcionan juntos: puedes explorar visualmente o revisar primero los tours. Paso 3: Explorar lugares individuales (POIs) . No es obligatorio seguir un tour para explorar. Toca o haz clic en cualquier icono de POI en el mapa para abrir una vista previa del lugar. Cada vista previa muestra: . | nombre y categoría del lugar | valoración (si está disponible) | idiomas de audio disponibles | una breve descripción | . Es ideal si quieres: . | explorar libremente | escuchar solo lugares cercanos | detenerte y reproducir audio cuando algo llame tu atención | . Paso 4: Explorar tours en la lista . La lista de tours muestra rutas seleccionadas creadas para ayudarte a explorar una ciudad por tema o zona. Cada tarjeta de tour incluye: . | Título del tour | Valoración | Duración estimada | Distancia total | Número de paradas (ubicaciones) | . Estos detalles te ayudan a comparar rápidamente los tours y elegir el que mejor se adapte a tu tiempo y preferencias de caminata. Paso 5: Comprobar los idiomas disponibles . Junto a la valoración del tour, puedes ver uno o varios iconos de idioma (por ejemplo 🇺🇸 🇫🇷 🇮🇹). Estos iconos indican los idiomas en los que está disponible el audio del tour. Elige un tour que coincida con el idioma en el que deseas escuchar. Paso 6: Previsualizar la ruta del tour en el mapa . Los tours incluyen un icono de ruta (icono de mapa/libro) junto al botón Abrir. Toca o haz clic en este icono para: . | mostrar la ruta completa del tour en el mapa | ver cómo se conectan todas las paradas | entender el recorrido a pie antes de empezar | . Esto es útil si quieres comprobar distancias, dirección de la caminata o cómo encaja el tour en tus planes. Paso 7: Abrir un tour . Selecciona Abrir para ver la página completa del tour. Desde allí puedes: . | ver todas las ubicaciones incluidas | consultar información detallada del tour | elegir el idioma de escucha | comenzar el tour después de iniciar sesión | . Elige cómo quieres explorar . Con VoxTour.ai puedes: . | seguir un tour completo de principio a fin | escuchar POIs individuales en cualquier orden | combinar ambos enfoques según tu tiempo y estado de ánimo | . Consejo: Si tienes poco tiempo, explora POIs cercanos. Si buscas una experiencia más guiada, elige un tour y sigue su ruta a tu propio ritmo. Gestión de la cuenta Gestionar el perfil de tu cuenta es rápido y sencillo. Sigue estos pasos para editar tus datos personales, como tu nombre, apellido, apodo y año de nacimiento. ",
+    "content": "VoxTour.ai te permite explorar ciudades de forma flexible. Puedes descubrir tours seleccionados o explorar puntos de interés individuales (POIs) directamente desde el mapa. Puedes navegar por ciudades, tours y lugares sin iniciar sesión. Para escuchar las historias de audio, necesitas iniciar sesión. Paso 1: Buscar una ciudad . En escritorio: En la página principal, utiliza el campo Buscar por destino para introducir el nombre de una ciudad (por ejemplo, Roma o París) y selecciónala en los resultados. En móvil: Toca el campo de búsqueda, escribe el nombre de una ciudad y selecciónala de la lista. Paso 2: Explorar el mapa de la ciudad . Después de seleccionar una ciudad, verás: . | un mapa con POIs numerados y con iconos | una lista de tours disponibles para esa ciudad | . El mapa y la lista de tours funcionan juntos: puedes explorar visualmente o revisar primero los tours. Paso 3: Explorar lugares individuales (POIs) . No es obligatorio seguir un tour para explorar. Toca o haz clic en cualquier icono de POI en el mapa para abrir una vista previa del lugar. Cada vista previa muestra: . | nombre y categoría del lugar | valoración (si está disponible) | idiomas de audio disponibles | una breve descripción | . Es ideal si quieres: . | explorar libremente | escuchar solo lugares cercanos | detenerte y reproducir audio cuando algo llame tu atención | . Paso 4: Explorar tours en la lista . La lista de tours muestra rutas seleccionadas creadas para ayudarte a explorar una ciudad por tema o zona. Cada tarjeta de tour incluye: . | Título del tour | Valoración | Duración estimada | Distancia total | Número de paradas (ubicaciones) | . Estos detalles te ayudan a comparar rápidamente los tours y elegir el que mejor se adapte a tu tiempo y preferencias de caminata. Paso 5: Comprobar los idiomas disponibles . Junto a la valoración del tour, puedes ver uno o varios iconos de idioma (por ejemplo 🇺🇸 🇫🇷 🇮🇹). Estos iconos indican los idiomas en los que está disponible el audio del tour. Elige un tour que coincida con el idioma en el que deseas escuchar. Paso 6: Previsualizar la ruta del tour en el mapa . Los tours incluyen un icono de ruta (icono de mapa/libro) junto al botón Abrir. Toca o haz clic en este icono para: . | mostrar la ruta completa del tour en el mapa | ver cómo se conectan todas las paradas | entender el recorrido a pie antes de empezar | . Esto es útil si quieres comprobar distancias, dirección de la caminata o cómo encaja el tour en tus planes. Paso 7: Abrir un tour . Selecciona Abrir para ver la página completa del tour. Desde allí puedes: . | ver todas las ubicaciones incluidas | consultar información detallada del tour | elegir el idioma de escucha | comenzar el tour después de iniciar sesión | . Elige cómo quieres explorar . Con VoxTour.ai puedes: . | seguir un tour completo de principio a fin | escuchar POIs individuales en cualquier orden | combinar ambos enfoques según tu tiempo y estado de ánimo | . Consejo: Si tienes poco tiempo, explora POIs cercanos. Si buscas una experiencia más guiada, elige un tour y sigue su ruta a tu propio ritmo. Start &amp; Listen to a Tour ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#encuentra-tu-ciudad-y-tours",
     "relUrl": "/help_center/user-guide.html#encuentra-tu-ciudad-y-tours"
   },"28": {
+    "doc": "Guía de usuario",
+    "title": "Start &amp; Listen to a Tour",
+    "content": "Gestión de la cuenta Gestionar el perfil de tu cuenta es rápido y sencillo. Sigue estos pasos para editar tus datos personales, como tu nombre, apellido, apodo y año de nacimiento. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#start--listen-to-a-tour",
+    "relUrl": "/help_center/user-guide.html#start--listen-to-a-tour"
+  },"29": {
     "doc": "Guía de usuario",
     "title": "Cómo acceder a la página de edición del perfil",
     "content": ". | Inicia sesión en tu cuenta. | Ve a la sección Perfil. | Haz clic en el icono Editar perfil (el icono de lápiz) cerca de tu foto de perfil. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#c%C3%B3mo-acceder-a-la-p%C3%A1gina-de-edici%C3%B3n-del-perfil",
     "relUrl": "/help_center/user-guide.html#cómo-acceder-a-la-página-de-edición-del-perfil"
-  },"29": {
+  },"30": {
     "doc": "Guía de usuario",
     "title": "Edición de la información del perfil",
     "content": "En la página Editar perfil, puedes modificar los siguientes campos: . | Nombre: Actualiza tu nombre tal como aparecerá en tu perfil. | Apellido: Cambia tu apellido para reflejar la información actualizada. | Apodo: Agrega o edita tu apodo para un toque más personal. | Año de nacimiento: Ajusta tu año de nacimiento para que tu perfil sea correcto. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#edici%C3%B3n-de-la-informaci%C3%B3n-del-perfil",
     "relUrl": "/help_center/user-guide.html#edición-de-la-información-del-perfil"
-  },"30": {
+  },"31": {
     "doc": "Guía de usuario",
     "title": "Guardar cambios",
     "content": ". | Después de actualizar los campos necesarios, haz clic en el botón Guardar en la esquina superior derecha de la página. | Los cambios se guardarán de inmediato y tu perfil se actualizará. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#guardar-cambios",
     "relUrl": "/help_center/user-guide.html#guardar-cambios"
-  },"31": {
+  },"32": {
     "doc": "Guía de usuario",
     "title": "Ver el perfil actualizado",
     "content": ". | Una vez guardado, serás redirigido automáticamente a la página de Perfil, donde podrás verificar la información actualizada en el resumen de tu perfil. | Verifica la información actualizada en el resumen de tu perfil, que incluye tu nombre y otros detalles relevantes. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#ver-el-perfil-actualizado",
     "relUrl": "/help_center/user-guide.html#ver-el-perfil-actualizado"
-  },"32": {
+  },"33": {
     "doc": "Guía de usuario",
     "title": "Notas adicionales",
     "content": ". | Foto de perfil: También puedes actualizar tu foto de perfil haciendo clic en el icono de lápiz sobre tu avatar. | Algunos campos pueden no ser editables según tu tipo de cuenta o permisos. | Si tienes algún problema al editar tu perfil, contacta a nuestro equipo de soporte para obtener ayuda. | . Siguiendo los pasos anteriores, podrás gestionar fácilmente los datos de tu cuenta para mantener tu perfil actualizado. Configuración ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#notas-adicionales",
     "relUrl": "/help_center/user-guide.html#notas-adicionales"
-  },"33": {
+  },"34": {
     "doc": "Guía de usuario",
     "title": "Configuración",
     "content": " ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#configuraci%C3%B3n",
     "relUrl": "/help_center/user-guide.html#configuración"
-  },"34": {
+  },"35": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",

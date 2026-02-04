@@ -163,46 +163,52 @@
   },"27": {
     "doc": "Guide d’utilisation",
     "title": "Trouver votre ville et vos visites",
-    "content": "VoxTour.ai vous permet d’explorer les villes de manière flexible. Vous pouvez découvrir des visites guidées sélectionnées ou explorer des points d’intérêt individuels (POI) directement depuis la carte. Vous pouvez parcourir les villes, les visites et les lieux sans vous connecter. Pour écouter les histoires audio, vous devez vous connecter. Étape 1 : Rechercher une ville . Sur ordinateur : Sur la page d’accueil, utilisez le champ Rechercher par destination pour saisir le nom d’une ville (par exemple Rome ou Paris), puis sélectionnez-la dans les résultats. Sur mobile : Touchez le champ de recherche, saisissez le nom d’une ville et sélectionnez-la dans la liste. Étape 2 : Explorer la carte de la ville . Après avoir sélectionné une ville, vous verrez : . | une carte avec des POI numérotés et illustrés par des icônes | une liste des visites disponibles pour cette ville | . La carte et la liste des visites fonctionnent ensemble : vous pouvez explorer visuellement ou parcourir d’abord les visites. Étape 3 : Explorer des lieux individuels (POI) . Il n’est pas nécessaire de suivre une visite pour explorer. Touchez ou cliquez sur une icône de POI sur la carte pour ouvrir un aperçu du lieu. Chaque aperçu affiche : . | le nom et la catégorie du lieu | la note (si disponible) | les langues audio disponibles | une courte description | . Idéal si vous souhaitez : . | explorer librement | écouter uniquement les lieux à proximité | vous arrêter et lancer l’audio lorsqu’un endroit attire votre attention | . Étape 4 : Parcourir les visites dans la liste . La liste des visites présente des itinéraires sélectionnés, conçus pour explorer une ville par thème ou par quartier. Chaque carte de visite inclut : . | Titre de la visite | Note | Durée estimée | Distance totale | Nombre d’arrêts (lieux) | . Ces informations vous aident à comparer rapidement les visites et à choisir celle qui correspond à votre temps et à vos préférences de marche. Étape 5 : Vérifier les langues disponibles . À côté de la note de la visite, vous pouvez voir un ou plusieurs icônes de langue (par exemple 🇺🇸 🇫🇷 🇮🇹). Ces icônes indiquent les langues dans lesquelles l’audio de la visite est disponible. Choisissez une visite correspondant à la langue que vous souhaitez écouter. Étape 6 : Prévisualiser l’itinéraire de la visite sur la carte . Les visites incluent une icône d’itinéraire (icône carte/livre) à côté du bouton Ouvrir. Touchez ou cliquez sur cette icône pour : . | afficher l’itinéraire complet sur la carte | voir comment les arrêts sont reliés | comprendre le parcours à pied avant de commencer | . Étape 7 : Ouvrir une visite . Sélectionnez Ouvrir pour afficher la page complète de la visite. Vous pourrez alors : . | voir tous les lieux inclus | consulter les informations détaillées | choisir la langue d’écoute | démarrer la visite après connexion | . Choisissez votre façon d’explorer . Avec VoxTour.ai, vous pouvez : . | suivre une visite complète du début à la fin | écouter des POI individuels dans l’ordre de votre choix | combiner les deux approches selon votre temps et votre envie | . Astuce : Si vous manquez de temps, explorez les POI à proximité. Pour une expérience plus immersive, choisissez une visite et suivez son itinéraire à votre rythme. Gestion du compte Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour modifier vos informations personnelles, telles que votre prénom, nom, surnom et année de naissance. ",
+    "content": "VoxTour.ai vous permet d’explorer les villes de manière flexible. Vous pouvez découvrir des visites guidées sélectionnées ou explorer des points d’intérêt individuels (POI) directement depuis la carte. Vous pouvez parcourir les villes, les visites et les lieux sans vous connecter. Pour écouter les histoires audio, vous devez vous connecter. Étape 1 : Rechercher une ville . Sur ordinateur : Sur la page d’accueil, utilisez le champ Rechercher par destination pour saisir le nom d’une ville (par exemple Rome ou Paris), puis sélectionnez-la dans les résultats. Sur mobile : Touchez le champ de recherche, saisissez le nom d’une ville et sélectionnez-la dans la liste. Étape 2 : Explorer la carte de la ville . Après avoir sélectionné une ville, vous verrez : . | une carte avec des POI numérotés et illustrés par des icônes | une liste des visites disponibles pour cette ville | . La carte et la liste des visites fonctionnent ensemble : vous pouvez explorer visuellement ou parcourir d’abord les visites. Étape 3 : Explorer des lieux individuels (POI) . Il n’est pas nécessaire de suivre une visite pour explorer. Touchez ou cliquez sur une icône de POI sur la carte pour ouvrir un aperçu du lieu. Chaque aperçu affiche : . | le nom et la catégorie du lieu | la note (si disponible) | les langues audio disponibles | une courte description | . Idéal si vous souhaitez : . | explorer librement | écouter uniquement les lieux à proximité | vous arrêter et lancer l’audio lorsqu’un endroit attire votre attention | . Étape 4 : Parcourir les visites dans la liste . La liste des visites présente des itinéraires sélectionnés, conçus pour explorer une ville par thème ou par quartier. Chaque carte de visite inclut : . | Titre de la visite | Note | Durée estimée | Distance totale | Nombre d’arrêts (lieux) | . Ces informations vous aident à comparer rapidement les visites et à choisir celle qui correspond à votre temps et à vos préférences de marche. Étape 5 : Vérifier les langues disponibles . À côté de la note de la visite, vous pouvez voir un ou plusieurs icônes de langue (par exemple 🇺🇸 🇫🇷 🇮🇹). Ces icônes indiquent les langues dans lesquelles l’audio de la visite est disponible. Choisissez une visite correspondant à la langue que vous souhaitez écouter. Étape 6 : Prévisualiser l’itinéraire de la visite sur la carte . Les visites incluent une icône d’itinéraire (icône carte/livre) à côté du bouton Ouvrir. Touchez ou cliquez sur cette icône pour : . | afficher l’itinéraire complet sur la carte | voir comment les arrêts sont reliés | comprendre le parcours à pied avant de commencer | . Étape 7 : Ouvrir une visite . Sélectionnez Ouvrir pour afficher la page complète de la visite. Vous pourrez alors : . | voir tous les lieux inclus | consulter les informations détaillées | choisir la langue d’écoute | démarrer la visite après connexion | . Choisissez votre façon d’explorer . Avec VoxTour.ai, vous pouvez : . | suivre une visite complète du début à la fin | écouter des POI individuels dans l’ordre de votre choix | combiner les deux approches selon votre temps et votre envie | . Astuce : Si vous manquez de temps, explorez les POI à proximité. Pour une expérience plus immersive, choisissez une visite et suivez son itinéraire à votre rythme. Start &amp; Listen to a Tour ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#trouver-votre-ville-et-vos-visites",
     "relUrl": "/help_center/user-guide.html#trouver-votre-ville-et-vos-visites"
   },"28": {
+    "doc": "Guide d’utilisation",
+    "title": "Start &amp; Listen to a Tour",
+    "content": "Gestion du compte Gérer le profil de votre compte est rapide et simple. Suivez ces étapes pour modifier vos informations personnelles, telles que votre prénom, nom, surnom et année de naissance. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#start--listen-to-a-tour",
+    "relUrl": "/help_center/user-guide.html#start--listen-to-a-tour"
+  },"29": {
     "doc": "Guide d’utilisation",
     "title": "Comment accéder à la page de modification du profil",
     "content": ". | Connectez-vous à votre compte. | Accédez à la section Profil. | Cliquez sur l’icône Modifier le profil (l’icône crayon) près de votre photo de profil. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#comment-acc%C3%A9der-%C3%A0-la-page-de-modification-du-profil",
     "relUrl": "/help_center/user-guide.html#comment-accéder-à-la-page-de-modification-du-profil"
-  },"29": {
+  },"30": {
     "doc": "Guide d’utilisation",
     "title": "Modification des informations du profil",
     "content": "Sur la page Modifier le profil, vous pouvez modifier les champs suivants: . | Prénom: Mettez à jour votre prénom tel qu’il apparaîtra sur votre profil. | Nom: Modifiez votre nom pour refléter les informations mises à jour. | Surnom: Ajoutez ou modifiez votre surnom pour une touche plus personnelle. | Année de naissance: Ajustez votre année de naissance pour que votre profil soit exact. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#modification-des-informations-du-profil",
     "relUrl": "/help_center/user-guide.html#modification-des-informations-du-profil"
-  },"30": {
+  },"31": {
     "doc": "Guide d’utilisation",
     "title": "Enregistrer les modifications",
     "content": ". | Après avoir mis à jour les champs nécessaires, cliquez sur le bouton Enregistrer en haut à droite de la page. | Vos modifications seront enregistrées immédiatement et votre profil sera mis à jour. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#enregistrer-les-modifications",
     "relUrl": "/help_center/user-guide.html#enregistrer-les-modifications"
-  },"31": {
+  },"32": {
     "doc": "Guide d’utilisation",
     "title": "Voir le profil mis à jour",
     "content": ". | Une fois enregistré, vous serez automatiquement redirigé vers la page Profil où vous pourrez vérifier les informations mises à jour dans le résumé de votre profil. | Vérifiez les informations mises à jour dans le résumé de votre profil, qui comprend votre nom et d’autres détails pertinents. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#voir-le-profil-mis-%C3%A0-jour",
     "relUrl": "/help_center/user-guide.html#voir-le-profil-mis-à-jour"
-  },"32": {
+  },"33": {
     "doc": "Guide d’utilisation",
     "title": "Notes supplémentaires",
     "content": ". | Photo de profil: Vous pouvez aussi mettre à jour votre photo de profil en cliquant sur l’icône crayon sur votre avatar. | Certains champs peuvent ne pas être modifiables selon votre type de compte ou vos autorisations. | Si vous rencontrez des problèmes lors de la modification de votre profil, contactez notre équipe de support pour obtenir de l’aide. | . En suivant les étapes ci-dessus, vous pourrez facilement gérer les détails de votre compte afin que votre profil reste à jour. Paramètres ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#notes-suppl%C3%A9mentaires",
     "relUrl": "/help_center/user-guide.html#notes-supplémentaires"
-  },"33": {
+  },"34": {
     "doc": "Guide d’utilisation",
     "title": "Paramètres",
     "content": " ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#param%C3%A8tres",
     "relUrl": "/help_center/user-guide.html#paramètres"
-  },"34": {
+  },"35": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
