@@ -205,10 +205,46 @@
   },"34": {
     "doc": "Guía de usuario",
     "title": "Configuración",
-    "content": " ",
+    "content": "VoxTour.ai te permite administrar fácilmente las credenciales de tu cuenta, las preferencias de idioma y la configuración del perfil desde el menú de Configuración. La configuración está disponible tanto en móvil como en escritorio, y la funcionalidad es la misma en todas las plataformas. Paso 1: Abrir Configuración . En móvil: . | Toca tu avatar de perfil en la esquina superior derecha. | Toca Configuración. | . En escritorio: . | Haz clic en tu avatar de perfil en la esquina superior derecha. | Selecciona Configuración en el menú desplegable. | . Paso 2: Abrir Configuración general . Dentro del menú Configuración, toca o haz clic en General. Esta sección contiene las credenciales de tu cuenta, las preferencias de idioma y las opciones de administración de la cuenta. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#configuraci%C3%B3n",
     "relUrl": "/help_center/user-guide.html#configuración"
   },"35": {
+    "doc": "Guía de usuario",
+    "title": "Credenciales",
+    "content": "La sección Credenciales muestra tu dirección de correo electrónico registrada y te permite actualizar los datos de inicio de sesión. Cambiar dirección de correo electrónico . | Toca o haz clic en Cambiar correo | Ingresa: . | Nueva dirección de correo electrónico | Confirmar dirección de correo electrónico | Contraseña actual | . | Toca o haz clic en Guardar | . Si no recuerdas tu contraseña, cierra sesión y utiliza el restablecimiento de contraseña. Cambiar contraseña . | Toca o haz clic en Cambiar contraseña | Ingresa: . | Contraseña actual | Nueva contraseña | Confirmar nueva contraseña | . | Toca o haz clic en Guardar | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#credenciales",
+    "relUrl": "/help_center/user-guide.html#credenciales"
+  },"36": {
+    "doc": "Guía de usuario",
+    "title": "Estado de inicio de sesión social",
+    "content": "Esta sección muestra cómo está conectada tu cuenta. Ejemplo: . | Cuenta local (correo electrónico y contraseña) | Proveedor de inicio de sesión social (si está conectado) | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#estado-de-inicio-de-sesi%C3%B3n-social",
+    "relUrl": "/help_center/user-guide.html#estado-de-inicio-de-sesión-social"
+  },"37": {
+    "doc": "Guía de usuario",
+    "title": "Preferencias de idioma",
+    "content": "Puedes cambiar el idioma de la interfaz de la aplicación en cualquier momento. Para cambiar el idioma: . | Toca o haz clic en el idioma actual | Selecciona un nuevo idioma de la lista | La aplicación se actualiza automáticamente | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#preferencias-de-idioma",
+    "relUrl": "/help_center/user-guide.html#preferencias-de-idioma"
+  },"38": {
+    "doc": "Guía de usuario",
+    "title": "Eliminar cuenta",
+    "content": "Puedes eliminar permanentemente tu cuenta de VoxTour.ai desde Configuración. ⚠️ Al eliminar tu cuenta: . | Se eliminan los datos de tu cuenta de forma permanente | No se puede deshacer | Se pueden eliminar los tours guardados y las preferencias | . Para eliminar tu cuenta: . | Toca o haz clic en Eliminar tu cuenta | Confirma tu decisión cuando se te solicite | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#eliminar-cuenta",
+    "relUrl": "/help_center/user-guide.html#eliminar-cuenta"
+  },"39": {
+    "doc": "Guía de usuario",
+    "title": "Secciones adicionales de Configuración",
+    "content": "Dependiendo de tu cuenta y de las funciones habilitadas, también puedes ver: . | VoxLens – Configuración de reconocimiento de imágenes y creación de historias con IA | VoxRoute – Preferencias de tours y navegación | VoxExplore – Configuración de descubrimiento y exploración | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#secciones-adicionales-de-configuraci%C3%B3n",
+    "relUrl": "/help_center/user-guide.html#secciones-adicionales-de-configuración"
+  },"40": {
+    "doc": "Guía de usuario",
+    "title": "Consejos",
+    "content": ". | Mantén tu correo electrónico actualizado para asegurar la recuperación de acceso. | Usa una contraseña segura para mayor seguridad. | Establece tu idioma preferido antes de comenzar tours para una mejor experiencia. | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#consejos",
+    "relUrl": "/help_center/user-guide.html#consejos"
+  },"41": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",

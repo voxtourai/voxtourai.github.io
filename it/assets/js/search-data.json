@@ -205,10 +205,46 @@
   },"34": {
     "doc": "Guida all’uso",
     "title": "Impostazioni",
-    "content": " ",
+    "content": "VoxTour.ai ti consente di gestire facilmente le credenziali del tuo account, le preferenze di lingua e le impostazioni del profilo dal menu Impostazioni. Le impostazioni sono disponibili sia su mobile che su desktop, e le funzionalità sono le stesse su tutte le piattaforme. Passo 1: Aprire Impostazioni . Su mobile: . | Tocca il tuo avatar del profilo nell’angolo in alto a destra. | Tocca Impostazioni. | . Su desktop: . | Fai clic sul tuo avatar del profilo nell’angolo in alto a destra. | Seleziona Impostazioni dal menu a discesa. | . Passo 2: Aprire Impostazioni generali . All’interno del menu Impostazioni, tocca o fai clic su Generale. Questa sezione contiene le credenziali del tuo account, le preferenze di lingua e le opzioni di gestione dell’account. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#impostazioni",
     "relUrl": "/help_center/user-guide.html#impostazioni"
   },"35": {
+    "doc": "Guida all’uso",
+    "title": "Credenziali",
+    "content": "La sezione Credenziali mostra il tuo indirizzo email registrato e ti consente di aggiornare i dati di accesso. Cambiare indirizzo email . | Tocca o fai clic su Cambia email | Inserisci: . | Nuovo indirizzo email | Conferma indirizzo email | Password attuale | . | Tocca o fai clic su Salva | . Se non ricordi la password, esci e utilizza il reset della password. Cambiare password . | Tocca o fai clic su Cambia password | Inserisci: . | Password attuale | Nuova password | Conferma nuova password | . | Tocca o fai clic su Salva | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#credenziali",
+    "relUrl": "/help_center/user-guide.html#credenziali"
+  },"36": {
+    "doc": "Guida all’uso",
+    "title": "Stato accesso social",
+    "content": "Questa sezione mostra come è collegato il tuo account. Esempio: . | Account locale (email e password) | Provider di accesso social (se collegato) | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#stato-accesso-social",
+    "relUrl": "/help_center/user-guide.html#stato-accesso-social"
+  },"37": {
+    "doc": "Guida all’uso",
+    "title": "Preferenze lingua",
+    "content": "Puoi cambiare la lingua dell’interfaccia dell’app in qualsiasi momento. Per cambiare lingua: . | Tocca o fai clic sulla lingua corrente | Seleziona una nuova lingua dall’elenco | L’app si aggiorna automaticamente | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#preferenze-lingua",
+    "relUrl": "/help_center/user-guide.html#preferenze-lingua"
+  },"38": {
+    "doc": "Guida all’uso",
+    "title": "Elimina account",
+    "content": "Puoi eliminare definitivamente il tuo account VoxTour.ai dalle Impostazioni. ⚠️ L’eliminazione dell’account: . | Rimuove i dati dell’account in modo permanente | Non può essere annullata | Può rimuovere tour salvati e preferenze | . Per eliminare l’account: . | Tocca o fai clic su Elimina il tuo account | Conferma la decisione quando richiesto | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#elimina-account",
+    "relUrl": "/help_center/user-guide.html#elimina-account"
+  },"39": {
+    "doc": "Guida all’uso",
+    "title": "Sezioni aggiuntive delle impostazioni",
+    "content": "A seconda del tuo account e delle funzionalità abilitate, potresti vedere anche: . | VoxLens – Impostazioni di riconoscimento immagini e creazione di storie con AI | VoxRoute – Preferenze tour e navigazione | VoxExplore – Impostazioni di scoperta ed esplorazione | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#sezioni-aggiuntive-delle-impostazioni",
+    "relUrl": "/help_center/user-guide.html#sezioni-aggiuntive-delle-impostazioni"
+  },"40": {
+    "doc": "Guida all’uso",
+    "title": "Suggerimenti",
+    "content": ". | Mantieni aggiornata la tua email per garantire il recupero dell’accesso. | Usa una password sicura per maggiore protezione. | Imposta la lingua preferita prima di iniziare i tour per la migliore esperienza. | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#suggerimenti",
+    "relUrl": "/help_center/user-guide.html#suggerimenti"
+  },"41": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",

@@ -205,10 +205,46 @@
   },"34": {
     "doc": "Guide d’utilisation",
     "title": "Paramètres",
-    "content": " ",
+    "content": "VoxTour.ai vous permet de gérer facilement les identifiants de votre compte, vos préférences de langue et les paramètres de votre profil depuis le menu Paramètres. Les paramètres sont disponibles sur mobile et sur ordinateur, et les fonctionnalités sont identiques sur toutes les plateformes. Étape 1 : Ouvrir les paramètres . Sur mobile : . | Touchez votre avatar de profil en haut à droite. | Touchez Paramètres. | . Sur ordinateur : . | Cliquez sur votre avatar de profil en haut à droite. | Sélectionnez Paramètres dans le menu déroulant. | . Étape 2 : Ouvrir les paramètres généraux . Dans le menu Paramètres, touchez ou cliquez sur Général. Cette section contient les identifiants de votre compte, vos préférences de langue et les options de gestion du compte. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#param%C3%A8tres",
     "relUrl": "/help_center/user-guide.html#paramètres"
   },"35": {
+    "doc": "Guide d’utilisation",
+    "title": "Identifiants",
+    "content": "La section Identifiants affiche votre adresse e-mail enregistrée et vous permet de mettre à jour vos informations de connexion. Modifier l’adresse e-mail . | Touchez ou cliquez sur Modifier l’e-mail | Saisissez : . | Nouvelle adresse e-mail | Confirmer l’adresse e-mail | Mot de passe actuel | . | Touchez ou cliquez sur Enregistrer | . Si vous ne vous souvenez pas de votre mot de passe, déconnectez-vous et utilisez la réinitialisation du mot de passe. Modifier le mot de passe . | Touchez ou cliquez sur Modifier le mot de passe | Saisissez : . | Mot de passe actuel | Nouveau mot de passe | Confirmer le nouveau mot de passe | . | Touchez ou cliquez sur Enregistrer | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#identifiants",
+    "relUrl": "/help_center/user-guide.html#identifiants"
+  },"36": {
+    "doc": "Guide d’utilisation",
+    "title": "Statut de connexion sociale",
+    "content": "Cette section indique comment votre compte est connecté. Exemple : . | Compte local (e-mail et mot de passe) | Fournisseur de connexion sociale (si connecté) | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#statut-de-connexion-sociale",
+    "relUrl": "/help_center/user-guide.html#statut-de-connexion-sociale"
+  },"37": {
+    "doc": "Guide d’utilisation",
+    "title": "Préférences de langue",
+    "content": "Vous pouvez changer la langue de l’interface de l’application à tout moment. Pour changer de langue : . | Touchez ou cliquez sur la langue actuelle | Sélectionnez une nouvelle langue dans la liste | L’application se met à jour automatiquement | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#pr%C3%A9f%C3%A9rences-de-langue",
+    "relUrl": "/help_center/user-guide.html#préférences-de-langue"
+  },"38": {
+    "doc": "Guide d’utilisation",
+    "title": "Supprimer le compte",
+    "content": "Vous pouvez supprimer définitivement votre compte VoxTour.ai depuis les Paramètres. ⚠️ La suppression de votre compte : . | Supprime définitivement les données de votre compte | Ne peut pas être annulée | Peut supprimer les tours enregistrés et les préférences | . Pour supprimer votre compte : . | Touchez ou cliquez sur Supprimer votre compte | Confirmez votre décision lorsque cela vous est demandé | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#supprimer-le-compte",
+    "relUrl": "/help_center/user-guide.html#supprimer-le-compte"
+  },"39": {
+    "doc": "Guide d’utilisation",
+    "title": "Sections de paramètres supplémentaires",
+    "content": "Selon votre compte et les fonctionnalités activées, vous pouvez également voir : . | VoxLens – Paramètres de reconnaissance d’images et de narration par IA | VoxRoute – Préférences de tours et de navigation | VoxExplore – Paramètres de découverte et d’exploration | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#sections-de-param%C3%A8tres-suppl%C3%A9mentaires",
+    "relUrl": "/help_center/user-guide.html#sections-de-paramètres-supplémentaires"
+  },"40": {
+    "doc": "Guide d’utilisation",
+    "title": "Conseils",
+    "content": ". | Gardez votre e-mail à jour pour assurer la récupération d’accès. | Utilisez un mot de passe robuste pour la sécurité. | Définissez votre langue préférée avant de commencer des tours pour une meilleure expérience. | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#conseils",
+    "relUrl": "/help_center/user-guide.html#conseils"
+  },"41": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
