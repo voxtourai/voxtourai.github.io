@@ -5,7 +5,7 @@ parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
 order: 7
 ---
 
-## Settings & Account Management
+## Settings
 
 VoxTour.ai allows you to manage your account credentials, language preferences, and profile settings easily from the Settings menu.
 
