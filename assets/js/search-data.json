@@ -174,10 +174,10 @@
     "relUrl": "/help_center/user-guide.html#start--listen-to-a-tour"
   },"29": {
     "doc": "User Guide",
-    "title": "Smart Exploration Tools ⭐ (Mobile Only)",
+    "title": "Smart Exploration Tools (Mobile Only)",
     "content": "VoxTour.ai includes intelligent mobile exploration tools that help you discover stories around you automatically or identify landmarks using AI. These tools are available from the Smart Tools menu inside the mobile app. Access Smart Exploration Tools . | Open the VoxTour.ai mobile app | Open the map screen | Tap the Smart Tools button | Select: . | Navigator | Frame | . | . ",
-    "url": "https://support.voxtour.ai/help_center/user-guide.html#smart-exploration-tools--mobile-only",
-    "relUrl": "/help_center/user-guide.html#smart-exploration-tools--mobile-only"
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#smart-exploration-tools-mobile-only",
+    "relUrl": "/help_center/user-guide.html#smart-exploration-tools-mobile-only"
   },"30": {
     "doc": "User Guide",
     "title": "Navigator",
@@ -193,7 +193,7 @@
   },"32": {
     "doc": "User Guide",
     "title": "Tips for Best Results",
-    "content": ". | Enable location services when using Navigator | Use clear, well-lit photos when using Frame | Stand facing the landmark for better recognition accuracy | Allow a few moments for AI processing when using Frame | . ⚠️ Smart Exploration Tools are currently available only on mobile devices. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
+    "content": ". | Enable location services when using Navigator | Use clear, well-lit photos when using Frame | Stand facing the landmark for better recognition accuracy | Allow a few moments for AI processing when using Frame | . ⚠️ Smart Exploration Tools are available only on mobile devices. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#tips-for-best-results",
     "relUrl": "/help_center/user-guide.html#tips-for-best-results"
   },"33": {
