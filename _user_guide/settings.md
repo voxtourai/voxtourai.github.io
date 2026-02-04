@@ -67,6 +67,8 @@ If you do not remember your password, sign out and use password reset.
     - Confirm new password
 3. Tap or click **Save**
 
+![Change password]({{ site.baseurl }}/assets/images/change-password.webp)
+
 ---
 
 ## Social Sign-In Status
