@@ -85,13 +85,13 @@ Example:
 
 You can change your app interface language at any time.
 
-![Language selector]({{ site.baseurl }}/assets/images/settings-language.webp)
-
 ### To change language:
 
 1. Tap or click the current language
 2. Select a new language from the list
 3. The app updates automatically
+
+![Language selector]({{ site.baseurl }}/assets/images/settings-language.webp)
 
 ---
 
