@@ -204,10 +204,10 @@
     "relUrl": "/help_center/user-guide.html#additional-notes"
   },"34": {
     "doc": "User Guide",
-    "title": "Settings &amp; Account Management",
+    "title": "Settings",
     "content": "VoxTour.ai allows you to manage your account credentials, language preferences, and profile settings easily from the Settings menu. Settings are available on both mobile and desktop, and the functionality is the same across platforms. Step 1: Open Settings . On mobile: . | Tap your profile avatar in the top-right corner. | Tap Settings. | . On desktop: . | Click your profile avatar in the top-right corner. | Select Settings from the dropdown menu. | . Step 2: Open General Settings . Inside the Settings menu, tap or click General. This section contains your account credentials, language preferences, and account management options. ",
-    "url": "https://support.voxtour.ai/help_center/user-guide.html#settings--account-management",
-    "relUrl": "/help_center/user-guide.html#settings--account-management"
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
+    "relUrl": "/help_center/user-guide.html#settings"
   },"35": {
     "doc": "User Guide",
     "title": "Credentials",
