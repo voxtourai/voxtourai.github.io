@@ -204,11 +204,47 @@
     "relUrl": "/help_center/user-guide.html#additional-notes"
   },"34": {
     "doc": "User Guide",
-    "title": "Settings",
-    "content": " ",
-    "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
-    "relUrl": "/help_center/user-guide.html#settings"
+    "title": "Settings &amp; Account Management",
+    "content": "VoxTour.ai allows you to manage your account credentials, language preferences, and profile settings easily from the Settings menu. Settings are available on both mobile and desktop, and the functionality is the same across platforms. Step 1: Open Settings . On mobile: . | Tap your profile avatar in the top-right corner. | Tap Settings. | . On desktop: . | Click your profile avatar in the top-right corner. | Select Settings from the dropdown menu. | . Step 2: Open General Settings . Inside the Settings menu, tap or click General. This section contains your account credentials, language preferences, and account management options. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#settings--account-management",
+    "relUrl": "/help_center/user-guide.html#settings--account-management"
   },"35": {
+    "doc": "User Guide",
+    "title": "Credentials",
+    "content": "The Credentials section displays your registered email address and allows you to update login details. Change email address . | Tap or click Change email | Enter: . | New email address | Confirm email address | Current password | . | Tap or click Save | . If you do not remember your password, sign out and use password reset. Change password . | Tap or click Change password | Enter: . | Current password | New password | Confirm new password | . | Tap or click Save | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#credentials",
+    "relUrl": "/help_center/user-guide.html#credentials"
+  },"36": {
+    "doc": "User Guide",
+    "title": "Social Sign-In Status",
+    "content": "This section shows how your account is connected. Example: . | Local account (email and password) | Social login provider (if connected) | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#social-sign-in-status",
+    "relUrl": "/help_center/user-guide.html#social-sign-in-status"
+  },"37": {
+    "doc": "User Guide",
+    "title": "Language Preferences",
+    "content": "You can change your app interface language at any time. To change language: . | Tap or click the current language | Select a new language from the list | The app updates automatically | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#language-preferences",
+    "relUrl": "/help_center/user-guide.html#language-preferences"
+  },"38": {
+    "doc": "User Guide",
+    "title": "Delete Account",
+    "content": "You can permanently delete your VoxTour.ai account from Settings. ⚠️ Deleting your account: . | Removes your account data permanently | Cannot be undone | May remove saved tours and preferences | . To delete your account: . | Tap or click Delete your account | Confirm your decision when prompted | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#delete-account",
+    "relUrl": "/help_center/user-guide.html#delete-account"
+  },"39": {
+    "doc": "User Guide",
+    "title": "Additional Settings Sections",
+    "content": "Depending on your account and features enabled, you may also see: . | VoxLens – AI image recognition and storytelling settings | VoxRoute – Tour and navigation preferences | VoxExplore – Discovery and exploration settings | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-settings-sections",
+    "relUrl": "/help_center/user-guide.html#additional-settings-sections"
+  },"40": {
+    "doc": "User Guide",
+    "title": "Tips",
+    "content": ". | Keep your email updated to ensure access recovery. | Use a strong password for security. | Set your preferred language before starting tours for the best experience. | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#tips",
+    "relUrl": "/help_center/user-guide.html#tips"
+  },"41": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
