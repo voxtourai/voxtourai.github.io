@@ -169,82 +169,106 @@
   },"28": {
     "doc": "User Guide",
     "title": "Start &amp; Listen to a Tour",
-    "content": "Once you choose a tour, VoxTour.ai makes it easy to preview the route, review stops, and start listening at your own pace. Step 1: Open the tour page . From the city screen, tap or click Open on any tour card. The tour page shows: . | Tour overview and description | Rating and available audio languages | Estimated walking distance and duration | Number of included stops | Full list of Points of Interest (POIs) | . Step 2: Choose your listening language . On the tour page, select your preferred audio language. Tap or click the language selector next to the Start Tour button. Available languages may include English, Hebrew, Russian, and others depending on the tour. Step 3: Open a tour and view stops . Tap or click Start Tour (or open a tour page). If you are not signed in, VoxTour.ai will prompt you to sign in or create an account before continuing. Opening a tour does not start audio automatically. Instead, VoxTour.ai displays the list of stops (locations) included in the tour. Each stop displays: . | Stop number and name | Photo preview | Visit button (opens location details and audio story) | Direction button (opens navigation to the stop) | . You can explore stops in order or jump to any location. Step 4: Preview the tour route on the map . On mobile: . Tours include a Route icon (map/book icon). Tapping the Route icon opens the map centered on your current location. This means: . | If you are currently in a different country, the route may not be immediately visible. | You may need to manually zoom or move the map to view the full route. | . The same behavior applies when tapping Direction - navigation is based on your current location. On desktop: . The map appears alongside the tour content. This makes it easier to: . | View the entire tour route | Understand stop locations | Explore the path even if you are not physically in the destination city | . Step 5: Start listening at a stop . To begin listening: . Tap or click Visit next to a stop. When you select Visit, VoxTour.ai: . | Opens the stop page | Launches the audio player | Starts the story for that location | . You can start from any stop, you do not have to follow the route in order. Step 6: Use directions to navigate . The Direction button helps you navigate to a stop using map navigation. On mobile: . | Directions may open navigation based on your current location. | . On desktop: . | You can preview the stop location and route on the map before traveling. | . Step 7: Use the audio player . While listening, you can: . | Pause or resume playback | Skip forward or backward between stops | Adjust playback speed | Continue exploring the map while listening | . You can stop and resume the tour anytime. Step 8: Explore stops during the tour . While following the tour, you can: . | Open the map to see upcoming stops | Select stops manually | Read descriptions and view images | Use navigation directions between locations | . Flexible listening experience . With VoxTour.ai, you can: . | Follow the tour route step-by-step | Visit stops in any order | Pause and continue later | Combine guided tours with spontaneous exploration | . Tip: Before starting a tour, preview the route on desktop or zoom out on mobile to better understand the full walking path. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
+    "content": "Once you choose a tour, VoxTour.ai makes it easy to preview the route, review stops, and start listening at your own pace. Step 1: Open the tour page . From the city screen, tap or click Open on any tour card. The tour page shows: . | Tour overview and description | Rating and available audio languages | Estimated walking distance and duration | Number of included stops | Full list of Points of Interest (POIs) | . Step 2: Choose your listening language . On the tour page, select your preferred audio language. Tap or click the language selector next to the Start Tour button. Available languages may include English, Hebrew, Russian, and others depending on the tour. Step 3: Open a tour and view stops . Tap or click Start Tour (or open a tour page). If you are not signed in, VoxTour.ai will prompt you to sign in or create an account before continuing. Opening a tour does not start audio automatically. Instead, VoxTour.ai displays the list of stops (locations) included in the tour. Each stop displays: . | Stop number and name | Photo preview | Visit button (opens location details and audio story) | Direction button (opens navigation to the stop) | . You can explore stops in order or jump to any location. Step 4: Preview the tour route on the map . On mobile: . Tours include a Route icon (map/book icon). Tapping the Route icon opens the map centered on your current location. This means: . | If you are currently in a different country, the route may not be immediately visible. | You may need to manually zoom or move the map to view the full route. | . The same behavior applies when tapping Direction - navigation is based on your current location. On desktop: . The map appears alongside the tour content. This makes it easier to: . | View the entire tour route | Understand stop locations | Explore the path even if you are not physically in the destination city | . Step 5: Start listening at a stop . To begin listening: . Tap or click Visit next to a stop. When you select Visit, VoxTour.ai: . | Opens the stop page | Launches the audio player | Starts the story for that location | . You can start from any stop, you do not have to follow the route in order. Step 6: Use directions to navigate . The Direction button helps you navigate to a stop using map navigation. On mobile: . | Directions may open navigation based on your current location. | . On desktop: . | You can preview the stop location and route on the map before traveling. | . Step 7: Use the audio player . While listening, you can: . | Pause or resume playback | Skip forward or backward between stops | Adjust playback speed | Continue exploring the map while listening | . You can stop and resume the tour anytime. Step 8: Explore stops during the tour . While following the tour, you can: . | Open the map to see upcoming stops | Select stops manually | Read descriptions and view images | Use navigation directions between locations | . Flexible listening experience . With VoxTour.ai, you can: . | Follow the tour route step-by-step | Visit stops in any order | Pause and continue later | Combine guided tours with spontaneous exploration | . Tip: Before starting a tour, preview the route on desktop or zoom out on mobile to better understand the full walking path. Smart Exploration Tools ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#start--listen-to-a-tour",
     "relUrl": "/help_center/user-guide.html#start--listen-to-a-tour"
   },"29": {
+    "doc": "User Guide",
+    "title": "Smart Exploration Tools ⭐ (Mobile Only)",
+    "content": "VoxTour.ai includes intelligent mobile exploration tools that help you discover stories around you automatically or identify landmarks using AI. These tools are available from the Smart Tools menu inside the mobile app. Access Smart Exploration Tools . | Open the VoxTour.ai mobile app | Open the map screen | Tap the Smart Tools button | Select: . | Navigator | Frame | . | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#smart-exploration-tools--mobile-only",
+    "relUrl": "/help_center/user-guide.html#smart-exploration-tools--mobile-only"
+  },"30": {
+    "doc": "User Guide",
+    "title": "Navigator",
+    "content": "Navigator provides automatic, location-aware storytelling while you walk or explore. How Navigator works . When you activate Navigator: . | The system detects your current location | VoxTour.ai searches for the closest Points of Interest (POIs) around you | As you move and cross POI boundaries: . | The app automatically launches the story | The system determines from which direction you approach | The story adapts based on your location and movement | . | . Navigator allows you to explore cities naturally without manually selecting stops. To use Navigator . | Open Smart Exploration Tools | Tap Navigator | Allow location access if prompted | Start walking — VoxTour.ai will automatically guide you | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#navigator",
+    "relUrl": "/help_center/user-guide.html#navigator"
+  },"31": {
+    "doc": "User Guide",
+    "title": "Frame (Image Recognition)",
+    "content": "Frame uses AI image recognition to identify landmarks and generate audio stories. How Frame works . When you use Frame: . | You upload or capture an image of a landmark or object | VoxTour.ai analyzes the image using AI | The system identifies the location or object | A related story or explanation is generated automatically | . Frame allows spontaneous discovery without searching or browsing tours. To use Frame . | Open Smart Exploration Tools | Tap Frame | Upload or capture an image | Wait while the AI processes the request | The story will be generated once recognition is complete | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#frame-image-recognition",
+    "relUrl": "/help_center/user-guide.html#frame-image-recognition"
+  },"32": {
+    "doc": "User Guide",
+    "title": "Tips for Best Results",
+    "content": ". | Enable location services when using Navigator | Use clear, well-lit photos when using Frame | Stand facing the landmark for better recognition accuracy | Allow a few moments for AI processing when using Frame | . ⚠️ Smart Exploration Tools are currently available only on mobile devices. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#tips-for-best-results",
+    "relUrl": "/help_center/user-guide.html#tips-for-best-results"
+  },"33": {
     "doc": "User Guide",
     "title": "How to Access the Profile Edit Page",
     "content": ". | Log in to your account. | Navigate to the Profile section. | Click on the Edit Profile icon (the pencil icon) located near your profile picture. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-access-the-profile-edit-page",
     "relUrl": "/help_center/user-guide.html#how-to-access-the-profile-edit-page"
-  },"30": {
+  },"34": {
     "doc": "User Guide",
     "title": "Editing Your Profile Information",
     "content": "On the Edit Profile page, you can modify the following fields: . | First Name: Update your first name as it will appear on your profile. | Last Name: Change your last name to reflect updated information. | Nickname: Add or edit your nickname for a more personalized touch. | Birth Year: Adjust your birth year to ensure your profile is accurate. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#editing-your-profile-information",
     "relUrl": "/help_center/user-guide.html#editing-your-profile-information"
-  },"31": {
+  },"35": {
     "doc": "User Guide",
     "title": "Saving Changes",
     "content": ". | After updating the necessary fields, click the Save button at the top right corner of the page. | Your changes will be saved immediately, and your profile will be updated. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#saving-changes",
     "relUrl": "/help_center/user-guide.html#saving-changes"
-  },"32": {
+  },"36": {
     "doc": "User Guide",
     "title": "Viewing Updated Profile",
     "content": ". | Once saved, you will be automatically redirected to the Profile page where you can verify the updated information in your profile summary. | Verify the updated information in your profile summary, which includes your name and other relevant details. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#viewing-updated-profile",
     "relUrl": "/help_center/user-guide.html#viewing-updated-profile"
-  },"33": {
+  },"37": {
     "doc": "User Guide",
     "title": "Additional Notes",
     "content": ". | Profile Picture: You can also update your profile picture by clicking the pencil icon over your avatar. | Some fields may not be editable depending on your account type or permissions. | If you encounter any issues while editing your profile, contact our support team for assistance. | . By following the steps above, you can easily manage your account details to ensure your profile stays accurate and up-to-date. Settings ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-notes",
     "relUrl": "/help_center/user-guide.html#additional-notes"
-  },"34": {
+  },"38": {
     "doc": "User Guide",
     "title": "Settings",
     "content": "VoxTour.ai allows you to manage your account credentials, language preferences, and profile settings easily from the Settings menu. Settings are available on both mobile and desktop, and the functionality is the same across platforms. Step 1: Open Settings . On mobile: . | Tap your profile avatar in the top-right corner. | Tap Settings. | . On desktop: . | Click your profile avatar in the top-right corner. | Select Settings from the dropdown menu. | . Step 2: Open General Settings . Inside the Settings menu, tap or click General. This section contains your account credentials, language preferences, and account management options. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
     "relUrl": "/help_center/user-guide.html#settings"
-  },"35": {
+  },"39": {
     "doc": "User Guide",
     "title": "Credentials",
     "content": "The Credentials section displays your registered email address and allows you to update login details. Change email address . | Tap or click Change email | Enter: . | New email address | Confirm email address | Current password | . | Tap or click Save | . If you do not remember your password, sign out and use password reset. Change password . | Tap or click Change password | Enter: . | Current password | New password | Confirm new password | . | Tap or click Save | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#credentials",
     "relUrl": "/help_center/user-guide.html#credentials"
-  },"36": {
+  },"40": {
     "doc": "User Guide",
     "title": "Social Sign-In Status",
     "content": "This section shows how your account is connected. Example: . | Local account (email and password) | Social login provider (if connected) | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#social-sign-in-status",
     "relUrl": "/help_center/user-guide.html#social-sign-in-status"
-  },"37": {
+  },"41": {
     "doc": "User Guide",
     "title": "Language Preferences",
     "content": "You can change your app interface language at any time. To change language: . | Tap or click the current language | Select a new language from the list | The app updates automatically | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#language-preferences",
     "relUrl": "/help_center/user-guide.html#language-preferences"
-  },"38": {
+  },"42": {
     "doc": "User Guide",
     "title": "Delete Account",
     "content": "You can permanently delete your VoxTour.ai account from Settings. ⚠️ Deleting your account: . | Removes your account data permanently | Cannot be undone | May remove saved tours and preferences | . To delete your account: . | Tap or click Delete your account | Confirm your decision when prompted | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#delete-account",
     "relUrl": "/help_center/user-guide.html#delete-account"
-  },"39": {
+  },"43": {
     "doc": "User Guide",
     "title": "Additional Settings Sections",
     "content": "Depending on your account and features enabled, you may also see: . | VoxLens – AI image recognition and storytelling settings | VoxRoute – Tour and navigation preferences | VoxExplore – Discovery and exploration settings | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-settings-sections",
     "relUrl": "/help_center/user-guide.html#additional-settings-sections"
-  },"40": {
+  },"44": {
     "doc": "User Guide",
     "title": "Tips",
     "content": ". | Keep your email updated to ensure access recovery. | Use a strong password for security. | Set your preferred language before starting tours for the best experience. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#tips",
     "relUrl": "/help_center/user-guide.html#tips"
-  },"41": {
+  },"45": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
