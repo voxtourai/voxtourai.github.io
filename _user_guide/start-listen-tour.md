@@ -5,7 +5,7 @@ parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
 order: 4
 ---
 
-## Start & Listen to a Tour 1
+## Start & Listen to a Tour
 
 Once you choose a tour, VoxTour.ai makes it easy to preview the route, review stops, and start listening at your own pace.
 
