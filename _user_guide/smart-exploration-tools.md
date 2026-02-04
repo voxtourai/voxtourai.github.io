@@ -21,6 +21,8 @@ These tools are available from the **Smart Tools menu** inside the mobile app.
     - **Navigator**
     - **Frame**
 
+![Access Smart Exploration Tools]({{ site.baseurl }}/assets/images/smart-tools-menu.webp)
+
 ---
 
 ## Navigator
@@ -47,6 +49,8 @@ Navigator allows you to explore cities naturally without manually selecting stop
 3. Allow location access if prompted
 4. Start walking — VoxTour.ai will automatically guide you
 
+![Navigator]({{ site.baseurl }}/assets/images/smart-tools-navigator.webp)
+
 ---
 
 ## Frame (Image Recognition)
@@ -71,6 +75,8 @@ Frame allows spontaneous discovery without searching or browsing tours.
 3. Upload or capture an image
 4. Wait while the AI processes the request
 5. The story will be generated once recognition is complete
+
+![Frame]({{ site.baseurl }}/assets/images/smart-tools-frame.webp)
 
 ---
 
