@@ -163,46 +163,52 @@
   },"27": {
     "doc": "User Guide",
     "title": "Find Your City &amp; Tours",
-    "content": "VoxTour.ai lets you explore cities in a flexible way. You can discover curated tours or explore individual points of interest (POIs) directly from the map. You can browse cities, tours, and places without signing in. To listen to audio stories, you’ll need to sign in. Step 1: Search for a city . On desktop: On the home page, use the Search by destination field to enter a city name (for example, Rome or Paris), then select it from the results. On mobile: Tap the search field, type a city name, and select it from the list. Step 2: Explore the city map . After selecting a city, you’ll see: . | a map with numbered and icon-based POIs | a list of available tours for that city | . The map and the tour list work together, you can explore visually or browse tours first. Step 3: Explore individual places (POIs) . You don’t have to follow a tour to explore. Tap or click any POI icon on the map to open a place preview. Each POI preview shows: . | place name and category | rating (if available) | available audio languages | a short description | . This is ideal if you want to: . | explore freely | listen only to places nearby | stop and play audio whenever something catches your eye | . Step 4: Browse tours in the list . The tour list shows curated routes created to help you explore a city around a theme or area. Each tour card includes: . | Tour title | Rating | Estimated duration | Total distance | Number of stops (locations) | . These details help you quickly compare tours and choose one that fits your time and walking preferences. Step 5: Check available languages . Next to the tour rating, you may see one or more language icons (for example 🇺🇸 🇫🇷 🇮🇹). These icons indicate the languages in which the tour audio is available. Choose a tour that matches the language you want to listen in. Step 6: Preview the tour route on the map . Tours include a route icon (map/book icon) next to the Open button. Tap or click this icon to: . | display the full tour route on the map | see how all tour stops are connected | understand the walking path before starting | . This is helpful if you want to check distances, walking direction, or how the tour fits into your plans. Step 7: Open a tour . Select Open to view the full tour page. From there, you can: . | see all included locations | check detailed tour information | choose your listening language | start the tour after signing in | . Choose how you want to explore . With VoxTour.ai, you can: . | follow a complete tour from start to finish | listen to individual POIs in any order | combine both approaches depending on your mood and time | . Tip: If you’re short on time, explore nearby POIs. If you want a deeper, guided experience, choose a tour and follow its route at your own pace. Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
+    "content": "VoxTour.ai lets you explore cities in a flexible way. You can discover curated tours or explore individual points of interest (POIs) directly from the map. You can browse cities, tours, and places without signing in. To listen to audio stories, you’ll need to sign in. Step 1: Search for a city . On desktop: On the home page, use the Search by destination field to enter a city name (for example, Rome or Paris), then select it from the results. On mobile: Tap the search field, type a city name, and select it from the list. Step 2: Explore the city map . After selecting a city, you’ll see: . | a map with numbered and icon-based POIs | a list of available tours for that city | . The map and the tour list work together, you can explore visually or browse tours first. Step 3: Explore individual places (POIs) . You don’t have to follow a tour to explore. Tap or click any POI icon on the map to open a place preview. Each POI preview shows: . | place name and category | rating (if available) | available audio languages | a short description | . This is ideal if you want to: . | explore freely | listen only to places nearby | stop and play audio whenever something catches your eye | . Step 4: Browse tours in the list . The tour list shows curated routes created to help you explore a city around a theme or area. Each tour card includes: . | Tour title | Rating | Estimated duration | Total distance | Number of stops (locations) | . These details help you quickly compare tours and choose one that fits your time and walking preferences. Step 5: Check available languages . Next to the tour rating, you may see one or more language icons (for example 🇺🇸 🇫🇷 🇮🇹). These icons indicate the languages in which the tour audio is available. Choose a tour that matches the language you want to listen in. Step 6: Preview the tour route on the map . Tours include a route icon (map/book icon) next to the Open button. Tap or click this icon to: . | display the full tour route on the map | see how all tour stops are connected | understand the walking path before starting | . This is helpful if you want to check distances, walking direction, or how the tour fits into your plans. Step 7: Open a tour . Select Open to view the full tour page. From there, you can: . | see all included locations | check detailed tour information | choose your listening language | start the tour after signing in | . Choose how you want to explore . With VoxTour.ai, you can: . | follow a complete tour from start to finish | listen to individual POIs in any order | combine both approaches depending on your mood and time | . Tip: If you’re short on time, explore nearby POIs. If you want a deeper, guided experience, choose a tour and follow its route at your own pace. Start &amp; Listen to a Tour ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#find-your-city--tours",
     "relUrl": "/help_center/user-guide.html#find-your-city--tours"
   },"28": {
+    "doc": "User Guide",
+    "title": "Start &amp; Listen to a Tour",
+    "content": "Account Management Managing your account profile is quick and straightforward. Follow these steps to edit your personal details like your first name, last name, nickname, and birth year. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#start--listen-to-a-tour",
+    "relUrl": "/help_center/user-guide.html#start--listen-to-a-tour"
+  },"29": {
     "doc": "User Guide",
     "title": "How to Access the Profile Edit Page",
     "content": ". | Log in to your account. | Navigate to the Profile section. | Click on the Edit Profile icon (the pencil icon) located near your profile picture. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#how-to-access-the-profile-edit-page",
     "relUrl": "/help_center/user-guide.html#how-to-access-the-profile-edit-page"
-  },"29": {
+  },"30": {
     "doc": "User Guide",
     "title": "Editing Your Profile Information",
     "content": "On the Edit Profile page, you can modify the following fields: . | First Name: Update your first name as it will appear on your profile. | Last Name: Change your last name to reflect updated information. | Nickname: Add or edit your nickname for a more personalized touch. | Birth Year: Adjust your birth year to ensure your profile is accurate. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#editing-your-profile-information",
     "relUrl": "/help_center/user-guide.html#editing-your-profile-information"
-  },"30": {
+  },"31": {
     "doc": "User Guide",
     "title": "Saving Changes",
     "content": ". | After updating the necessary fields, click the Save button at the top right corner of the page. | Your changes will be saved immediately, and your profile will be updated. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#saving-changes",
     "relUrl": "/help_center/user-guide.html#saving-changes"
-  },"31": {
+  },"32": {
     "doc": "User Guide",
     "title": "Viewing Updated Profile",
     "content": ". | Once saved, you will be automatically redirected to the Profile page where you can verify the updated information in your profile summary. | Verify the updated information in your profile summary, which includes your name and other relevant details. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#viewing-updated-profile",
     "relUrl": "/help_center/user-guide.html#viewing-updated-profile"
-  },"32": {
+  },"33": {
     "doc": "User Guide",
     "title": "Additional Notes",
     "content": ". | Profile Picture: You can also update your profile picture by clicking the pencil icon over your avatar. | Some fields may not be editable depending on your account type or permissions. | If you encounter any issues while editing your profile, contact our support team for assistance. | . By following the steps above, you can easily manage your account details to ensure your profile stays accurate and up-to-date. Settings ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#additional-notes",
     "relUrl": "/help_center/user-guide.html#additional-notes"
-  },"33": {
+  },"34": {
     "doc": "User Guide",
     "title": "Settings",
     "content": " ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#settings",
     "relUrl": "/help_center/user-guide.html#settings"
-  },"34": {
+  },"35": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
