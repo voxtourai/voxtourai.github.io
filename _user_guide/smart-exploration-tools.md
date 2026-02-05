@@ -3,6 +3,7 @@ layout: default
 title: Smart Exploration Tools
 parent_url: "https://support.voxtour.ai/help_center/user-guide.html"
 order: 5
+lang: en
 ---
 ## Smart Exploration Tools (Mobile Only)
 
