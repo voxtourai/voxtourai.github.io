@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-parent: Help Center
+parent: Centre d'aide
 description: "La section FAQ vous aide à trouver rapidement des réponses aux questions les plus courantes sur VoxTour.ai. Que vous ayez besoin d’aide pour démarrer une visite, utiliser des outils intelligents comme Navigator ou Frame, gérer votre compte ou résoudre des problèmes techniques, vous trouverez ici des explications courtes et claires. Si vous avez besoin d’instructions détaillées, les réponses FAQ incluent des liens vers des articles complets du Guide d’utilisation."
 nav_order: 4
 permalink: /help_center/faq.html

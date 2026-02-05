@@ -1,7 +1,7 @@
 ---
 layout: default
 title: FAQ
-parent: Help Center
+parent: מרכז עזרה
 description: "מדור ה-FAQ עוזר לך למצוא במהירות תשובות לשאלות הנפוצות ביותר על VoxTour.ai. בין אם אתה צריך עזרה בהתחלת סיור, שימוש בכלים חכמים כמו Navigator או Frame, ניהול החשבון שלך או פתרון בעיות טכניות, כאן תמצא הסברים קצרים וברורים. אם אתה צריך הוראות מפורטות, תשובות ה-FAQ כוללות קישורים למאמרים מלאים במדריך המשתמש."
 nav_order: 4
 permalink: /help_center/faq.html
