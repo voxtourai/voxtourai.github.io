@@ -1,7 +1,7 @@
 ---
 layout: help_center
 title: "Is VoxTour free to use?"
-parent_url: "https://support.voxtour.ai/help_center/features-overview.html"
+parent_url: "https://support.voxtour.ai/help_center/faq.html"
 order: 1
 ---
 
