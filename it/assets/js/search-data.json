@@ -169,82 +169,106 @@
   },"28": {
     "doc": "Guida all’uso",
     "title": "Avviare e ascoltare un tour",
-    "content": "Dopo aver scelto un tour, VoxTour.ai consente di visualizzare il percorso, consultare le tappe e ascoltare al proprio ritmo. Passo 1: Aprire la pagina del tour . Dalla schermata della città, tocca o clicca Open. La pagina mostra: . | Panoramica del tour | Valutazione e lingue disponibili | Distanza e durata stimate | Numero di tappe | Elenco completo dei POI | . Passo 2: Selezionare la lingua . Seleziona la lingua vicino al pulsante Start Tour. Passo 3: Visualizzare le tappe . Tocca Start Tour. Se non sei connesso, verrà richiesto il login. Ogni tappa include: . | Numero e nome | Foto | Pulsante Visit | Pulsante Direction | . Passo 4: Anteprima del percorso . Su mobile la mappa si centra sulla tua posizione. Su desktop la mappa appare accanto al tour. Passo 5: Ascoltare una tappa . Tocca Visit per avviare il player audio. Passo 6: Navigazione . Il pulsante Direction apre la navigazione. Passo 7: Player audio . Puoi: . | Mettere in pausa | Cambiare velocità | Passare tra tappe | . Passo 8: Esplorare durante il tour . Puoi usare la mappa o scegliere manualmente una tappa. Esperienza flessibile . Segui il tour o esplora liberamente. Suggerimento: Controlla il percorso prima di iniziare. Gestione dell'account Gestire il profilo del tuo account è semplice e veloce. Segui questi passaggi per modificare i tuoi dati personali, come nome, cognome, nickname e anno di nascita. ",
+    "content": "Dopo aver scelto un tour, VoxTour.ai consente di visualizzare il percorso, consultare le tappe e ascoltare al proprio ritmo. Passo 1: Aprire la pagina del tour . Dalla schermata della città, tocca o clicca Open. La pagina mostra: . | Panoramica del tour | Valutazione e lingue disponibili | Distanza e durata stimate | Numero di tappe | Elenco completo dei POI | . Passo 2: Selezionare la lingua . Seleziona la lingua vicino al pulsante Start Tour. Passo 3: Visualizzare le tappe . Tocca Start Tour. Se non sei connesso, verrà richiesto il login. Ogni tappa include: . | Numero e nome | Foto | Pulsante Visit | Pulsante Direction | . Passo 4: Anteprima del percorso . Su mobile la mappa si centra sulla tua posizione. Su desktop la mappa appare accanto al tour. Passo 5: Ascoltare una tappa . Tocca Visit per avviare il player audio. Passo 6: Navigazione . Il pulsante Direction apre la navigazione. Passo 7: Player audio . Puoi: . | Mettere in pausa | Cambiare velocità | Passare tra tappe | . Passo 8: Esplorare durante il tour . Puoi usare la mappa o scegliere manualmente una tappa. Esperienza flessibile . Segui il tour o esplora liberamente. Suggerimento: Controlla il percorso prima di iniziare. Strumenti di Esplorazione Intelligente ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#avviare-e-ascoltare-un-tour",
     "relUrl": "/help_center/user-guide.html#avviare-e-ascoltare-un-tour"
   },"29": {
+    "doc": "Guida all’uso",
+    "title": "Strumenti di Esplorazione Intelligente (Solo Mobile)",
+    "content": "VoxTour.ai include strumenti intelligenti di esplorazione mobile che ti aiutano a scoprire automaticamente storie intorno a te o identificare monumenti utilizzando l’IA. Questi strumenti sono disponibili dal menu Smart Tools all’interno dell’app mobile. Accedere agli Strumenti di Esplorazione Intelligente . | Apri l’app mobile VoxTour.ai | Apri la schermata della mappa | Tocca il pulsante Smart Tools | Seleziona: . | Navigator | Frame | . | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#strumenti-di-esplorazione-intelligente-solo-mobile",
+    "relUrl": "/help_center/user-guide.html#strumenti-di-esplorazione-intelligente-solo-mobile"
+  },"30": {
+    "doc": "Guida all’uso",
+    "title": "Navigator",
+    "content": "Navigator fornisce narrazione automatica basata sulla posizione mentre cammini o esplori. Come funziona Navigator . Quando attivi Navigator: . | Il sistema rileva la tua posizione attuale | VoxTour.ai cerca i Punti di Interesse (POIs) più vicini intorno a te | Quando ti muovi e attraversi i confini dei POI: . | L’app avvia automaticamente la storia | Il sistema determina da quale direzione ti stai avvicinando | La storia si adatta in base alla tua posizione e al movimento | . | . Navigator ti permette di esplorare le città in modo naturale senza selezionare manualmente le fermate. Come utilizzare Navigator . | Apri Smart Exploration Tools | Tocca Navigator | Consenti l’accesso alla posizione se richiesto | Inizia a camminare — VoxTour.ai ti guiderà automaticamente | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#navigator",
+    "relUrl": "/help_center/user-guide.html#navigator"
+  },"31": {
+    "doc": "Guida all’uso",
+    "title": "Frame (Riconoscimento Immagini)",
+    "content": "Frame utilizza il riconoscimento immagini tramite IA per identificare monumenti e generare storie audio. Come funziona Frame . Quando utilizzi Frame: . | Carichi o catturi un’immagine di un monumento o oggetto | VoxTour.ai analizza l’immagine utilizzando l’IA | Il sistema identifica la posizione o l’oggetto | Una storia o spiegazione correlata viene generata automaticamente | . Frame consente una scoperta spontanea senza cercare o sfogliare tour. Come utilizzare Frame . | Apri Smart Exploration Tools | Tocca Frame | Carica o cattura un’immagine | Attendi mentre l’IA elabora la richiesta | La storia verrà generata una volta completato il riconoscimento | . ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#frame-riconoscimento-immagini",
+    "relUrl": "/help_center/user-guide.html#frame-riconoscimento-immagini"
+  },"32": {
+    "doc": "Guida all’uso",
+    "title": "Suggerimenti per Migliori Risultati",
+    "content": ". | Attiva i servizi di localizzazione quando utilizzi Navigator | Usa foto chiare e ben illuminate quando utilizzi Frame | Posizionati di fronte al monumento per migliorare la precisione del riconoscimento | Consenti alcuni momenti per l’elaborazione IA quando utilizzi Frame | . ⚠️ Gli Strumenti di Esplorazione Intelligente sono disponibili solo su dispositivi mobili. Gestione dell'account Gestire il profilo del tuo account è semplice e veloce. Segui questi passaggi per modificare i tuoi dati personali, come nome, cognome, nickname e anno di nascita. ",
+    "url": "https://support.voxtour.ai/help_center/user-guide.html#suggerimenti-per-migliori-risultati",
+    "relUrl": "/help_center/user-guide.html#suggerimenti-per-migliori-risultati"
+  },"33": {
     "doc": "Guida all’uso",
     "title": "Come accedere alla pagina di modifica del profilo",
     "content": ". | Accedi al tuo account. | Vai alla sezione Profilo. | Fai clic sull’icona Modifica profilo (l’icona della matita) vicino alla tua foto profilo. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#come-accedere-alla-pagina-di-modifica-del-profilo",
     "relUrl": "/help_center/user-guide.html#come-accedere-alla-pagina-di-modifica-del-profilo"
-  },"30": {
+  },"34": {
     "doc": "Guida all’uso",
     "title": "Modifica delle informazioni del profilo",
     "content": "Nella pagina Modifica profilo, puoi cambiare i seguenti campi: . | Nome: Aggiorna il tuo nome così come apparirà nel profilo. | Cognome: Modifica il cognome per riflettere le informazioni aggiornate. | Nickname: Aggiungi o modifica il tuo nickname per un tocco più personale. | Anno di nascita: Regola l’anno di nascita per mantenere il profilo accurato. | . [] . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#modifica-delle-informazioni-del-profilo",
     "relUrl": "/help_center/user-guide.html#modifica-delle-informazioni-del-profilo"
-  },"31": {
+  },"35": {
     "doc": "Guida all’uso",
     "title": "Salvataggio delle modifiche",
     "content": ". | Dopo aver aggiornato i campi necessari, fai clic sul pulsante Salva nell’angolo in alto a destra della pagina. | Le modifiche verranno salvate immediatamente e il tuo profilo sarà aggiornato. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#salvataggio-delle-modifiche",
     "relUrl": "/help_center/user-guide.html#salvataggio-delle-modifiche"
-  },"32": {
+  },"36": {
     "doc": "Guida all’uso",
     "title": "Visualizzare il profilo aggiornato",
     "content": ". | Una volta salvato, verrai reindirizzato automaticamente alla pagina Profilo, dove potrai verificare le informazioni aggiornate nel riepilogo del profilo. | Verifica le informazioni aggiornate nel riepilogo del profilo, che include il tuo nome e altri dettagli rilevanti. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#visualizzare-il-profilo-aggiornato",
     "relUrl": "/help_center/user-guide.html#visualizzare-il-profilo-aggiornato"
-  },"33": {
+  },"37": {
     "doc": "Guida all’uso",
     "title": "Note aggiuntive",
     "content": ". | Foto profilo: Puoi anche aggiornare la tua foto profilo facendo clic sull’icona della matita sul tuo avatar. | Alcuni campi potrebbero non essere modificabili a seconda del tipo di account o dei permessi. | Se riscontri problemi durante la modifica del profilo, contatta il nostro team di supporto per assistenza. | . Seguendo i passaggi sopra indicati, puoi gestire facilmente i dettagli del tuo account per mantenere il profilo aggiornato. Impostazioni ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#note-aggiuntive",
     "relUrl": "/help_center/user-guide.html#note-aggiuntive"
-  },"34": {
+  },"38": {
     "doc": "Guida all’uso",
     "title": "Impostazioni",
     "content": "VoxTour.ai ti consente di gestire facilmente le credenziali del tuo account, le preferenze di lingua e le impostazioni del profilo dal menu Impostazioni. Le impostazioni sono disponibili sia su mobile che su desktop, e le funzionalità sono le stesse su tutte le piattaforme. Passo 1: Aprire Impostazioni . Su mobile: . | Tocca il tuo avatar del profilo nell’angolo in alto a destra. | Tocca Impostazioni. | . Su desktop: . | Fai clic sul tuo avatar del profilo nell’angolo in alto a destra. | Seleziona Impostazioni dal menu a discesa. | . Passo 2: Aprire Impostazioni generali . All’interno del menu Impostazioni, tocca o fai clic su Generale. Questa sezione contiene le credenziali del tuo account, le preferenze di lingua e le opzioni di gestione dell’account. ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#impostazioni",
     "relUrl": "/help_center/user-guide.html#impostazioni"
-  },"35": {
+  },"39": {
     "doc": "Guida all’uso",
     "title": "Credenziali",
     "content": "La sezione Credenziali mostra il tuo indirizzo email registrato e ti consente di aggiornare i dati di accesso. Cambiare indirizzo email . | Tocca o fai clic su Cambia email | Inserisci: . | Nuovo indirizzo email | Conferma indirizzo email | Password attuale | . | Tocca o fai clic su Salva | . Se non ricordi la password, esci e utilizza il reset della password. Cambiare password . | Tocca o fai clic su Cambia password | Inserisci: . | Password attuale | Nuova password | Conferma nuova password | . | Tocca o fai clic su Salva | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#credenziali",
     "relUrl": "/help_center/user-guide.html#credenziali"
-  },"36": {
+  },"40": {
     "doc": "Guida all’uso",
     "title": "Stato accesso social",
     "content": "Questa sezione mostra come è collegato il tuo account. Esempio: . | Account locale (email e password) | Provider di accesso social (se collegato) | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#stato-accesso-social",
     "relUrl": "/help_center/user-guide.html#stato-accesso-social"
-  },"37": {
+  },"41": {
     "doc": "Guida all’uso",
     "title": "Preferenze lingua",
     "content": "Puoi cambiare la lingua dell’interfaccia dell’app in qualsiasi momento. Per cambiare lingua: . | Tocca o fai clic sulla lingua corrente | Seleziona una nuova lingua dall’elenco | L’app si aggiorna automaticamente | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#preferenze-lingua",
     "relUrl": "/help_center/user-guide.html#preferenze-lingua"
-  },"38": {
+  },"42": {
     "doc": "Guida all’uso",
     "title": "Elimina account",
     "content": "Puoi eliminare definitivamente il tuo account VoxTour.ai dalle Impostazioni. ⚠️ L’eliminazione dell’account: . | Rimuove i dati dell’account in modo permanente | Non può essere annullata | Può rimuovere tour salvati e preferenze | . Per eliminare l’account: . | Tocca o fai clic su Elimina il tuo account | Conferma la decisione quando richiesto | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#elimina-account",
     "relUrl": "/help_center/user-guide.html#elimina-account"
-  },"39": {
+  },"43": {
     "doc": "Guida all’uso",
     "title": "Sezioni aggiuntive delle impostazioni",
     "content": "A seconda del tuo account e delle funzionalità abilitate, potresti vedere anche: . | VoxLens – Impostazioni di riconoscimento immagini e creazione di storie con AI | VoxRoute – Preferenze tour e navigazione | VoxExplore – Impostazioni di scoperta ed esplorazione | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#sezioni-aggiuntive-delle-impostazioni",
     "relUrl": "/help_center/user-guide.html#sezioni-aggiuntive-delle-impostazioni"
-  },"40": {
+  },"44": {
     "doc": "Guida all’uso",
     "title": "Suggerimenti",
     "content": ". | Mantieni aggiornata la tua email per garantire il recupero dell’accesso. | Usa una password sicura per maggiore protezione. | Imposta la lingua preferita prima di iniziare i tour per la migliore esperienza. | . ",
     "url": "https://support.voxtour.ai/help_center/user-guide.html#suggerimenti",
     "relUrl": "/help_center/user-guide.html#suggerimenti"
-  },"41": {
+  },"45": {
     "doc": "Widgets",
     "title": "Widgets",
     "content": "Desktop Widget (800px x 700px) Mobile Widget (400px x 700px) ",
