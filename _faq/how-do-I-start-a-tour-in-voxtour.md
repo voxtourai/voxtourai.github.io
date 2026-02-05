@@ -21,7 +21,7 @@ You can start from any stop and explore tours in any order.
 ---
 
 💡 **Tip:**  
-For a detailed, step-by-step explanation, please visit the **[User Guide](https://support.voxtour.ai/help_center/user-guide.html)** section:
+For a detailed, step-by-step explanation, please visit the **[User Guide](https://support.voxtour.ai/help_center/user-guide.html)** section
 
 
 

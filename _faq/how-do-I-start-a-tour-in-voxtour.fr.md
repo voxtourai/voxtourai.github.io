@@ -21,7 +21,7 @@ Vous pouvez commencer à partir de n’importe quel arrêt et explorer les visit
 ---
 
 💡 **Astuce :**  
-Pour une explication détaillée étape par étape, consultez la section **[Guide d’utilisation](https://support.voxtour.ai/fr/help_center/user-guide.html)**:
+Pour une explication détaillée étape par étape, consultez la section **[Guide d’utilisation](https://support.voxtour.ai/fr/help_center/user-guide.html)**
 
 
 

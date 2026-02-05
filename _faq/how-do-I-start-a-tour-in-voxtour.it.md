@@ -21,5 +21,5 @@ Puoi iniziare da qualsiasi tappa ed esplorare i tour in qualsiasi ordine.
 ---
 
 💡 **Suggerimento:**  
-Per una spiegazione dettagliata passo dopo passo, visita la sezione **[Guida Utente](https://support.voxtour.ai/it/help_center/user-guide.html)**:
+Per una spiegazione dettagliata passo dopo passo, visita la sezione **[Guida Utente](https://support.voxtour.ai/it/help_center/user-guide.html)**
 
