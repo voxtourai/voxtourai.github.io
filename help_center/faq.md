@@ -10,7 +10,7 @@ permalink: /help_center/faq.html
 # Frequently Asked Questions
 
 {% assign active_lang = site.active_lang | default: site.default_lang %}
-{% assign sorted_items = site.features_overview | sort: 'order' %}
+{% assign sorted_items = site.faq | sort: 'order' %}
 {% if active_lang == site.default_lang %}
 {% assign filtered_items = sorted_items | where_exp: "item", "item.lang == nil or item.lang == active_lang" %}
 {% else %}
