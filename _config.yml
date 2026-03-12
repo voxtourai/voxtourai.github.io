@@ -64,3 +64,6 @@ collections:
   apis:
     output: true
     permalink: /api/references/:title/
+  integration:
+    output: true
+    permalink: /api/integration/:title/
