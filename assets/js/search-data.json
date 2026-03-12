@@ -139,7 +139,7 @@
   },"23": {
     "doc": "VoxTour Integration",
     "title": "3. Insert a VoxTour Audio Guide into a Page or Post",
-    "content": "You can display any VoxTour audio guide using the shortcode below: . [voxtour tour=\"TOUR_ID\" locale=\"en\"] . Example . [voxtour tour=\"29b24f5b-5b55-42bd-9964-7ae51f1a877b\" locale=\"en\"] . Where: . | Parameter | Description | . | tour | The unique tour ID provided by VoxTour | . | locale | Language of the tour (e.g. en, ru, etc.) | . ",
+    "content": "You can display any VoxTour audio guide using the shortcode below: . [voxtour tour=\"TOUR_ID\" locale=\"en\"] . Example . [voxtour tour=\"29b24f5b-5b55-42bd-9964-7ae51f1a877b\" locale=\"en\"] . Where: . | Parameter | Description | . | tour | The unique tour ID provided by VoxTour | . | locale | Language of the tour (e.g. en, ru, etc.). By defalt en | . ",
     "url": "https://support.voxtour.ai/api/integration.html#3-insert-a-voxtour-audio-guide-into-a-page-or-post",
     "relUrl": "/api/integration.html#3-insert-a-voxtour-audio-guide-into-a-page-or-post"
   },"24": {
