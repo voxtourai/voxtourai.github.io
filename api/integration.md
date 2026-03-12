@@ -11,10 +11,10 @@ VoxTour integrations allow developers, partners, and content platforms to embed 
 
 Using VoxTour’s widgets, APIs, and platform tools, you can easily add immersive audio tours to travel websites, tourism portals, blogs, mobile apps, and other digital products.
 
-VoxTour integrations are designed to be simple to implement while remaining flexible for a wide range of use cases — from embedding a single audio guide on a blog post to powering large-scale travel platforms.
+VoxTour integrations are designed to be simple to implement while remaining flexible for a wide range of use cases, from embedding a single audio guide on a blog post to powering large-scale travel platforms.
 
 {% assign active_lang = site.active_lang | default: site.default_lang %}
-{% assign sorted_items = site.faq | sort: 'order' %}
+{% assign sorted_items = site.integration | sort: 'order' %}
 {% if active_lang == site.default_lang %}
 {% assign filtered_items = sorted_items | where_exp: "item", "item.lang == nil or item.lang == active_lang" %}
 {% else %}
