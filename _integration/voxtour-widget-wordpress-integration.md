@@ -53,10 +53,10 @@ You can display any VoxTour audio guide using the shortcode below:
 
 Where:
 
-| Parameter  | Description                                  |
-| ---------- | -------------------------------------------- |
-| **tour**   | The unique tour ID provided by VoxTour       |
-| **locale** | Language of the tour (e.g. `en`, `ru`, etc.) |
+| Parameter  | Description                                                   |
+| ---------- |---------------------------------------------------------------|
+| **tour**   | The unique tour ID provided by VoxTour                        |
+| **locale** | Language of the tour (e.g. `en`, `ru`, etc.). By defalt `en`  |
 
 ---
 
